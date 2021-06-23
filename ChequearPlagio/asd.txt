@@ -1,2 +1,8 @@
-hola. hola.
-soy juan
+ALUMNO: MATIAS DAVID CHOREN
+
+El texto académico. Una definición
+Un texto académico[1] es un tipo de documento que se produce en el marco institucional del quehacer científico y académico. Su propósito fundamental es difundir ante colegas y la sociedad los conocimientos generados a partir de un trabajo de análisis, reflexión e investigación. Según Padrón (1996),
+
+(…) si presuponemos una definición ordinaria de lo “académico” como un ámbito particular en que se desarrollan actividades de producción y transmisión del conocimiento institucionalizado, entonces serán textos académicos todos aquellos productos comunicativos (físicamente perceptibles o “leíbles”) que se generan en ese ámbito. (…) Es por eso que el TA [texto académico] tiene un carácter eminentemente institucional y corresponde a un esquema comunicativo particularmente diferenciado de los esquemas individuales, domésticos o cotidianos (…).
+
+Leamos el siguiente texto y determinemos si contiene o no un argumento.
