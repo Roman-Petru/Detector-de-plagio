@@ -1,0 +1,124 @@
+[]
+
+Marketing en Internet y Nueva Economía
+
+CURSO: K5052  -  1 CUAT. 2017
+
+Profesor: Alejandro Prince
+Fecha de entrega: 24/04/2017
+
++----------------------+-------------+-------------------------+
+|   NOMBRE Y APELLIDO  |   LEGAJO N° |   EMAIL CONTACTO        |
++======================+=============+=========================+
+|   Brian Daniel Leder |   146.641-0 |   briandleder@gmail.com |
++----------------------+-------------+-------------------------+
+
+La sociedad de costo marginal cero; Jeremy Rifkin - capítulos 1 y 5
+
+1)  Puede describir el vínculo entre las leyes de la termodinámica de
+      Newton y la “factura entrópica”.
+
+Se puede establecer un vínculo entre las leyes de la termodinámica y la
+actividad económica ya que esta aprovecha la energía disponible en cada
+paso del proceso de producción, almacenamiento y distribución para
+convertir recursos en productos y servicios.
+
+Los bienes producidos se consumen, se desechan y se devuelven a la
+naturaleza con otro aumento de entropía.
+
+2)  Podría caracterizar la Primera y Segunda revolución industrial al
+      decir de Rifkin? Qué inventos son las metáforas de cada
+      infraestructura en cada una de esas etapas.
+
+La primera revolución industrial se basó en el traspaso de una
+producción industrial artesanal a otra caracterizada por ser producir en
+masa.
+
+En la segunda revolución industrial el modelo de poder sigue siendo
+piramidal y concentrado. Para obtener economías de escala, utilizan los
+modelos centralizados de producción.
+
+Metáforas:
+
+-   Impresora a vapor.
+
+-   Telégrafo.
+
+-   La radio.
+
+-   La televisión.
+
+3)  ¿Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+      3ra revolución industrial?
+
+Aportará a la 3ra revolución industrial la posibilidad de unificar la
+comunicación, energía y logística en uno; pudiendo ser capaces de tener
+una Internet de la comunicación, un internet de la energía y un Internet
+de la logística que optimicen al máximo los procesos, al disponer de una
+infraestructura muy potente y unificada a un costo marginal cercano a
+cero. Todo esto permite que la sociedad pueda optar a la demanda de
+muchísimos productos y servicios a costo marginal cero.
+
+4)  Qué entiende Rifkin por una producción abierta, distribuida y
+      colaborativa?
+
+Entiende por producción abierta, distribuida y colaborativa a la que
+permite a cualquier persona fabricar lo que consume y compartir con
+todos, la información, los procesos, y el sobrante producido a modo de
+lograr conseguir un costo marginal cero.
+
+5)  Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+      límites le ve Ud. a los procomunes como forma de producción?
+
+Como ejemplo podría mencionarse a Wikipedia, que trabaja bajo el
+concepto de la cooperación. Esto permite a las personas compartir y
+colaborar en el contenido de los temas que posee. El límite principal
+que veo es que hay personas dispuestas a colaborar para realizar algo,
+pero también hay personas que colaboran de mala forma, maliciosamente.
+
+Algunos límites que encuentro es que no todas las personas están
+dispuestas a colaborar para producir algo, como también que algunas de
+esas personas que colaboran, sus intenciones sean maliciosas.
+
+6)  A la sociedad /economía del conocimiento, entendida como la 3ra
+      revolución de Rifkin, cuál de las infraestructuras claves estaría
+      más demorada y por qué? Qué estaría faltando?
+
+La infraestructura que estaría más demorada es la de la energía
+renovable porque hoy en día algunas empresas siguen utilizando como
+fuente de energía al petróleo. Para lograr finalizar con esta
+infraestructura, el petróleo debería agotarse o de alguna manera se
+debería fomentar/obligar, a las empresas que lo utilizan, adopten otro
+tipo de energía. Para ello se puede impulsar el uso de la energía solar,
+eólica, etc.
+
+7)  Cómo funcionaría (o se garantizaría) la “innovación” bajo el
+      procomún, comparado con el sistema capitalista?
+
+Teniendo en consideración el procomún, la innovación se garantiza a
+través del beneficio social en lugar de un beneficio económico. A
+diferencia de un sistema capitalista, en donde se coloca en primer lugar
+al beneficio económico ya justifica que es imposible crear nuevos
+productos si todo fuera gratuito.
+
+8)  Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+      actual de la economía, elija uno de estos “apellidos” y justifique
+      brevemente.
+
+  E. colaborativa
+
+  E. de la Información
+
+  E. del Conocimiento
+
+  E. Digital
+
+  E. Sustentable
+
+  E. intangible o “sin peso”
+
+  E. sin “fricción”.
+
+  En mi opinión, el estadio actual de la economía se podría caracterizar
+  en “del conocimiento” ya que se genera valor y riqueza por medio de la
+  transformación a información.

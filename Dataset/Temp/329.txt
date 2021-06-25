@@ -1,0 +1,65 @@
+Materia: Marketing en internet
+
+TP: N°6 -Sistemas emergentes
+
+Alumno: Hernán Filannino
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernán Borré y Maximiliano Bracho
+
+Curso: Lunes 1er cuatrimestre
+
+Año: 2017
+
+Preguntas:
+
+1) Cuáles son los 4 principios centrales del estudio de los sistemas
+emergentes?
+
+2) Describa en no más de 10 renglones la particular conducta del
+Dictiostellum y sus implicancias.
+
+3) Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+4) Describa los conceptos o conductas “adaptativas” y “complejas”.
+Describa sistema ascendente y sistema dinámico.
+
+5) Describa un sistema emergente o autoorganizativo y diferéncielo de un
+sistema evolutivo o del caos.
+
+Respuestas:
+
+1)  Los cuatro principios son:
+
+Interacción de vecinos, reconocimiento de patrones, retroalimentación y
+control indirecto.
+
+2) El moho de fango pasa buena parte de su vida como miles organismos
+unicelulares distintos, cada uno se mueve independientemente de sus
+otros compañeros. Bajo condiciones adecuadas, se junta en un solo
+organismo mayor que comienza a reptar pausadamente. Cuando el entorno es
+menos favorable, el moho de fango se comporta como un organismo aislado,
+cuando el tiempo es frío y el moho dispone cantidad de alimento mayor,
+él se transforma en “ellos”. Entonces pasan a ser una colonia.
+
+Entenderlos sería encontrar un ejemplo ideal para entender un
+comportamiento coordinado,dado que estos no poseían un “marcapasos” o
+alguien que los lidere y ordene juntarse: todas las células eran
+iguales.
+
+3) La desarrolló Turing, habla sobre la capacidad de desarrollar cuerpos
+cada vez más complejos a partir de orígenes muy simples, sin ninguna
+dirección o plan maestro.
+
+4) Este organismo es un sistema ascendente, es decir recurre a masas de
+elementos no inteligentes (relativamente), en vez de un solo brazo
+ejecutor inteligente. Extraen su inteligencia de la base(ascendente). Un
+sistema complejo es uno con agentes múltiples que interactúan en forma
+dinámica de múltiples maneras, siguiendo reglas locales e independientes
+de un superior. Es emergente porque sigue una macroconducta.
+
+5) Un sistema emergente es la evolución de reglas simples a más
+complejas, logrando una macroconducta observable. Un sistema evolutivo
+es irregular, impredecible. Son sistemas que en una condición inicial
+similar, evolucionan de forma distinta.

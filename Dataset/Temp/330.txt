@@ -1,0 +1,65 @@
+TP6 - Sistemas emergente
+
+1) Cuáles son los 4 principios centrales del estudio de los sistemas
+emergentes?
+
+-   Interacción con vecinos: Un patrol de nivel superior surge de las
+      interacciones paralelas entre agentes locales
+
+-   Reconocimiento de Patrones: Producto de las interacciones surgen
+      patrones que pueden ser identificables
+
+-   Retroalimentación: el sistema se nutre y aprende de su misma
+      interacciones
+
+-   Control Indirecto: Los agentes crean un orden superior sin
+      proponérselo y se rigen por ese orden.
+
+2) Describa en no más de 10 renglones la particular conducta del
+Dictiostellum y sus implicancias.
+
+El estudio del moho de fango permitió reconocer un comportamiento clave
+del mismo: mientras que parte de su vida se comporta como un organismo
+aislado, cuando las condiciones son favorables se transforman en una
+colonia y exhiben comportamiento similar a un grupo coordinado. Se
+observó que todas las células de la comunidad son intercambiables y
+ninguna desarrolla la función de "líder" o guía. El estudio de este
+comportamiento tuvo muchas implicaciones para los estudios de la
+conducta Bottom-Up, Software Ascendente y el desarrollo de comunidades
+virtuales dinámicas en Internet.
+
+3) Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+Es la capacidad de todos los seres vivos de desarrollar cuerpos u
+organismos más complejos a partir de otros muchos más simples. La teoría
+fue desarrollada por el matemático Alan Turing (uno de los padres de la
+computación)
+
+4) Describa los conceptos o conductas “adaptativas” y “complejas”.
+Describa sistema ascendente y sistema dinámico.
+
+El comportamiento complejo implica que múltiples actores interactúan de
+forma dinámica (siguiendo reglas locales e independientes de cualquier
+intervención de un medio superior). El comportamiento o sistema será
+adaptativo si producto de la interacción se genera un comportamiento de
+nivel superior adecuado para su entorno.
+
+Un sistema ascendente implica que la organización comienza en los
+niveles inferiores y se va propagando hacia los niveles superiores. Un
+sistema dinámico es un sistema que no está inerte sino que se va
+modificando constantemente en base a las interacciones de los
+individuos.
+
+5) Describa un sistema emergente o autoorganizativo y diferéncielo de un
+sistema evolutivo o del caos.
+
+Los sistemas emergente son sistemas que resuelven problemas en base a la
+interacción de elementos relativamente no inteligentes en lugar de
+recurrir a un solo elemento ejecutor inteligente. La inteligencia del
+sistema se da por las interacciones que ocurren en la base. Para poder
+ser emergente es necesario que se desarrollen patrones de conducta que
+resultan observables. Estos patrones se generan a partir de las
+interacciones en los niveles inferiores, A diferencia de los sistemas
+descriptos en la teoría del caos, donde los niveles inferiores
+establecen reglas determinísticas y de ahí van surgiendo conductas
+impredecibles.

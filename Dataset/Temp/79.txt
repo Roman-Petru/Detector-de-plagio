@@ -1,0 +1,451 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Marketing en 
+Internet 
+
+Trabajo Practico 7 – El dominio de la información 
+
+Juan Facundo Obregon 
+Legajo: 1202388 
+ 
+ 
+
+TEST DE LECTURA “EL DOMINIO DE LA INFORMACIÓN” - CAPÍTULO 2 
+
+1.  Explique  las  características  de  los  costos  de  los  bienes  de  información. 
+Analice  costos  fijos,  variables,  medios,  “enterrados”,  marginales,  de 
+producción y de reproducción etc. 
+ 
+
+Uno de los aspectos más importantes de los bienes de información es que su coste de 
+producción está determinado por el “coste de primera copia”. Una vez que se ha impreso 
+el primer ejemplar de un libro, el coste de imprimir el resto de la tirada es de solamente 
+unos pocos dólares.  
+
+La información que llega por una red en forma digital presenta el problema de la primera 
+copia  de  manera  exacerbada:  una  vez  que  se  ha  producido  la  primera  copia  de  la 
+información, las copias adicionales no cuestan prácticamente nada. La información es 
+cara de producir, pero barata de reproducir 
+
+  Los costos fijos: estos costos de producción son altos 
+  Los  costos  variables:  estos  costos  de  producción  son  bajos.  El  coste  de  producir 
+copias adicionales generalmente no aumenta, incluso en el caso de que se hagan 
+muchísimas copias. Ofrecen gran cantidad de oportunidades comerciales. 
+
+  costes  enterrados,  es  el  principal  componente  de  los  costos  fijos.  Son  costes  no 
+
+recuperables por mas que se detenga la producción 
+
+  Coste marginal: es el  coste de producir una copia “adicional”. 
+ 
+
+los costes de comercialización y promoción son muy importantes en la mayoría de 
+los bienes de información. Como ya dijimos en el capítulo 1, la atención es escasa 
+en la economía de la información, y los vendedores de contenido tienen que invertir 
+en la comercialización de nuevos productos para atraer la atención de los clientes 
+potenciales. 
+
+ 
+
+2.  Consecuencia de los costos de los bienes de información en sus políticas de 
+
+precios. Explique y comente el caso de guías telefónicas en CD. 
+
+La competencia, es la fuerza la que confluyen para que el precio se acerque al costo 
+marginal, es decir al costo de producir una copia “adicional”. 
+
+La información genérica en la Red –mercancías de información tales como números de 
+teléfono,  artículos  de  periódicos,  precios  de  las  acciones,  mapas  y  listines-  se  están 
+vendiendo simplemente a su coste marginal: cero.  
+
+Entonces  podemos  decir:  “La  competencia  entre  los  fabricantes  de  mercancías  de 
+información empuja el precio a cero”. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+El caso de las guías telefónicas en CD ilustra bien esto. Las compañías telefónicas no 
+estaban  dispuestas  a  ceder  a  precios  razonables  sus  listados  computarizados  a  las 
+compañías de CD, ya que no querían destruir, canibalizar, su propio mercado de 10.000 
+millones de dólares basado en las Páginas Amarillas.  
+Por tal motivo una empresa se encargo de contratar empleados de origen chino para 
+que  realicen  la  transcripción  manualmente  de  las  guías  en  papel  (pagando  a  cada 
+trabajador  3,50  dolares  diarios).  Una  vez  transcripta,  la  base  de  datos  resultantes 
+constaba de más de 70 millones de nombres. Estos datos se utilizaron para crear un 
+CD, del que se obtendrían posteriormente cientos de miles de copias.  
+Éstas, que costaban menos de un dólar de producir, se vendían por cientos de dólares 
+a principios de los noventa, produciendo beneficios considerables. Pero otros tuvieron 
+la  misma  idea,  y  en  pocos  años,  por  lo  menos  media  docena  de  empresas  se 
+encontraban  produciendo  listados  telefónicos  en  soporte  CD,  motivo  por  el  cual  los 
+precios bajaron en forma drástica. Se pueden comprar ahora listados en CD por menos 
+de 20 dólares e incluso hay varios listados en Internet que proporcionan gratuitamente 
+el mismo servicio y cubren sus costos con publicidad. 
+
+3.  Estructura típica de un mercado de bienes de información. Las dos estrategias 
+
+típicas, explique y de ejemplos. 
+
+Los costes enterrados elevados (Son costes no recuperables por mas que se detenga 
+la producción) y los costes marginales (coste de producir una copia “adicional”) bajos 
+de los mercados de información tienen efectos importantes sobre la estructura de los 
+mercados del sector de la información. Las dos estrategias típicas son las siguientes: 
+ 
+
+1.  El  modelo  de  empresa  dominante  puede  producir  o  no  el  “mejor”  producto, 
+pero  gracias  a  su  tamaño  y  a  sus  economías  de  escala,  disfruta  de  costes 
+menores que sus rivales más pequeños. El ejemplo de Microsoft es el favorito 
+de todo el mundo, ya que controla el mercado de los sistemas operativos de los 
+PCs. 
+
+2.  En un mercado de productos diferenciales tenemos una serie de empresas 
+que  producen  el  mismo  “tipo”  de  información,  pero  con  diferentes  variedades. 
+Esta  es  la  estructura  de  mercado  más  típica  de  los  bienes  de  información:  el 
+sector editorial, el cinematográfico, el de la televisión y el de algunas empresas 
+de software responden a este modelo 
+
+4.  Otras estrategias complementarias. Explique y ejemplifique. 
+ 
+Diferenciación: Diferenciar el producto de los demás disponibles. Algo que haga que 
+el producto sea visto como único. 
+Liderazgo  en  Costos:  Si  se  logra  obtener  el  máximo  volumen  de  ventas  los  costos 
+medios  serán  más  bajos.  Para  esto  es  fundamental  la  calidad  de  distribución  y  del 
+marketing. Ej: Microsoft Encarta. 
+
+Ser  el  primero:  La  mejor  manera  de  asegurarse  una  posición  de  liderazgo  en  el 
+mercado es con una presencia temprana combinada con una política de precios a largo 
+plazo. 
+Evitar la codicia: Sacrificar parte del margen a corto plazo rebajando los precios, de 
+manera  que  el  mercado  resulte  menos  atractivo  a  posibles  competidores  (Esto  se 
+conoce como limite pricing). 
+Jugar  fuerte:  Una  amenaza  creíble  de  que  se  reducirán  los  costos  si  entran  en  el 
+mercado puede que sea suficiente para convencer a los posibles competidores de que 
+no van a ser capaces de recuperar sus costos enterrados y se desanimarán de entrar 
+en el mercado. 
+
+5.  Precios  diferenciados  de  1er.  Grado  (“personalizados”).  Describa  y  de 
+
+ejemplos. 
+
+A la gente con determinado historial de compras, código postal o pauta de conducta, se 
+le ofrecían precios diferentes que a los demás. A la gente que compartía una serie de 
+características particulares se le ofrecían los mismos términos ventajosos. 
+
+  Personaliza productos y personaliza precios. Esto es mucho más fácil 
+de hacer en Internet que en prácticamente cualquier otro medio, ya que 
+existe una comunicación individualizada con los clientes. 
+
+  Conoce  a  tus  clientes.  Se  puede  aprender  sobre  las  características 
+demográficas de los consumidores obligándoles a registrarse y se puede 
+aprender  sobre  sus  intereses  analizando  su  secuencia  de  conexiones  y 
+sus búsquedas. 
+
+  Diferencia tus precios siempre que sea posible. Distintos consumidores 
+valoran  de  distinta  manera  un  producto.  Es  posible  ofrecer  precios 
+diferentes a consumidores diferentes según sus hábitos de compra y otras 
+características, como han hecho los supermercados. 
+
+  Usar  promociones  para  calibrar  la  demanda.    Las  promociones  para 
+estimar la sensibilidad a los precios son muy fáciles de llevar a cabo en 
+Internet, con lo que las investigaciones de mercado son un paseo. 
+
+ 
+
+Un ejemplo es aerolíneas argentinas. Tiene una plataforma en internet para la selección 
+de viajes con precios más económicos que LAN, su principal competencia. Conoce a 
+sus  clientes  porque  sabe  las  veces  que  viajó  y  sus  destinos  a  través  de  la  opción 
+“aerolíneas  plus”  y  existen  promociones  como  lo  son  para  viajeros  frecuentes, 
+estudiantes y pasajeros que compren con anticipación. 
+
+6.  Precios de 3er. Grado (“grupo”). Describa, ejemplifique y enuncie las razones para 
+
+no venderle a usuarios finales. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A veces se pueden fijar precios basándose directamente en la identidad de un grupo, 
+una estrategia a la que los economistas se refieren como “discriminación de precios de 
+tercer grado”. 
+ 
+  Sensibilidad  a  los  precios.  Si  los  miembros  de  distintos  grupos  difieren 
+sistemáticamente  en  su  sensibilidad  a  los  precios,  puede  resultar  rentable 
+ofrecerles precios diferentes. Un buen ejemplo son los descuentos a estudiantes y 
+a ciudadanos de tercera edad. 
+
+  Efectos de redes. Si la valoración que hace un particular de un producto depende 
+de cuántos otros miembros de su grupo utilizan ese producto, habrá mucho que 
+ganar  estandarizando  ese  producto.  Microsoft  ha  explotado  este  deseo  de 
+estandarización con la creación de Microsoft Office. 
+
+  Lock-in.  Si  una  organización  decide  adoptar  como  estándar  un  determinado 
+producto, le puede resultar después muy caro cambiar de producto en términos de 
+costes de coordinación y readiestramiento. Una vez más, Microsoft nos sirve como 
+claro ejemplo. 
+
+  Compartir.  En  muchos  casos,  a  un  usuario  particular  le  resulta  inconveniente 
+administrar u organizar todos los bienes de información que va a querer consumir. 
+Intermediarios  de  la  información  tales  como  bibliotecas  o  administradores  de 
+sistemas pueden llevar a cabo esta tarea de coordinación. 
+
+ 
+
+ 
+
+ 
+
+TEST DE LECTURA “EL DOMINIO DE LA INFORMACIÓN” - CAPÍTULO 7 (Excluye los 
+casos históricos) 
+
+ 
+
+ 
+
+ 
+
+1.  Diferencie  economía  de  escala  y  economía  de  redes.  Desarrolle  y  diferencie 
+
+feedback positivo del lado de la oferta y de la demanda. 
+
+La vieja economía industrial estaba impulsada por las economías de escala; la nueva economía 
+de la información está impulsada por la economía de las redes. 
+
+La noción de feedback positivo es fundamental para entender la economía de la tecnología de 
+la información. El feedback positivo hace que el fuerte se haga más fuerte y el débil se haga 
+más débil, lo que conduce a resultados extremos. 
+
+El feedback positivo en el mercado conduce a los extremos: el dominio del mercado por una 
+única empresa o por una tecnología única. El fenómeno opuesto al feedback positivo es el 
+feedback negativo. En un sistema con feedback negativo, los fuertes séanse más débiles y los 
+débiles se hacen más fuertes, evolucionando ambos hacia un feliz punto medio. 
+
+El feedback positivo no es completamente nuevo; prácticamente todos los sectores 
+industriales atraviesan una fase de feedback positivo al comienzo de su evaluación. Esta 
+
+fuente de feedback positivo se conoce como economías de escala en la producción: las 
+grandes empresas tienden a tener menores costos unitarios (al menos hasta cierto punto). 
+Desde la perspectiva actual, podemos referirnos a estas economías de escala tradicionales 
+como economías de escala por el lado de la oferta. 
+
+En la economía de la información, el feedback positivo ha parecido de una manera nueva, más 
+virulenta, basada en el lado de la demanda del mercado, no solamente el lado de la oferta. 
+
+2.  Explique externalidad en Red e “interlining”. 
+
+Interlining es una “doble fuerza” en la cual el crecimiento por el lado de la demanda reduce el 
+costo por el lado de la oferta y hace que el producto sea más atractivo para los demás usuarios 
+–acelerando aún más el crecimiento de la demanda-. El resultado es un feedback positivo 
+especialmente fuerte, lo que propicia que se creen o destruyan industrias enteras con mucha 
+mayor rapidez que durante la era industrial. 
+
+Externalidades de red es un término que hace referencia a que el valor que un producto tiene 
+para un usuario, depende de cuántos usuarios más usen ese producto.  Las comunicaciones 
+son un caso paradigmático: los teléfonos, el correo electrónico, el acceso a Internet, el fax y 
+los módems presentan todos externalidades de red. 
+
+3.  Explique el concepto “costos de cambio”. 
+
+En muchos sectores de la economía de la información, los costes de cambiar colectivos 
+constituyen la mayor fuerza a favor de las empresas ya establecidas. Y lo que es aún peor para 
+innovadores y competidores potenciales, los costes de cambiar no son lineales: convencer a 
+diez personas conectadas a una red de que se pasen a nuestra red incompatible es más de 
+diez veces más difícil de lograr que el que un solo cliente se cambie. Pero necesitamos a estos 
+diez, o a la mayoría de ellos: ninguno va a querer ser el primero en renunciar a las 
+externalidades de red y arriesgarse a quedarse aislado. 
+
+4.  Explique  estrategia  evolutiva  (compatibilidad)  y  estrategia  revolucionaria 
+
+(mejores prestaciones) 
+
+Hay dos caminos fundamentales para hacer frente al problema de la inercia de los 
+consumidores: una estrategia evolutiva, la de la compatibilidad; y una estrategia 
+revolucionaria, la de producir unos resultados mucho mejores. Se pueden hacer  
+combinaciones, pero la clave está en entender estas dos vías fundamentales 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+La estrategia evolutiva, que ofrece al consumidor una vía de transición, se centra en la 
+reducción de los costes de cambiar, de forma que los consumidores puedan ir probando de 
+manera gradual su nueva tecnología. 
+
+En las redes virtuales, la estrategia evolutiva de ofrecer al consumidor una vía de transición 
+requiere poder conseguir la compatibilidad con los productos existentes. En las redes reales, la 
+estrategia evolutiva requiere interconexiones físicas con las redes existentes. En cualquiera de 
+los casos, los interfaces son cruciales. La clave de la estrategia evolutiva está en conectar la 
+nueva red con la ya existente. 
+
+Uno de los riesgos de optar por la estrategia evolutiva es que uno de nuestros competidores 
+aplique una estrategia revolucionaria a su producto. Ofrecer menos prestaciones para 
+asegurarnos la compatibilidad con las versiones anteriores puede dejar un espacio para que 
+surja un competidor con un producto tecnológicamente superior 
+
+ 
+
+La estrategia revolucionaria significa utilizar la fuerza bruta: ofrecer un producto tan superior 
+a los que la gente está usando, que un número suficiente de usuarios esté dispuesto a incurrir 
+en las molestias de pasarse al nuevo sistema. Esta estrategia consiste habitualmente en atraer 
+en primer lugar a los usuarios más interesados en las prestaciones y, a partir de ahí, ir 
+acercándose al mercado de las masas 
+
+La estrategia revolucionaria es intrínsecamente arriesgada. No puede funcionar a pequeña 
+escala y generalmente exige aliados poderosos. Peor aún, es endemoniadamente difícil 
+predecir si nuestra tecnología va a arrasar o si va a estrellarse irremisiblemente. 
+
+ 
+
+ 
+
+5.  Luego  de  la  adopción  entre  una  estrategia  evolutiva  o  revolucionaria,  debe 
+
+decidirse entre la fórmula abierta o la de control. Explique cada una. 
+
+Cualquiera que lance una nueva tecnología tiene que enfrentarse a una segunda disyuntiva 
+fundamental, además de la de prestaciones / compatibilidad. ¿Eliges la fórmula “abierta”, por 
+la que te ofreces a poner a disposición de los demás los interfaces y códigos, o intentas 
+mantener el control patentando su sistema? 
+
+La estrategia de apertura es de suma importancia cuando ninguna empresa es lo 
+suficientemente fuerte como para dictar los estándares de la tecnología. La apertura también 
+ocurre de manera natural cuando múltiples productos tienen que funcionar conjuntamente, lo 
+que exige coordinación en su diseño. 
+
+ 
+
+La apertura es una estrategia más prudente que el control. El propósito de esta estrategia 
+consiste en renunciar al control sobre la tecnología para conseguir una mayor movilización del 
+sector. Si la nueva tecnología hace uso de las contribuciones de compañías diferentes, cada 
+una de ellas renuncia al control de su aportación con el fin de crear un paquete interesante: el 
+todo es mayor que la suma de las partes. 
+
+Solamente aquellos que se encuentran en una posición de fuerza pueden confiar en ejercer un 
+fuerte control sobre nuevas tecnologías de la información 
+
+Las empresas con la fuerza suficiente para controlar unilateralmente los estándares de los 
+productos y los interfaces gozan de un enorme poder. Sin embargo, incluso en el caso de que 
+no se les dispute su supremacía, tienen mucho que perder si defienden estándares mal 
+concebidos. 
+
+6.  ¿Qué  tres  dimensiones  que  miden  mi  fortaleza  en  un  mercado  en  Red  me 
+
+permiten decidir entre la estrategia de apertura o la de control? 
+
+La fortaleza en los mercados de red se mide a lo largo de tres dimensiones primordiales: 
+
+ 
+
+la posición actual en el mercado 
+la capacidad técnica  
+
+ 
+  el control de la propiedad intelectual (tales como patentes y derechos de 
+
+reproducción) 
+
+No hay una única forma adecuada de elegir entre control y apertura. De hecho, una misma 
+empresa puede perfectamente elegir el control en algunos de sus productos y la apertura en 
+otros. 
+
+Al elegir entre el control y la apertura, no debes olvidar que tu objetivo final es el de 
+maximizar el valor de tu tecnología, no tu control sobre ella. 
+
+7.  Defina lock-in. De ejemplos 
+
+ 
+
+El concepto de Lock-in hace referencia a la dependencia que se genera de una marca o de una 
+tecnología.  
+
+Una vez se ha elegido un tipo de tecnología, o un determinado formato para almacenar la 
+información, cambiar puede resultar muy caro. 
+
+El lock-in tiene lugar siempre que los usuarios invierten en activos múltiples, complementarios 
+y duraderos propios de un determinado sistema tecnológico de información. 
+
+ 
+
+ 
+
+ 
+
+Por último, podemos agregar que el lock-in puede producirse tanto a nivel individual come, 
+empresarial, e incluso a nivel social. 
+
+Ejemplo de nivel individual: ya en otra época, la compra de reproductores de CD, teniendo 
+una colección de discos LP. 
+
+Ejemplo a nivel empresarial: conocimiento sobre una herramienta específica empresarial, 
+como puede ser el paquete Office. 
+
+Ejemplo a nivel social: dependencia del sistema operativo Windows, o la red social Facebook 
+
+8.  ¿Cuáles son las cuatro estrategias genéricas para lograr nuevas tecnologías 
+
+de la información? Enuncie y describa cada una. 
+
+Apuesta por las prestaciones: Apostar por las prestaciones es la estrategia genérica más 
+atrevida y más arriesgada de las cuatro. Nos referimos al lanzamiento de una tecnología nueva 
+e incompatible sobre la que el vencedor mantiene un fuerte control y e la que conserva la 
+propiedad. Apostar por las prestaciones tiene mucho más sentido si tu ventaja consiste 
+primordialmente en el desarrollo de una nueva tecnología existente. Se trata de una estrategia 
+especialmente atractiva para las empresas que están fuera del circuito, sin ninguna base 
+instalada de que preocuparse 
+
+Transición controlada: En una transición controlada, a los consumidores se les ofrece una 
+tecnología nueva y mejorada que es compatible con su tecnología actual, pero cuya propiedad 
+se mantiene bajo control Si cuentas con un dominio seguro del mercado, puedes introducir la 
+nueva tecnología como una versión especial de la antigua, vendiéndosela primero a aquellos 
+que desean estar al último grito. 
+
+Transición abierta: Toda estrategia de transición abierta resulta muy cómoda para los 
+consumidores: el nuevo producto es suministrado por muchos proveedores y tiene poco 
+costes de cambiar. La transición abierta tiene más sentido cuando tu ventaja competitiva se 
+basa primordialmente en tu capacidad de fabricación. En este caso, te beneficia tener un 
+mercado mayor y un estándar determinado de antemano, permitiendo que destaque tu 
+capacidad de fabricación y tu aprovechamiento de las economías de escala. 
+
+Discontinuidad: La discontinuidad se refiere a la situación en la cual un nuevo producto o 
+tecnología es incompatible con la tecnología existente, pero lo venden muchos proveedores. 
+Al igual que la transición abierta, la discontinuidad favorece a los suministradores que son 
+fabricantes eficientes (en el caso del hardware) o que se encuentran en la mejor posición para 
+proveer servicios con valor añadido o más prestaciones (en el caso del software). 
+
+ 
+
+ 
+
+ 
+
+

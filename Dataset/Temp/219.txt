@@ -1,0 +1,134 @@
++----+----------------------------------------+---+
+| [] | Marketing en Internet y Nueva Economía |   |
+|    |                                        |   |
+|    | K 5572                                 |   |
+|    |                                        |   |
+|    | 2do Cuatrimestre - Año 2017            |   |
++----+----------------------------------------+---+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico Nº 1
+
+“Larga Cola – Chris Anderson”
+
+  Nombre y Apellido   Legajo     EMAIL
+  ------------------- ---------- -------------------------
+  Lucas Corbo         134657-0   lucascorbo@yahoo.com.ar
+
+1.  ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+      presente y futuro de la economía minorista? Grafique.
+
+[] La larga cola es un modelo de negocio que desmitifica modelos
+tradicionales en los que se enseñaba que los productos que se deben
+vender son los que tienen mayor rotación. Es el nombre coloquial para
+una bien conocida característica de las distribuciones estadísticas
+(Zipf, Ley de potencias, distribuciones de Pareto, etc.). En estas
+distribuciones una amplia frecuencia o gran frecuencia de
+«transacciones» es seguida por una baja frecuencia o baja amplitud de la
+población que disminuye gradualmente. En muchos casos, los
+acontecimientos de baja frecuencia o escasa amplitud pueden abarcar la
+mayor parte del gráfico.
+
+Asegura que es el presente y futuro de la economía minorista porque
+poner los nichos al alcance de todos los consumidores revela la demanda
+latente de contenidos no comerciales. Por lo tanto, a medida que la
+demanda se oriente hacia los nichos, mejorará la economía y creará una
+retroalimentación positiva que transformará todas las industrias (y la
+cultura) en las próximas décadas.
+
+2.  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+
+La economía de la escasez fue creada en una época en la que no había
+suficiente espacio ni canales de distribución para que todo fuese
+accesible a todos, por eso se basaba en los éxitos. La escasez obliga a
+priorizar las necesidades dado que todos los agentes económicos estamos
+supeditados a diversas restricciones presupuestarias. Una larga cola es
+cultura sin el filtro de la escasez económica.
+
+Internet influye en este concepto en que ahora con la distribución y
+venta digital/online, se pasa de una economía de la escasez a una
+economía de la abundancia. Se pasa de un mercado de masas a un mercado
+de nichos.
+
+3.  Relacione los términos: Ley de Pareto, Economía de masas y Larga
+    Cola.
+
+La Ley de Pareto dice que el 20% de los productos generarán el 80% de
+las ventas. O, dicho de otro modo, concentrar nuestros esfuerzos en los
+mercados de masas, en vender todavía más los productos que tienen mucha
+demanda. Aun cuando el 20% de los productos genere el 80% de los
+ingresos, ésa no es una razón para dejar de producir el otro 80%. Los
+mercados larga cola, donde los costes de inventario son bajos, nos
+incentivan a producir de todo, prescindiendo del volumen de ventas.
+
+4.  ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+    igualmente necesitan ofrecer “Hits” a sus clientes?
+
+Porque sigue siendo un mercado que genera muchas ventas.
+
+5.  Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+    servicios) que basen su modelo económico en La Larga Cola.
+
+Amazon, eBay, Netflix, Google.
+
+6.  ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+    Cola?
+
+La primera fuerza es democratizar las herramientas de producción. En
+consecuencia, el universo de contenidos disponibles ahora está creciendo
+con más rapidez que nunca. Esto es lo que extiende la larga cola hacia
+la derecha, multiplicando el número de bienes disponibles. Resultado:
+más productos, lo que extiende la larga cola.
+
+La segunda fuerza es reducir los costes del consumo mediante la
+democratización de la distribución. Internet simplemente permite llegar
+a más personas con un coste más bajo, y aumentar de manera eficaz la
+liquidez del mercado en la larga cola. Esto, a su vez, se traduce en un
+mayor consumo, un aumento de las ventas y un crecimiento del área bajo
+la curva. Resultado: más acceso a los nichos, lo que engruesa la larga
+cola.
+
+La tercera fuerza es conectar la oferta y la demanda, presentando a los
+consumidores estos nuevos productos ahora disponibles, y orientar la
+demanda hacia la larga cola. El efecto de todo esto para los
+consumidores es reducir los “costes de búsqueda” a la hora de encontrar
+contenidos de nicho. En términos económicos, los costes de búsqueda
+aluden a todo lo que nos impide encontrar lo que deseamos. Todo lo que
+permite hallar lo que uno desea al precio que uno desea reduce los
+costes de búsqueda. Resultado: reorienta el negocio de los éxitos a los
+nichos.
+
+7.  ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+    brevemente.
+
+a.  En casi todos los mercados hay más bienes de nicho que productos de
+    éxito. Esa proporción crece exponencialmente a medida que las
+    herramientas de producción llegan a ser más baratas y más ubicuas.
+
+b.  Los costes de acceso a esos nichos están bajando notablemente. En
+    consecuencia, ahora muchos mercados pueden ofrecer una enorme
+    variedad de productos.
+
+c.  Hay que ayudar a los consumidores a encontrar los nichos que se
+    adaptan a sus necesidades e intereses particulares. Para ello, se
+    puede utilizar una gama de herramientas y técnicas que van desde las
+    recomendaciones hasta las clasificaciones. Estos «filtros» pueden
+    orientar la demanda hacia la larga cola.
+
+d.  Una vez que se ha expandido la variedad y se aplican los filtros
+    para navegar por ella, la curva de la demanda se aplana. Todavía hay
+    productos de gran popularidad y nichos, pero los primeros son
+    relativamente menos populares, y los nichos relativamente más
+    conocidos.
+
+e.  Todos estos nichos se suman. Si bien ninguno vende grandes
+    cantidades, hay tantos productos de nicho que colectivamente pueden
+    crear un mercado que rivaliza con los éxitos.
+
+f.  Una vez que se establecen estas condiciones, se revela la forma
+    natural de la demanda, liberada de las dificultades de distribución,
+    la escasez de información y la limitación del espacio de venta. Al
+    contrario de lo que nos han hecho creer, esta forma está mucho menos
+    orientada a los productos de éxito. Es tan diversa como la población
+    misma.

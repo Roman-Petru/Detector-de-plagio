@@ -1,0 +1,118 @@
+TP-1- La larga cola – C. Anderson
+
+1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+presente y futuro de la economía minorista? Grafique.
+
+Anderson toma el término del área de estadística, donde las curvas cuyo
+extremo inferior es mucho más largo en relación al extremo superior. Él
+lo utiliza para representar a la economía minorista, o de abundancia,
+donde la oferta es plena y donde aquellos productos no tan masivos
+encuentran nichos más pequeños pero que en su conjunto conforman a una
+parte considerable de las ventas totales.
+
+2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+La economía de la escasez es aquella donde tanto los recursos como los
+medios para disponibilizarlos son limitados. Esta es una economía que se
+encuentra cada vez menos presente debido al surgimiento y crecimiento de
+la economía digital, que en gran parte, utiliza canales digitales
+utilizando para ello recursos digitales que podrían considerarse
+ilimitados.
+
+3) Relacione los términos: Ley de Pareto, Economía de masas y Larga
+Cola.
+La ley de Pareto es una ley informal cuyas bases no pudieron ser
+justificadas pero que llevado a la práctica suele ser certera en varios
+contextos: “El 20% de ‘algo’ hace/tiene/es/contiene el 80% de ‘algo’ y
+viceversa”. Aplicado a la economía de masas, lo que se quiere decir es
+que el 20% de los productos más vendidos logran el 80% de las ventas.
+Aplicado a la larga cola, quiere decir que el 80% de los productos
+generan el 20% de las ventas.
+
+4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+igualmente necesitan ofrecer “Hits” a sus clientes?
+Naturalmente el ser humano tiene aspectos que lo permiten diferenciarse
+de otros, pero mucho más aún son aquellos aspectos que comprate con
+otros. De hecho, los productos de alta popularidad, muchas veces,
+funciondad como puerta de entrada hacia los mercados más específicos. Si
+solo se ofrecieran productos de larga cola, el cliente no estaría
+dispuesto a entrar porque todo le resultaría desconocido.
+
+5) Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+servicios) que basen su modelo económico en La Larga Cola.
+
+Ejemplos de empresas Internacionales:
+
+- Ebay
+
+- Google
+
+- Netflix
+
+- Spotify
+
+6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+Cola?
+Los 3 principios en los que se basa la Larga Cola son:
+- La primera fuerza es democratizar las herramientas de producción
+- Reducirlos costes delconsumo mediante la democratización de la
+distribución
+- Conectar la oferta y la demanda
+
+7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+brevemente.
+Las principales reglas de la Larga Cola son:
+
+Regla 1: Use un inventario digital
+
+- Al ser centralizado permite ser más eficiente y al ser digital es
+mucho más barato.
+
+Regla 2: Deje que los clientes hagan el trabajo
+
+- El usuario está dispuesto a hacer algo gratuitamente. La ventaja no es
+solo económica, sino que en la mayoría de los casos se logra un mejor
+trabajo ya que la tarea está siendo llevada a cabo por personas que
+conocen mejor que nadie sus necesidades. Por otro lado, este esfuerzo es
+ilimitado.
+
+Regla 3: No hay un método de distribución para todo
+
+Dado que todos los clientes tienen diferentes necesidades y gustos, la
+mejor manera de llegar a un mercado más amplio es teniendo múltiples
+canales de distribución, disminuyendo limitaciones de tiempo y espacio.
+
+Regla 4: No hay un producto que se adapte a todos
+
+Se recomienda “microsegmentar” y de esta manera permitir que el usuario
+pueda consumir el producto de la manera que desee.
+
+Regla 5: No use un precio único
+
+Conviene ofrecer diversas alternativas de precio a los usuarios dado que
+estos suelen contar con más o menos dinero, o bien, con más o menos
+tiempo disponible.
+
+Regla 6: Comparta la información
+
+La información que no confunde al usuario suele ser más rentable de la
+que si lo hace. Y la información que se convierte en recomendaciones
+suele generar confianza con el usuario.
+
+Regla 7: Piense en una cosa «y» otra J no en una «u» otra
+
+A diferencia de la economía de la escasez, el mercado con capacidad
+infinita puede vender tantos productos, o variedades del mismo producto,
+como oferta tenga. No es uno u otro.
+
+Regla 8: Deje que el mercado trabaje para usted
+
+El riesgo de fracasar con un un producto es menor. Se puede lanzar al
+mercado varias alternativas y obtener un feedback rápido de cuales
+fueron más exitosas.
+
+Regla 9: Reconocer la fuerza de la gratuidad
+
+En muchos casos, el potencial usuario está dispuesto a consumir un
+servicio de mayor calidad con solo una suscripción. Una vez que se
+convierte en usuario puede ver las opciones que brinden mayor calidad o
+comodidad por un determinado monto.

@@ -1,0 +1,89 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing
+
+Profesor: Alejandro Prince, Hernan Borré
+
+Trabajo Práctico: Nro 6
+
+  NOMBRE Y APELLIDO   LEGAJO N°   EMAIL CONTACTO
+  ------------------- ----------- -----------------------
+  Joel Melamed        146.804-2   melamedjoel@gmail.com
+
+Fecha de entrega:
+
+24/10/2016
+
+Trabajo Práctico Nro 6 - Sistemas emergentes
+
+Preguntas
+
+1)  Cuáles son los 4 principios centrales del estudio de los sistemas
+    emergentes?
+
+2)  Describa en no más de 10 renglones la particular conducta del
+    Dictiostellum y sus implicancias.
+
+3)  Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+4)  Describa los conceptos o conductas “adaptativas” y “complejas”.
+    Describa sistema ascendente y sistema dinámico.
+
+5)  Describa un sistema emergente o autoorganizativo y diferéncielo de
+    un sistema evolutivo o del caos.
+
+Respuestas
+
+1) Los 4 principios centrales del estudio de los sistemas emergentes
+son:
+
+1.  Interacción de vecinos
+
+2.  Reconocimiento de patrones
+
+3.  Retroalimentación
+
+4.  Control directo
+
+2) Básicamente, lo que se cuenta es que el moho de fango pasa gran parte
+de su vida como organismos unicelulares, cada uno moviéndose
+independientemente de los otros. Bajo ciertas condiciones adecuadas y
+favorables, estos organismos se juntan formando un organismo mayor,
+"ellos" se convierten en "el", y este organismo es el que finalmente se
+ve que arrasa con hojas y cortezas en descomposición. Sin embargo, en
+condiciones desfavorables, el moho de fango se comporta como un
+organismo aislado. Oscila entre ser una única criatura y una colonia.
+
+3) La morfogénesis fue desarrollada por Alan Turing en 1954, y se
+refiere a la capacidad de todas las formas de vida de desarrollar
+cuerpos cada vez más complejos a partir de orígenes realmente simples.
+Ese estudio se centraba en la recurrencia de los patrones numéricos de
+las flores, pero usando herramientas matemáticas demostraba como un
+organismo complejo podía desarrollarse sin ninguna dirección o plan
+maestro.
+
+4) Las conductas adaptativas son aquellas que cambian y se adaptan
+dependiendo del entorno en el cual se desarrollan, siguiendo los cambios
+del mismo. Las conductas complejas, por su parte, son agentes múltiples
+que interactúan de manera dinámica, siguiendo reglas locales o
+imposiciones jerárquicas.
+
+Por otro lado, un sistema ascendente es aquel en el que los agentes que
+residen en una escala, comienzan a producir comportamientos que yacen en
+una escala superior a la suya, y así sucesivamente, evolucionando de
+simple a complejo. Es lo que se llama emergencia. Los sistemas dinámicos
+es aquel que evoluciona a lo largo del tiempo.
+
+5) En un sistema autoorganizado, el mismo nace a partir de interacciones
+locales entre los componentes del sistema que anteriormente, se
+encontraban desordenados, aislados. De algo simple se pasa a obtener
+algo más grande y complejo, y a su vez, ordenado. Por otro lado, en un
+sistema evolutivo o caótico, esto se da al revés, dado que es un sistema
+en el que un pequeño cambio o alteración en las condiciones del sistema,
+produce rápidamente resultados altamente desordenados e impredecibles.

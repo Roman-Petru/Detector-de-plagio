@@ -1,0 +1,149 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+curso: K5071 - 2 Cuat. 2016
+
+Marketing en Internet y Nueva Economía
+
+Profesor: Dr. Alejandro Prince
+
+Ayudante: Ing. Hernán Borré
+
+Trabajo Práctico: TP2 – Economía de Experiencia Pine y Gilmore
+
+Alumno: Santiago Peralta
+
+Legajo: 117338-8
+
+The experience economy - Joseph PINE II y James GILMORE
+
+Preguntas de Trabajo Práctico
+
+NOTA: no es requerida la lectura ni recordación desde la página 17
+inclusive hasta la 20 del texto. Es obligatoria desde la 1ra hasta la
+página 16.
+
+1)  Qué 3 elementos hacen resurgir con fuerza la idea de una economía de
+    experiencia?
+
+Tecnología: Actúa como facilitador.
+
+Competencia: Promueve la lucha por la diferenciación.
+
+Prosperidad: Menos rutinas, más sorpresas o verdaderas experiencias.
+
+2)  Defina y caracterice una experiencia. Diferencias con Producto y
+    Servicio.
+
+Una experiencia es usar los servicios como escenario y los productos
+como estímulo para comprometer al individuo.
+
+A diferencia de los productos y servicios, las experiencias generan
+sensaciones personales, emocionales, física, intelectuales e inclusos
+espirituales.
+
+3)  Explique y grafique las dimensiones y campos de la experiencia
+
+Presentar una experiencia implica “comprometer” a los clientes, en una
+serie de dimensiones entre las que se destaca el grado de participación
+(pasiva/activa) y la relación entre el cliente y el evento
+(Absorción/inmersión física o virtual en el desarrollo del evento).
+
+Estas 2 dimensiones entrecruzadas generan los 4 campos de las
+experiencias:
+
+El entretenimiento: Pasivamente absorbe lo que ocurre a través de sus
+sentidos.
+
+La educación: Exige la participación activa del sujeto.
+
+El escape: Máxima inmersión y protagonismo absoluto (VR, chats, casinos)
+
+La estética: Sumerje pero no participa. Paisajes imponetes, museos.
+
+Todos estos campos son compatibles y combinables en una experiencia
+única para el sujeto.
+
+4)  Describa “impresiones” y sus distintas dimensiones.
+
+Las impresiones son los recuerdos que el cliente se lleva de la
+experiencia, por lo general asociada a cierta dimensione específica:
+
+El tiempo: Las representaciones del tema pueden ser tradicionales,
+contemporáneas o futuristas.
+
+El espacio: Se las puede diseñar local o cosmopolitas, hogareñas o en el
+ámbito de trabajo, en interiores o en los más exóticos exteriores.
+
+La tecnología: Las habrá de vanguardia o artesanales, naturales o
+artificiales.
+
+La autenticidad: las representaciones pueden ser originales o , en
+algunos casos, imitaciones.
+
+La sofisticación: los signos indican el nivel de refinamiento o lujo.
+
+La escala: el tema se puede representar como algo grandioso, o sencillo
+y pequeño.
+
+5)  De 3 ejemplos distintos (reales si conoce, o invente) de
+    experiencias con estimulación de los sentidos.
+
+6)  Qué es la personalización masiva? Explique la progresión del valor.
+
+La personalización masiva es lograr lo mejor de los 2 mundos, el de la
+masividad y la personalización. La idea es poder lograr modularizar los
+productos y servicios de manera que se puedan interconectarse y
+organizarlos (personalizarlos) según un cliente particular en un
+contexto particular.
+
+7)  Cuáles son las ventajas para la empresa de la personalización
+    masiva?
+
+Mejores precios, menos necesidad de descuentos, mayores ingresos por
+clientes, más clientes con menores costos de adquisición, niveles de
+retención más alto
+
+8)  Describa los 4 tipos de personalización masiva.
+
+Cambiar el producto cambiar sus funcionalidades.
+
+Representación del producto packaging, marketing o condiciones de uso.
+
+  Personalización colaborativa o E exploratoria: El cliente tiene una
+  opción u otra. La empresa interactúa directamente con el cliente para
+  definir que necesita y luego lo produce. Primero modifica la
+  representación del producto y luego el producto en sí mismo. El valor
+  surgirá del trabajo conjunto.
+
+  Personalización adaptativa o E real: No cambia el producto ni la
+  representación, sino que el cliente personaliza ambas a partir de
+  cierta funcionalidad incluida en la oferta. El valor surgirá del
+  cliente según se “personalización” elegida.
+
+  Personalización cosmética o E gratificante: Cuando solo se trata de
+  customizar la representación del producto , la empresa provee
+  distintas opciones para el mismo producto.
+
+Personalización transparente o E elusiva: El cliente recibe una oferta
+personalizada (sin enterarse del proceso de personalización). Esta
+modalidad se aplica para no tener que obtener la información de
+personalización repetidamente.
+
+9)  Qué aporta el ciberespacio al tema “sacrificio del cliente”?
+
+  Sacrificio: diferencia entre lo que el cliente quiere/necesita con lo
+  que ofrece el producto.
+
+  Dada su interactividad inherente, es un excelente medio para evaluar
+  el nivel de sacrificio, ejemplo utilizando el email. También permite
+  mediante el marketing uno a uno, sentar las bases de una relación de
+  aprendizaje que crece, se profundiza y se torna más inteligente con el
+  tiempo. Cuanto más le enseñe el cliente a la empresa, mejor preparada
+  estará para brindarle lo que necesita y más difícil se le hace a los
+  competidores quitarle su lugar

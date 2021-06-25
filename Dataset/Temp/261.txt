@@ -1,0 +1,147 @@
+Trabajo practico Nº 2
+
+Materia: Marketing y nueva economía
+
+Docente: Alejandro Prince , Hernan Borré
+
+Alumno: Hernán Suzuki Son
+
+Fecha: 13/09/2016
+
+1)  ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+    presente y futuro de la economía minorista? Grafique.
+
+  El concepto de La larga cola explica que además de los productos
+  populares/hits existe una enorme cantidad de productos no tan
+  consumidos/de nicho que totalizados representan una porción muy grande
+  del mercado que puede incluso competir con los hits.
+
+2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+    Significa que los productos ofertados por los productores están
+    limitados por las disponibilidades de exposición del mundo físico.
+    Por ejemplo, en el caso de una librería, los libros que ésta puede
+    exponer en su vidriera son muy pocos. Esto implica que la oferta se
+    concentre en determinados productos que se suponen los más
+    consumidos por el común denominador de la gente.
+    La aparición de Internet rompe con este paradigma, ya que permite
+    exponer y tener a disposición y alcance un número ilimitado de
+    productos. Ya no me encuentro acotado y restringido a las
+    limitaciones del mundo físico, como una vidriera, un stand de
+    exposición, etc. Con una sola página web se pueden exponer millones
+    de productos muy fáciles de acceder con una simple búsqueda.
+
+3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga
+    Cola.
+
+Estos tres conceptos están bien relacionados. La ley de Pareto es la ley
+del 80-20. Formalmente Pareto estudió que la gente se dividía entre los
+«pocos de mucho» y los «muchos de poco»; se establecían así dos grupos
+de proporciones 80-20 tales que el grupo minoritario, formado por un
+20 % de población, ostentaba el 80 % de algo y el grupo mayoritario,
+formado por un 80 % de población, el 20 % de ese mismo algo.
+Esto se relaciona con la economía de masas ya que la misma consiste en
+ofrecer una porción pequeña de productos (20%) pensados específicamente
+para el 80% de la población. Y a su vez nos encontramos con que la Larga
+Cola divide los productos ofrecidos en HITS (20%) y MISS (80%). Los
+productos más populares/demandados consisten en el 20% de la oferta,
+pero hay otra inmensa cantidad de productos en el mercado (los MISS) que
+totalizados compiten con los HITS.
+
+4)  ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+    igualmente necesitan ofrecer “Hits” a sus clientes?
+    Porque los “hits” representan el 80% de la demanda lo cual permite
+    atrapar a la mayor parte de los usuarios y una vez hecho esto, se
+    puede crear una conexión o enlace hacia los MISS, es decir, lograr
+    que una persona que consumió un HIT, ahora consuma también un MISS
+    por ejemplo porque le fue sugerido por la aplicación en base a sus
+    consumos y preferencias y a la persona le resultó de su interés y
+    ahora tiene acceso a un producto que de otro modo no hubiera
+    conocido.
+
+5)  Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+    servicios) que basen su modelo económico en La Larga Cola.
+
+Netflix
+Spotify
+CrunchyRoll
+Mercadolibre
+
+6)  ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+    Cola?
+
+1.  Democratizar la oferta: reducir los costos de los
+    productos/servicios y habilitar a que cualquiera distribuya
+    contenido en Internet.
+
+2.  Democratizar la producción: Que esté al alcance de la gente las
+    herramientas para hacer/producir algo. Ej.: Hoy se hacen películas
+    completas filmadas con un iPhone.
+
+3.  Conectar la oferta y la demanda: facilitar el acceso, tener un buen
+    buscador y motor de recomendaciones, etc.
+
+7)  ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+    brevemente.
+
+  REDUCIR COSTOS
+
+  #1 - Usar un inventario digital
+
+  Tal y como hace Amazon, evitar tener almacenes locales, sino tener
+  almacenes centralizados y, preferiblemente, que estén en manos de
+  socios o, incluso, que no existan y se trabaje bajo pedido.
+
+  #2 - Dejar que los clientes hagan el trabajo
+
+  Ta delegación del trabajo en usuarios y clientes, no sólo ahorra
+  costes sino que, incluso, en ocasiones produce un mejor resultado.
+
+  PENSAR EN LOS NICHOS
+
+  #3 - No hay un método de distribución para todo
+
+  Unos clientes preferirán la compra “on-line”, otros la compra física y
+  algunos otros, esquemas mixtos.
+
+  No hay un modelo único.
+
+  #4 - No hay un producto que se adapte a todos
+
+  Utilizar la microsegmentación, las opciones, la combinación de
+  productos más pequeños de formas diferentes.
+
+  #5 - No usar un precio único
+
+  No todos los clientes están dispuestos a pagar lo mismo. Utilizar
+  precios flexibles, como mejor vía de rentabilidad, especialmente en
+  los casos en que los costes marginales de fabricación y distribución
+  sean despreciables como suele ser el caso de bienes digitales.
+
+  MENOR CONTROL
+
+  #6 - Compartir la información
+
+  Ofrecer información siempre que eso ayude a organizar las opciones.
+  Igualmente, ofrecer información de comportamiento de compra cuando eso
+  constituye una recomendación.
+
+  #7 - Pensar en una cosa “y” otra, no en una cosa “u” otra
+
+  En esta economía de la superabundancia suele ser un error suponer que
+  hay que ofrecer al consumidor una u otra opción. Lo acertado suele ser
+  ofrecer todas las opciones.
+
+  #8 - Dejar que el mercado trabaje para uno
+
+  Ya no es necesario predecir qué se venderá. Es mejor ofrecer todo y
+  esperar a ver qué se vende. Es decir, no predecir sino sentarse y
+  medir.
+
+  #9 - Reconocer la fuerza de la gratuidad
+
+  En el mercado de productos digitales, los costes marginales son
+  despreciables. Eso abre la posibilidad de utilizar la fuerza de la
+  gratuidad para montar modelos basados en publicidad, para adelantar de
+  forma gratuita una parte de un libro o película, ofrecer servicios
+  gratuitos y dejar los de pago para mayores prestaciones o calidad,
+  etc.

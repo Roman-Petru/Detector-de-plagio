@@ -1,0 +1,145 @@
+1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+
+presente y futuro de la economía minorista? Grafique.
+
+Anderson realizó una comparación económica entre tiendas físicas y
+virtuales. La diferencia que encontró consiste en que las tiendas
+físicas y la mayoría de los proveedores de servicios tienen límites
+físicos y temporales.
+
+Por ejemplo: Un local de venta de discos musicales tiene un límite de
+espacio físico para su almacén o para su vidriera, al igual que un canal
+que se emite por televisión por cable solo cuenta con 24 horas de
+programación. Como consecuencia, no se puede ofertar más productos de
+los que los límites físicos admiten.
+
+[]
+
+Las tiendas físicas restringen su cantidad de producto a tan solo la
+porción verde debido a sus limitaciones físicas y temporales. Anderson
+concluyó que las tiendas virtuales rompen esa barrera y permite abarcar
+toda la porción azul (“La larga cola”) y hacerla crecer indefinidamente,
+lo cual implica un mayor porcentaje de ganancias.
+
+Permite que las tiendas virtuales ofrezcan tanto los hits como los
+productos de nicho por igual, además de que al exponer un catálogo
+prácticamente ilimitado, se adquieran nuevos gustos y esa curva se eleve
+(aumente la cantidad de ventas).
+
+Esta nueva economía cambia el paradigma de los hits e incorpora al
+mercado todos los nichos.
+
+2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+
+La economía de escasez es aquella en la que la venta está limitada a los
+límites espaciales y temporales de los minoristas, o limitada hasta que
+el umbral economico haga que no sea rentable el costo de un producto
+respecto a su ocupación física en función de la ganancia que le ofrece.
+Este modelo económico es el único existente hasta el siglo XX inclusive.
+
+Por ejemplo, Wal-mart solo poseía el 1% de la música que ofrecía
+Rhapsody. Sin embargo, internet elimina el componente físico y permite
+exhibir una cantidad prácticamente infinita de productos y servicios, y
+así cubrir la larga cola de productos que antes no era factible ofrecer.
+
+3) Relacione los términos: Ley de Pareto, Economía de masas y Larga
+Cola.
+
+Se dice que la “Ley de Pareto” o mejor dicho el “principio”, se cumplo
+en aquellos casos en los que aproximadamente el 20% de una variable se
+corresponde con el 80% de la otra.
+
+Por ejemplo, Pareto descubrió que el 20% de la población de Reino Unido,
+disponía el 80% del total de las riquezas.
+
+Esto también se aplicaba a la ventas. Un porcentaje muy bajo de
+productos concentraba la mayor cantidad de ventas, los cuales eran
+llamados “hits” o “productos estrella” para el comerciante. El resto de
+los productos era considerado “de nicho”.
+
+Este modelo económico sigue aplicándose a las tiendas físicas
+minoristas, y es llamado “Economía de las masas”. Se venden productos
+diseñados para satisfacer a la mayor cantidad de personas posibles. Se
+intenta abarcar lo más posible de ventas, en lugar de ofrecer productos
+que solo satisfagan necesidades puntuales, es decir que no abarcan los
+productos de la larga cola ya que representan un porcentaje bajo de las
+ventas.
+
+De todas formas, algunas tiendas logran reducir tanto los costos de
+inventario que consiguen aplanar esta curva de la demanda y ofrecer
+mayor cantidad de productos de nicho
+
+4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+igualmente
+
+necesitan ofrecer “Hits” a sus clientes?
+
+Las tiendas virtuales lo que permiten es extender la oferta de productos
+y abarcar mayor mercado, pero el porcentaje de venta de los “hits” sigue
+ocupando el 50% de las ganancias (anteriormente representaba el 80% de
+las ventas). Ofrecer productos de nicho permite abarcar inclusive mayor
+mercado y hacer conocer y conocer nuevos productos.
+
+5) Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+
+servicios) que basen su modelo económico en La Larga Cola.
+
+-   Amazon: servicios de e-commerce
+
+-   Airbnb: Posibilidad de encontrar ofertas y hoteles más allá de lo
+      conocido a través de filtros.
+
+-   Netflix: Streaming de películas y series.
+
+-   Mercadolibre: Servicios de e-commerce.
+
+6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+Cola?
+
+Las tres fuerzas o principios en los que se basa la larga cola son:
+
+1.  Democratizar las herramientas de producción: La gente puede producir
+      sin necesidad de acudir a profesionales, a diferencia de lo que
+      sucedía tiempo atrás. Es posible editar video, convertir audio y
+      realizar impresiones a color, entre muchas cosas, a un costo
+      accesible y desde cualquier hogar.
+
+2.  Reducir los costos de consumo mediante la democratización de la
+      distribución: Gracias al internet y los filtros que ofrecen las
+      páginas al momento de realizar búsquedas, las recomendaciones
+      automáticas y personalizadas para cada usuario, y las
+      recomendaciones y reseñas hechas por otros que ya han comprado el
+      producto que uno busca, se reducen los costos de consumo: Se
+      encuentra lo que se busca más rápido, se encuentran bienes que
+      satisfagan las necesidades de uno a menor precio (ya que las
+      alternativas de nicho ahora son fácilmente encontrables), se evita
+      la frustración de comprar algo que termine por no ser lo esperado,
+      etc.
+
+3.  Conectar la oferta y la demanda: Al presentarse los nuevos productos
+      disponibles en catálogos prácticamente infinitos, junto con lo
+      expuesto en el ítem anterior, se orienta la demanda hacia la larga
+      cola. También se logra que los consumidores puedan conectarse sin
+      necesidad de estar en el mismo lugar al mismo tiempo. Por otro
+      lado, dado que los consumidores descubren que tienen gustos más
+      allá del éxito y lo promovido por el marketing convencional, esto
+      aumenta el boca en boca que se da personalmente o vía internet
+      entre los diferentes consumidores. Esto, junto a las sugerencias
+      de los usuarios y las reseñas de productos, produce que los
+      productos ofrecidos sean encontrados por los potenciales
+      demandantes.
+
+7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+brevemente.
+
+La larga cola consta de las dos siguientes reglas:
+
+-   Hacer accesible el contenido de los nichos: Mediante catálogos
+      prácticamente infinitos, se da acceso a contenido que antes era
+      muy difícil de encontrar por otros medios.
+
+-   Acercar la oferta y la demanda: Consiste en brindar herramientas de
+      búsqueda, recomendaciones automáticas basadas en compras
+      anteriores, reseñas hechas por otros usuarios, etc, a fin de que
+      los demandantes encuentren los productos de nicho que mejor
+      satisfagan sus necesidades

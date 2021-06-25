@@ -1,0 +1,205 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing
+
+Profesor: Alejandro Prince, Hernan Borré
+
+Trabajo Práctico: Nro 4
+
+  NOMBRE Y APELLIDO   LEGAJO N°   EMAIL CONTACTO
+  ------------------- ----------- -----------------------
+  Joel Melamed        146.804-2   melamedjoel@gmail.com
+
+Fecha de entrega:
+
+19/09/2016
+
+Trabajo Práctico Nro 4 - Difusión y adopción de TIC
+
+Preguntas
+
+TP: PAPER DIFUSION Y ADOPCION PARTE 1
+
+1. Qué se entiende por difusión y adopción de innovaciones.
+
+2. Diferencie la posición instrumentalista de la determinista.
+
+3. Indique los 5 determinantes principales del proceso de difusión según
+Rogers.
+
+4. Explique según Rogers las 5 categorías de integrantes de la adopción.
+Grafique.
+
+5. Defina según Rogers a los innovadores y adoptantes temporarios.
+
+6. Defina según Rogers las características de los rezagados.
+
+TP: PAPER DIFUSION Y ADOPCION PARTE 2
+
+7. Explique según Rosemberg el rol del aprendizaje en la adopción.
+
+8. Explique según HALL el rol de los costos hundidos en la adopción y
+porque ésta
+
+es un ¨absorbing state¨.
+
+9. Según Caselli y Coleman cuales son los 4 principales determinante de
+adopción
+
+de PC, comparando entre diversos países.
+
+10. Explique según Dutton y otros que es y que rol juega el hecho de que
+la PC
+
+sea ¨innovación activa¨
+
+11. Qué utilidad tiene el modelo Bass, descríbalo y formule describiendo
+los
+
+parámetros.
+
+Respuestas
+
+1) La difusión y adopción de innovaciones se refiere al proceso por el
+cual una innovación, como puede ser un producto, tecnología, idea, etc.,
+es percibida y adoptada por miembros, grupos y organizaciones en una
+cierta comunidad a lo largo del tiempo. El estudio de la difusión de
+innovaciones es, justamente, el estudio de cómo, por qué y a qué tasa se
+divulgan las nuevas ideas o se adoptan nuevos productos o servicios.
+
+2) La posición instrumentalista se refiere a ver a las condiciones
+sociales y las aspiraciones humanas como causa principal del cambio
+tecnológico, y a su vez ve al cambio como un proceso evolutivo y
+continuo. La posición determinista, por otro lado, ve al cambio
+tecnológico como una fuerza autónoma y revolucionaria.
+
+3) Rogers define 5 principales determinantes en el proceso de difusión:
+
+-   Las características de la innovación que pueden influenciar su
+    adopción
+
+-   El procedimiento de decisión, que ocurre cuando los individuos
+    consideran adoptar una nueva idea, producto o práctica
+
+-   Las características de los individuos que adoptan una innovación
+
+-   Las consecuencias o beneficios para los individuos y la sociedad de
+    adoptar o no una innovación
+
+-   Los canales de comunicación utilizados en el proceso de adopción
+
+4) Las distintas categorías de integrantes de la curva de adopción son:
+
+-   Innovadores: aquellos "valientes" que son promotores del cambio, y
+    conforman un importante mecanismo de comunicación a la vez.
+
+-   Adoptantes tempranos: son gente respetable, líderes, que prueban
+    ideas pero de una manera más cuidadosa.
+
+-   Mayoría temprana: son gente racional, que acepta el cambio más
+    rápidamente que lo que lo hace la gente media.
+
+-   Mayoría tardía: son gente escéptica, que solo acepta el cambio
+    cuando ve que la mayoría lo está aceptando o utilizando.
+
+-   Rezagados: se refiere a la gente tradicional, aquella que critica
+    nuevas ideas y que solo las adhiere cuando se han transformado en
+    tradición.
+
+[]
+
+5) Según Rogers, los innovadores (a los que ve como entusiastas) son
+personas que son arriesgados, atrevidos, que no son escépticos al
+riesgo. Dice que poseen la habilidad para poder entender y aplicar una
+innovación compleja, que aceptan la incertidumbre sobre la innovación, y
+que suelen no ser comprendidos por otros individuos o grupos. También
+cuenta que los innovadores suelen tener los medios necesarios como para
+absorber las posibles pérdidas de una innovación improductiva.
+
+Sobre los adoptantes tempranos (a los que ve como visionarios), cuenta
+que están integrados al sistema social local, que son respetados por sus
+pares, que tienen un alto grado de liderazgo en una comunidad, que son
+considerados exitosos. Estos sirven de modelo de comportamiento para
+otros individuos.
+
+6) Según Rogers, los rezagados, a los que ve como escépticos, dice que
+no tienen liderazgo alguno, que están más aislados que otros grupos, que
+tienen como referencia especial el pasado, que son suspicaces respecto
+de las innovaciones, que tienen recursos limitados y también, un proceso
+de decisión o cambio muy lento.
+
+7) Rosemberg lo que dice es que la innovación "aprende" de su uso en
+diferentes entornos, usuarios, grupos, etc. Este aprendizaje
+retroalimenta hacia mejoras en la innovación, por lo que la misma
+devuelve versiones mejoradas o amplias en prestaciones, facilidad de
+uso, etc.
+
+8) Según Hall, el adoptante potencial evalúa los costos fijos de
+adopción (los que él llama costo hundido) contra los beneficios
+esperados, pero en realidad, esos costos son irrelevantes ya que no
+pueden ser recuperados. El beneficio al incorporar una innovación o
+tecnología es recibido a lo largo de su uso, y no en algún punto como
+por ejemplo, al inicio de su uso. Mientras que los costos de adopción,
+si son incurridos al momento de la decisión de adopción.
+
+Hall dice que la adopción de innovaciones o tecnologías es un "absorbing
+state" porque es un viaje de ida, no es usual el retorno a modalidades o
+tecnologías anteriores una vez implementada la nueva, ya que
+discontinuar el uso es perder todos los beneficios, aunque sean mínimos,
+sin recuperar una mínima parte del costo hundido
+
+9) Según Caselli y Coleman, las 4 principales determinantes de adopción
+de PC son:
+
+-   Las fuentes y tipos de comercio con otros países
+
+-   La protección de derechos de autor
+
+-   Las inversiones por trabajador
+
+-   Una baja proporción en el PBI del gobierno y de la agricultura, así
+    como una gran proporción de las manufacturas en el PBI.
+
+10) Dutton dice que la PC es una innovación activa, ya que a diferencia
+de la TV, envuelve al usuario en una conducta del tipo
+problema-resolución. Dice que la PC tiene una naturaleza interactiva que
+lo distingue de otras invenciones de las comunicaciones. Por ende, los
+individuos más educados pueden estar más orientados a la búsqueda y
+manejo de la información, a ser trabajadores del conocimiento, analistas
+conceptuales, etc.
+
+11) Bass desarrolló un modelo matemático llamado "Modelo de difusión de
+Bass" que se puede utilizar como técnica de estimación de la demanda de
+nuevos productos. Básicamente, el modelo permite estimar el número de
+consumidores que adoptarán un nuevo producto a lo largo del tiempo.
+
+La formulación matemática de Bass dice que el nro de consumidores que
+compran un nuevo producto en un momento determinado del tiempo, es
+función de la demanda de los individuos innovadores, y de la demanda de
+los imitadores (aquellos que consumen un producto porque los demás lo
+hacen). Entonces el modelo queda definido de la siguiente manera:
+
+S(t)= [p+(q/m) N(t-1)] [m-N(t-1)]
+
+Donde:
+
+N(t) = número de consumidores que adoptaron el producto en el momento t.
+
+S(t) = número de nuevos consumidores que adoptaron el producto en el
+período t. Entonces: S(t) = N(t) - N(t-1)
+
+Parámetros básicos:
+
+m: máximo número de consumidores que pueden adquirir el producto
+
+p: coeficiente de innovación (probabilidad de que un innovador compre o
+adopte el producto en un período t)
+
+q: coeficiente de imitación (probabilidad de que un imitador adopte el
+nuevo producto)

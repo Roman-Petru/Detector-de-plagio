@@ -1,0 +1,311 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 2
+
+Marketing 4.0 kotler
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borre
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  ---------------- ----------- -----------------------
+  INTEGRANTE                   
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+  ---------------- ----------- -----------------------
+
+Fecha de entrega:
+
+09/09/2019
+
+Preguntas:
+
+1.- Kotler destaca 3 grandes cambios económico-sociales fruto del efecto
+de internet y las TIC. Explique el primer cambio, “de exclusivo a
+inclusivo” diferenciando sus aspectos macro y micro.
+
+2.- Explique el segundo cambio que según Kotler está produciendo la
+tecnología, la globalización y otras fuerzas. “De vertical a
+horizontal”. Explique su impacto en los flujos de innovación y en la
+confianza del consumidor.
+
+3.- Que pasa con el control de la comunicación que tenían las marcas
+bajo el efecto del cambio “de individual a social”?
+
+4.- Pensando en Uber, trate de identificar ejemplos concretos de cómo se
+manifiestan los 3 cambios descriptos por Kotler en ese servicio/empresa.
+
+5.- Según Kotler describa la evolución del Marketing 1.0 al 4.0
+
+6.- Qué mejora o se fortalece con la conectividad “máquina a máquina” y
+qué con la conectividad “persona a persona” según Kotler?
+
+7.- Explique la transformación de un marketing de segmentación a uno de
+comunidades, del cliente como “blanco” al permiso.
+
+8.- Describa el “posicionamiento” tradicional, qué pasa ahora con la
+“promesa”?
+
+9.- Describa la evolución del marketing mix, de las 4 P (producto,
+precio, plaza o lugar y promoción o impulsión, hacia las 4 C
+(Co-Creación, Currency -moneda, activación Comunal y Conversación)
+
+10.- El marketing 4.0 es un marketing “en línea” (online) puramente
+digital?
+
+Resolución
+
+1.- Kotler destaca 3 grandes cambios económico-sociales fruto del efecto
+de internet y las TIC. Explique el primer cambio, “de exclusivo a
+inclusivo” diferenciando sus aspectos macro y micro.
+
+Cambio económico-social de “de exclusivo a inclusivo”:
+
+-   a nivel macro, el mundo está pasando de una hegemonía a una
+
+  estructura de poder multilateral. Las superpotencias, principalmente
+  la Unión Europea y los Estados Unidos, se dan cuenta de que algunos
+  poderes económicos se están desplazando al resto del mundo, sobre todo
+  a Asia, que ha experimentado un crecimiento constante en los últimos
+  años.
+
+  El cambio económico se atribuye principalmente al perfil demográfico
+  de las poblaciones de mercados emergentes: más joven, más productivo y
+  creciente a nivel ingresos.
+
+  La influencia política del mundo occidental también está disminuyendo,
+  tras la caída de su influencia económica.
+
+  Estos factores generan que los negocios se muevan hacia la inclusión,
+  la tecnológica permite tanto la automatización como la
+  miniaturización, lo que reduce los costos de los productos y permiten
+  que las empresas presten servicios a los nuevos mercados emergentes.
+
+-   a nivel micro, los humanos están adoptando la inclusión social. En
+    el mundo en línea, las redes sociales han redefinido la forma en que
+    las personas interactúan entre sí, permitiendo a las personas
+    construir relaciones sin barreras geográficas y
+    demográficas.Inclusividad social está ocurriendo no solo en línea
+    sino también fuera de línea. El concepto de
+
+  ciudades inclusivas -ciudades que acogen la diversidad de sus
+  habitantes- a menudo se considera como un buen modelo para ciudades
+  sostenibles.
+
+2.- Explique el segundo cambio que según Kotler está produciendo la
+tecnología, la globalización y otras fuerzas. “De vertical a
+horizontal”. Explique su impacto en los flujos de innovación y en la
+confianza del consumidor.
+
+Cambio económico-social de “de vertical a horizontal”:
+
+-   El flujo de innovación que una vez fue vertical (de las empresas al
+    mercado) se ha vuelto horizontal.
+
+  En el pasado, las empresas creían que la innovación debería venir
+  desde adentro; por lo tanto, construyeron una sólida infraestructura
+  de investigación y desarrollo. Eventualmente, se dieron cuenta de que
+  la tasa de innovación interna nunca fue lo suficientemente rápida como
+  para ser
+
+  competitivos en el mercado en constante cambio. Hoy, la innovación
+
+  es horizontal; el mercado suministra las ideas y las empresas
+  comercializan las ideas.
+
+-   El concepto de confianza del cliente ya no es vertical; ahora es
+    horizontal los clientes en el pasado fueron fácilmente influenciados
+    por las campañas de marketing. También buscaron y escucharon la
+    autoridad y la experiencia. Pero las investigaciones recientes en
+    todas las industrias muestran que la mayoría de los clientes creen
+    más en el factor f (amigos, familiares, seguidores de Facebook,
+    seguidores de Twitter) que en las comunicaciones de marketing. La
+    mayoría le pide consejo a un extraño en las redes sociales y les
+    confía más que publicidad y opiniones de expertos.
+
+3.- Que pasa con el control de la comunicación que tenían las marcas
+bajo el efecto del cambio “de individual a social”?
+
+Dada la conectividad en la que vivimos hoy, el peso de la conformidad
+social está aumentando en todos los ámbitos. Los clientes se preocupan
+cada vez más por las opiniones de los demás. También tienen sus
+opiniones y compilan enormes conjuntos de reseñas. Juntos, los clientes
+pintan su propia imagen de compañías y marcas, que a menudo es muy
+diferente de la imagen que las compañías y las marcas pretenden
+proyectar.
+
+Las empresas solían tener control sobre las comunicaciones de marketing,
+y solían manejar las quejas de los clientes de forma individual. Con el
+contenido generado por la comunidad, las empresas no tienen control
+sobre la conversación.
+
+Las compañías y marcas que tienen una reputación sólida y afirmaciones
+honestas sobre sus productos no deberían tener nada de qué preocuparse.
+Pero aquellos que hacen afirmaciones falsas y tienen productos pobres no
+sobrevivirán.
+
+4.- Pensando en Uber, trate de identificar ejemplos concretos de cómo se
+manifiestan los 3 cambios descriptos por Kotler en ese servicio/empresa.
+
+Si pensamos en Uber y los 3 cambios planteados por Kloter, a nivel
+cambio “exclusivo-inclusivo” podemos remarcar que Uber es un negocio de
+origen Norteamericano que llegó a muchas regiones del mundo, tanto
+emergentes como no, en algunos territorios con más éxito que en otros
+pero el poderío tecnológico y global que se generó potencio el
+despliegue de este servicio, es un claro ejemplo del cambio exclusivo a
+inclusivo.
+
+Si relacionamos el segundo de los cambios, de vertical a horizontal, con
+Uber también podemos ver que la innovación no surge de una gran
+corporación sino que surge de una buena idea, de una oportunidad, de
+entender lo que el mercado hoy en día demanda y de saber usar la
+tecnología a favor del cambio y las buenas oportunidades. Así como
+existe Uber existen otras aplicaciones del mismo estilo que buscan
+llamar la atención del mercado, existen distintos nichos que se van
+explotando siguiendo la hipótesis de la larga cola.
+
+Y por último el tercero de los conceptos, cambio individual a social,
+Uber, Rapi, Globo, mercadolibre, etc. todos estos negocios siguen este
+cambio, donde los social es lo que manda, la imagen de las compañías y
+de los negocios que participan en ellos, por ejemplo rapi, si el lugar
+de comida tiene mala reputación social, el mismo no tendrá éxito. Las
+empresas, o el chofer, todos tienen que crear una buena imagen en la
+comunidad social, no por lo que ellos quieren transmitir, sino por el
+tipo de servicio que brindan y por el cual la gente los califica.
+
+5.- Según Kotler describa la evolución del Marketing 1.0 al 4.0
+
+En el marketing 1.0, el foco está centrado en el producto.
+
+En el marketing 2.0, el foco está centrado en el cliente.
+
+En el marketing 3.0, el concepto se centra en el ser humano como la
+consecuencia natural del marketing centrado en el cliente. Los
+especialistas en marketing se acercan a los clientes comos seres humanos
+completos con mentes, corazones y espíritus.
+
+En el marketing 4.0, en un mundo cada vez más digital, esperamos una
+importancia creciente de la centricidad humana. Los profesionales de
+marketing deben adoptar aún más el poder del marketing centrado en el
+ser humano.
+
+6.- Qué mejora o se fortalece con la conectividad “máquina a máquina” y
+qué con la conectividad “persona a persona” según Kotler?
+
+El enfoque de usar la conectividad de máquina a máquina (Internet de las
+cosas) brinda la simplicidad y la inmediatez de la experiencia de
+“webrooming” en la experiencia de compra fuera de línea. Permite que los
+canales fuera de línea atraigan a los clientes con contenido digital
+relevante que facilita las decisiones de compra, como los detalles de
+los productos y las evaluaciones de clientes
+
+similares. Mejora significativamente la experiencia omnicanal general y,
+lo que es más importante, ayuda a los especialistas en marketing a
+mejorar las ventas.
+
+Las compras sin conexión se trata de utilizar los cinco sentidos para
+experimentar productos y servicios antes de comprometerse con la compra.
+
+Para brindar los atractivos beneficios de las compras sin conexión a los
+canales en línea, los especialistas en marketing pueden adaptar las
+técnicas de “showrooming”.
+
+El Marketing 4.0 aprovecha la conectividad de máquina a máquina y la
+inteligencia artificial para mejorar la productividad de marketing
+mientras aprovecha la conectividad de persona a persona para fortalecer
+el compromiso del cliente.
+
+7.- Explique la transformación de un marketing de segmentación a uno de
+comunidades, del cliente como “blanco” al permiso.
+
+El marketing tradicionalmente siempre comienza con la segmentación, una
+práctica de dividir el mercado en grupos homogéneos en función de sus
+perfiles (geográficos, demográficos, psicográficos y conductuales), la
+segmentación y la focalización son aspectos fundamentales de la
+estrategia de una marca. Sin embargo estas decisiones son unilaterales
+respecto al consentimiento del cliente. La participación de los clientes
+se limita a sus aportes en la investigación de mercado, que generalmente
+preceden a los ejercicios de segmentación y focalización. Al ser
+“objetivos”, los clientes a menudo se sienten invadidos y molestos por
+los mensajes irrelevantes dirigidos a ellos. Muchos consideran que los
+mensajes unidireccionales de las marcas son spam.
+
+En la economía digital, los clientes están socialmente conectados entre
+sí en redes horizontales de comunidades. Hoy, las comunidades son los
+nuevos segmentos, las mismas se forman naturalmente por los clientes
+dentro de los límites que ellos mismos definen. Las comunidades de los
+clientes son inmunes a los correos basura y publicidad irrelevante. En
+la actualidad las marcas deben pedir permiso a la comunidad para tener
+una participación efectiva.
+
+8.- Describa el “posicionamiento” tradicional, qué pasa ahora con la
+“promesa”?
+
+En un sentido tradicional, una marca es un conjunto de imágenes, con
+frecuencia un nombre, un logotipo y un slogan, que distingue al producto
+respecto de sus competidores. En los últimos años, una marca también se
+ha convertido en la representación de la experiencia general del cliente
+que una empresa ofrece a su público. Estratégicamente el concepto de
+marca está relacionado estrechamente con el posicionamiento de la marca.
+
+En la economía digital, los clientes ahora cuentan con la capacidad para
+evaluar e incluso analizar la promesa de posicionamiento de marca de
+cualquier empresa. Las mismas ya no pueden hacer promesas falsas e
+imposibles de verificar. Las empresas pueden posicionarse como cualquier
+cosa, pero a menos que haya esencialmente un consumo impulsado por la
+comunidad, el posicionamiento no es más que una postura corporativa.
+
+9.- Describa la evolución del marketing mix, de las 4 P (producto,
+precio, plaza o lugar y promoción o impulsión, hacia las 4 C
+(Co-Creación, Currency -moneda, activación Comunal y Conversación)
+
+El concepto de las 4 P, es una herramienta clásica que ayuda a la
+empresas a controlar las decisiones de productos desde la concepción
+hasta la producción, de tal forma de establecer un precio de venta de
+producto para luego determinar donde distribuirlo con el objetivo de
+hacerlo más accesible a los clientes. Cuando las 4 p se diseñan y
+alinean de manera óptima, la venta se vuelve menos desafiante a medida
+que los clientes se sienten atraídos por la propuesta de valor.
+
+En un mundo conectado, el concepto de marketing mix evolucionó para dar
+mayor cabida a los clientes, se redefine como las 4 C, Co-creación,
+moneda, activación y conversación. En el mundo digital la co-creación es
+la nueva estrategia de desarrollo de productos, desde el principio de la
+etapa los clientes participan en la etapa de ideación. El concepto de
+fijación de precios estandarizada paso a una de fijacion dinamica, es
+decir precios flexibles basados en la demanda del mercado y la
+utilización de la capacidad.
+
+El concepto de canal está cambiando, en la economía colaborativa el
+concepto de distribución más potente es la distribución punto a punto.
+
+Y por último el concepto de promoción también ha evolucionado,
+tradicionalmente, la promoción siempre ha sido un asunto unilateral,
+empresas envían mensajes a clientes como público. Hoy, la proliferación
+de redes sociales les permite a los clientes responder a esos mensajes.
+También permite a los clientes conversar sobre los mensajes con otros
+clientes.
+
+10.- El marketing 4.0 es un marketing “en línea” (online) puramente
+digital?
+
+Marketing 4.0 es un enfoque de marketing que combina la interacción en
+línea y fuera de línea entre empresas y clientes, combina el estilo con
+la sustancia en la creación de marcas y, en última instancia,
+complementa la conectividad máquina a máquina con un toque de persona a
+persona para fortalecer la participación del cliente. Ayuda a los
+especialistas en marketing a realizar la transición a la economía
+digital, lo que ha redefinido los conceptos clave del marketing. El
+marketing digital y el marketing tradicional están destinados a
+coexistir en Marketing 4.0 con el objetivo final de ganar la defensa del
+cliente.

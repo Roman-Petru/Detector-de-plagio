@@ -1,0 +1,57 @@
+TP 6 - Sistemas Emergentes - Steven Johnson
+
+Marketing en internet - UTN
+
+Fecha: 08/05/2017
+
+Alumno: Agustín Ezequiel Brandoni
+
+Legajo: 146.658-6
+
+Cuestionario
+
+1.  Cuáles son los 4 principios centrales del estudio de los sistemas
+      emergentes?
+
+  1) Interacción de vecinos
+
+  2) Reconocimiento de patrones
+
+  3) Retroalimentación
+
+  4) Control Indirecto
+
+2.  Describa en no más de 10 renglones la particular conducta del
+      Dictiostellum y sus implicancias.
+
+El Dictyosteliun es un moho de fango que tiene un comportamiento muy
+extraño.
+
+Pasa buena parte de su vida como miles de organismos unicelulares
+distintos; cada uno se mueve independientemente de sus otros compañeros.
+
+En condiciones de entorno favorables, el moho se comporta como un
+organismo único aislado, y en condiciones desfavorables de frio se
+comporta como una colonia de individuos.
+
+Su importancia para las disciplinas que lo estudian es la capacidad de
+poseer el comportamiento coordinado.
+
+3.  Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+La "morfogénesis", es la capacidad de todas las formas de vida de
+desarrollar cuerpos cada vez más complejos a partir de orígenes
+increíblemente simples.
+Fue desarrollada por Alan Turing en 1954.
+
+4.  Describa los conceptos o conductas “adaptativas” y “complejas”.
+      Describa sistema ascendente y sistema dinámico.
+
+5.  Describa un sistema emergente o autoorganizativo y diferéncielo de
+      un sistema evolutivo o del caos.
+
+Sistema emergente: Es un sistema complejo de adaptación autoorganizado,
+que se caracterizan por resolver problemas, recomendando cosas, etc.
+
+A diferencia de los sistemas evolutivos o del caos, en estos últimos no
+poseen organización y no resuelven problemas.

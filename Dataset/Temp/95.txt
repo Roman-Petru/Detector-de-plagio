@@ -1,0 +1,168 @@
+Matías Nahuel Sas - 1465661
+
+TP Wikinomics: 
+
+1.- Desarrolle el concepto “producción entre iguales”. 
+
+ 
+El concepto “producción entre iguales” hace referencia a una forma de trabajo, 
+producción y creación de bienes o servicios en la cual un grupo de personas o empresas 
+se unen mediante los nuevos métodos de comunicación existentes para realizar un 
+aporte al grupo y así lograr un producto o servicio final superior al que cada uno podría 
+llegar por separado. Es una forma de creación que se basa en la cooperación entre 
+individuos para lograr un fin que sólos no podrían lograr, o les llevaría mucho más 
+tiempo. 
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía.  
+Dé  un ejemplo de cada una. 
+
+• Apertura: Hace referencia a abrirse como empresa al mundo, compartir con otras 
+
+empresas, ya que aquellas empresas con fronteras totalmente cerradas y que dependen 
+únicamente del conocimiento de sus empleados se quedan en el tiempo, innovan 
+menos, y terminan siendo desplazadas por la competencia. Este concepto también 
+hace refencia a abrir la mente de los dueños o gerentes de empresas a nuevos 
+esquemas de trabajo, como el de software libre, los cuales eran fuertemente 
+repudiados. También apertura abarca al de transparencia organizacional, tanto puertas 
+afuera, es decir, para potenciales inversores, como puertas adentro, creando una mayor 
+confianza para con los empleados y clientes. Por último, este concepto también hace 
+refencias a nuevas formas de compartir información. Conocimiento que anteriormente 
+era sólo accesible por unos pocos, hoy está a las manos de cualquier persona con 
+acceso a internet. Un ejemplo actual sobre este punto es el caso de Microsoft, empresa 
+que actualmente se está cada vez más abriendo al mundo, comenzando a ofrecer 
+productos gratuitos y colaboración de personas externas a la empresa. 
+
+• Interacción entre iguales: Esta idea se basa en dos principios. Por un lado establece 
+una jerarquía horizonal en la organización de las empresas, en la cual si bien no se 
+destruye por completo la concepción de jefe-empleado, se tiende mucho a una 
+estructura de autoorganización. El otro pilar de este concepto es el de compartir 
+conceptos e información entre personas y empresas. Es decir, utiliza el concepto de 
+producción entre iguales. Un claro ejemplo de esto es Valve, empresa en la cual sus 
+empleados proponen ideas, arman grupos de trabajo y las llevan a cabo sin contar con 
+un rol de gerente que indica qué hacer y cuándo hacerlo. 
+
+• Compartir: la idea se basa en compartir conocimiento con el cliente para lograr una 
+
+mejor solución, impulsada en la innovación y creatividad. Al escudarse en barreras de 
+propiedad intelectual, las empresas muchas veces se perdían grandes oportunidades de 
+negocios. Este concepto no se limita unicamente a la propiedad intelectual, sino que 
+va más allá, compartiendo recursos, archivos, y todo lo imaginable. El caso más 
+sencillo de este concepto es el de software libre, como el caso de Linux, el cual vió un 
+
+   1
+
+Matías Nahuel Sas - 1465661
+
+crecimiento gigante debido, en gran parte, a abrir su código y aceptar sugerencias de 
+cualquier persona que quiera realizarlas. 
+
+• Actuación global: este concepto hace referencia a la necesidad de las empresas de 
+
+adaptarse al nuevo modelo en el cual ya no se debe pensar localmente, sino 
+mundialmente, se debe pensar en proveedores, clientes, empleados, distribución tanto 
+de mercadería como de los bienes empresariales a nivel mundial, aprovechando las 
+facilidades que brinda cada región geográfica sobre cada aspecto. Este concepto hoy 
+es muy claro en todas las grandes empresas internacionales, que están distribuidas por 
+todo el mundo, tanto a nivel ventas como producción, un ejemplo sencillo es el caso 
+de Amazon, que posee oficinas con empleados en un gran número de países, y 
+produce distintos tipos de servicios en cada una, además contando con servidores e 
+infraestructura distribuidos. 
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración 
+masiva. 
+
+El concepto de emergencia como consecuencia de la colaboración masiva hace 
+
+ 
+referencia a la creación de conocimiento, herramientas, estructuras, modos y 
+capacidades que no son nuevas, no son propias de un ente en sí, sino que se generan y 
+establecen entre todos los participantes. Este concepto hace referencia también al de 
+producción entre iguales, ya que afirma que en el mercado, tienden a ganar los 
+resultados emergentes, aquellos en los que colaboraron un gran número de empresas o 
+personas, y no fueron cosechados dentro de una única organización con sus puertas 
+cerradas.  
+ 
+Un claro ejemplo de esto se ve en las herramientas como GitHub, en las cuales 
+se puede publicar un código para que cualquiera vea, descargue, modifique y sugiera el 
+cambio en pos de mejorar la herramienta actual. Esto dió pie a un gran número de 
+proyectos que hoy triunfan en el mercado, como ser el caso de Linux. 
+
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene? 
+Explique qué y cuáles son los costos de transacción. 
+
+Originalmente, la ley de Coase establecía que una empresa debe expandirse 
+ 
+horizontal y verticalmente siempre que el costo de expansión iguale o sea menor al 
+costo de transacción de tercializar ésa actividad en el mercado. Es decir, una empresa 
+debe por ejemplo extraer la materia prima que necesita siempre que el costo sea igual o 
+menor que el de comprarlo en el mercado. 
+ 
+cuando la ley fue escrita, es más acorde leer la ley en el sentido inverso, es decir, que las 
+empresas deben replegarse hasta que todas sus actividades tengan un costo de 
+transacción menor al de hacerlas en forma externa. 
+ 
+
+Actualmente, debido a que los costos de transacción son mucho menores que 
+
+Los costos de transacción están compuestos por tres pilares: 
+• Costos de búsqueda: son los que se incurre al identificar a los potenciales 
+
+proveedores y determinar cuán útil o no son los bienes o servicios que ofrecen; 
+
+   2
+
+Matías Nahuel Sas - 1465661
+
+• Costos de contratación: son aquellos que implican negociar el precio y las 
+
+condiciones de la contratación del proveedor; 
+
+• Costos de coordinación: aquellos que representan el gasto de integrar los 
+
+productos y procesos al actual circuito productivo de la empresa. 
+
+5.- Qué elementos favorecen la producción colaborativa? 
+
+La producción colaborativa se ve favorecida cuando se cuenta con un líder que 
+
+ 
+pueda guiar y gestionar las interacciones de los miembros y normas de cooperación bien 
+establecidas. También se ve muy favorecida cuanto mayor sea la globalización y más las 
+posibilidades de comunicación y cooperación entre sus miembros. Además se ve muy 
+favorecido cuando existe una economía que cubre la necesidades básicas de las 
+personas, permitiendoles buscar el cubrir sus necesidades secundarias (pirámide de 
+Maslow), y de este modo buscando la autoselección, manteniendose motivados y 
+eficaces en su cooperación hacia la autoorganización. 
+
+6.- Qué rol juega la “autoselección” en la producción entre pares? 
+
+La autoselección en la producción entre iguales es el modo de asignación de 
+
+ 
+tareas al personal. Cada integrante de la autoorganización sabe qué está capacitado para 
+hacer y qué le gustaría hacer, por lo que se seleccionará para realizar una tarea en la cual 
+es competente y que lo motive para llevarla a cabo. Esto lleva a mejores resultados que 
+si la selección la realiza un gerente que desconoce en la mayoría de los casos las 
+calificaciones y motivaciones de todo su personal. 
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales?  
+
+La producción entre iguales se favorece bajo las siguiente tres condiciones: 
+• Cuando el objeto que se produce es información o cultura, ya que de este modo se 
+
+mantiene bajo el coste de participación de los integrantes; 
+
+• Cuando las tareas pueden descomponerse en partes reducidas que los integrantes de la 
+organización pueden colaborar y son independientes del resto de los productores. De 
+este modo todos los miembros pueden colaborar en sus tiempos y a su modo, sin 
+generar dependencias entre tareas, lo que lleva a mayores tiempos y retrasos. 
+
+• Por último, el costo de combinar las colaboraciones mencionadas en el punto anterior 
+
+para lograr el bien o servicio final debe ser bajo. 
+
+ 
+
+   3
+
+

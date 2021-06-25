@@ -1,0 +1,100 @@
+[]
+
+MARKETING EN INTERNET Y NUEVA ECONOMÍA
+
+1er Cuatrimestre 2017
+
+TP6 – Sistemas Emergentes
+
+Profesor: Prince, Alejandro
+
+Ayudantes: Hernan Borre, Maximiliano Bracho
+
+Alumno: Rocchio, Claudio
+
+Legajo: 118319-9
+
+1)  ¿Cuáles son los 4 principios centrales del estudio de los sistemas
+    emergentes?
+
+Los 4 principios centrales para el estudio de sistemas emergentes son:
+
+-   interacción de vecinos
+
+-   reconocimiento de patrones
+
+-   retroalimentación
+
+-   control indirecto.
+
+2)  Describa en no más de 10 renglones la particular conducta del
+    Dictyostelium y sus implicancias.
+
+  Se descubrió que el moho de fango, tiene una capacidad adaptativa al
+  entorno, ya que bajo ciertas circunstancias del contexto (la
+  temperatura) puede comportarse en forma aislada en microorganismos
+  unicelulares o en una colonia que actúan como uno solo.
+
+  Mediante el estudio multidisciplinar y principalmente al aporte hecho
+  por Keller y Segel (física y matemático) se pudo determinar que el
+  preconcepto que se tenía y que imperaba hasta el momento de que esta
+  organización se daba gracias a una jerarquía en la que algunas células
+  actuaban como marcapasos o lideres para guiar al resto, era falso, y
+  que no había tales células privilegiadas. Se detectó que todas eran
+  iguales y que la auto organización se daba a través de una capacidad
+  individual de todas las células de poder alterar la segregación de una
+  sustancia que al llegar a sus vecinas podía estimularlas para que se
+  junten.
+
+  La implicancia de este hallazgo es que permitió detectar un patrón de
+  comportamiento que se origina en las bases y no requiere de un
+  liderazgo superior para poder administrar un funcionamiento colectivo.
+  Esto pudo detectar el mismo patrón en otras formas de organización y
+  también aplicarse a otros nuevos campos como el software libre y a la
+  democratización de la economía y de la web.
+
+3)  ¿Qué es la morfogénesis?, ¿quién desarrolló esta idea en 1954?
+
+  La morfogénesis fue el último trabajo que desarrolló Alan Turing (uno
+  de los padres de la computación) antes de su muerte, en el cual
+  estudió y comprobó la capacidad de todas las formas de vida de
+  desarrollar cuerpos cada vez más complejos a partir de orígenes
+  increíblemente simples. Usando herramientas matemáticas demostró cómo
+  un organismo complejo podía desarrollarse sin ninguna dirección o plan
+  maestro.
+
+4)  Describa los conceptos o conductas “adaptativas” y “complejas”.
+    Describa sistema ascendente y sistema dinámico.
+
+  Se dice que algo es adaptativo cuando exhibe la cualidad de hacerse
+
+  más inteligentes con el tiempo y de responder a necesidades cambiantes
+  y específicas de su entorno.
+
+  El concepto de comportamiento complejo consiste en un sistema con
+  agentes múltiples que interactúan en forma dinámica de múltiples
+  maneras, siguiendo reglas locales e independientes de cualquier
+  instrucción de un nivel superior.
+
+  Se dice que un sistema es ascendente cuando tiene capacidades
+  adaptativas y complejas, lo cual permite que se resuelvan problemas
+  recurriendo a masas de elementos relativamente no inteligentes en
+  lugar de hacerlo recurriendo a un solo "brazo ejecutor" inteligente.
+
+  Un sistema se comporta dinámicamente cuando sus elementos rara vez se
+  establecen en una forma única y fija. En contraste, forman patrones en
+  el tiempo y en el espacio.
+
+5)  Describa un sistema emergente o autoorganizativo y diferéncielo de
+    un sistema evolutivo o del caos.
+
+  Se dice que un sistema es emergente cuando los agentes que residen en
+  una escala comienzan a producir comportamientos que yacen en una
+  escala superior a la suya. La evolución de reglas simples a complejas
+  es lo que se denomina "emergencia". En estos sistemas los patrones son
+  regulares, aunque sus bases sean aleatorias.
+
+  En cambio, en los sistemas caóticos emergen conductas impredecibles a
+  partir de reglas deterministas de niveles inferiores. Un pequeño
+  cambio en las condiciones iniciales puede producir resultados muy
+  dispares.

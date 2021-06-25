@@ -1,0 +1,144 @@
+TP: PAPER DIFUSION Y ADOPCION PARTE 1
+
+1. Qué se entiende por difusión y adopción de innovaciones.
+
+La difusión y adopción de Innovación es el proceso por el cual un
+producto/idea/tecnología es dada a conocer, adoptada y asimilada por una
+comunidad (persona y organización), e implica el estudio de cómo, por
+qué y a qué tasa se divulga
+
+2. Diferencie la posición instrumentalista de la determinista.
+
+Mientas que la posición determinista ve al cambio tecnológico como una
+fuerza autónoma y revolucionaria (independiente de las sociedades donde
+se produce), la posición Instrumentalista tiene en cuenta las
+condiciones sociales y a las aspiraciones humanas como el motor del
+cambio (un proceso evolutivo y continuo)
+
+3. Indique los 5 determinantes principales del proceso de difusión según
+Rogers.
+
+I.  Características de la innovación que influencian en su adopción
+
+II. Proceso de decisión de los individuos
+
+III. Características de los individuos que se muestran de acuerdo en
+       adoptar la innovación
+
+IV. Beneficios que trae asociados la innovación para los individuos y la
+      sociedad
+
+V.  Los canales de comunicación por donde la innovación es difundida
+
+4. Explique según Rogers las 5 categorías de integrantes de la adopción.
+
+I.  Innovador: son los primeros en adoptar y representan un grupo muy
+      pequeño.
+
+II. Early Adopter: Una minoría respetable, influyente y líderes de
+      opinión.
+
+III. Mayoría temprana: gente racional, se suman al cambio más rápido que
+       la media y lo hace ya que entiende los beneficios
+
+IV. Mayoría tardía: Escépticos, se suben al cambio cuando ven que ya fue
+      adoptado por la mayoría
+
+V.  Rezagados: Críticos sobre las nuevas ideas, atados al pasado.
+      Adoptan el cambio cuando ya se transformó casi en una tradición[]
+
+Si tomamos un gráfico típico de campana de Gauss, cada una de las
+categorías se podrían distribuir de la siguiente manera
+
+5. Defina según Rogers a los innovadores y adoptantes temporarios.
+(Tempranos?)
+
+Innovadores: representan el pequeño grupo de personas que primero adopta
+una idea (hasta ahora desconocida). Son arriesgados y tienen los medios
+necesarios para soportas las posibles pérdidas. Generalmente son
+incomprendidos por su decisión de adoptar las innovaciones de manera
+temprana.
+
+Adoptantes tempranos: Son un grupo pequeño en comparación con las
+mayorías (pero más grande que los innovadores). Cuentan con un gran
+respeto de sus pares y son líderes de opinión. Su opinión es un gran
+motor para que la idea innovadora sea adoptada por mas personas.
+
+6. Defina según Rogers las características de los rezagados.
+
+Según Rogers, los rezagados son un pequeño grupo de la sociedad
+(generalmente carente de influencia) que adopta una dea solo cuando esta
+ya es aceptada y asimilada por el conjunto de las personas. Suelen estar
+aislados y se aferran al pasado. Carecen de liderazgo y sus recursos son
+limitados.
+
+TP: PAPER DIFUSION Y ADOPCION PARTE 2
+
+7. Explique según Rosemberg el rol del aprendizaje en la adopción.
+
+El aprendizaje en la adopción brinda retroalimentación a la innovación.
+El hecho de aprender y entender la forma sobre su el uso de las
+innovaciones en distintos entornos genera oportunidades de mejora y por
+lo tanto facilita el proceso de adopción
+
+8. Explique según HALL el rol de los costos hundidos en la adopción y
+porque ésta es un ̈absorbing state ̈.
+
+Los costos hundidos funcionan como una barrera en el proceso de
+adopción, haciendo que éste sea más lento. Esto se debe a que el
+individuo considera primero los costos de adopción por sobre los
+beneficios. Sin embargo, Hall remarca que a la larga estos costos son
+irrelevantes. El proceso de adopción se trata un viaje de ida
+("Absorbing state") ya que volver atrás tecnológicamente es muy costoso
+y no permite recuperar los costos hundidos.
+
+9. Según Caselli y Coleman cuales son los 4 principales determinante de
+adopción de PC, comparando entre diversos países.
+
+A.  Fuentes y tipo de comercio con otros países: El país importador
+      tiene más tasa de adopción que el país exportador de materia prima
+
+B.  Protección de Derechos de Autor: leyes muy estrictas pueden
+      desalentar el desarrollo
+
+C.  Inversiones por trabajador: El peso que el Estado le da y de qué
+      manera incentiva el proceso de adopción
+
+D.  La importancia de la agricultura en el PBI: A mayor participación de
+      la agricultura en el PBI menor es la tasa de adopción
+
+10. Explique según Dutton y otros que es y que rol juega el hecho de que
+la PC sea "innovación activa"
+
+Según Dutton, Rogers y Jun, la PC es una Innovación activa ya que a
+diferencia de la TV requiere una interacción de parte del usuario y
+genera un ambiente de Problema-Solución. Este tipo de relación fomenta
+el desarrollo intelectual y cognitivo y permite que los usuarios sean
+más educados y estén orientados a la búsqueda del conocimiento
+
+11. Qué utilidad tiene el modelo Bass, descríbalo y formule describiendo
+los
+
+parámetros.
+
+El Modelo de Bass es un modelo matemática que permite (de manera
+simplificada) estimar el número de individuos que van a adoptar un
+producto innovador en un momento determinado y a lo largo del tiempo. A
+diferencia de otros modelos no se nutre de datos históricos de ventas,
+si no de los siguientes parámetros:
+
+-   N(t) → N° de consumidores que adoptaron el Producto en t
+
+-   S(t) → N° de nuevos consumidores en t [ S(t) = N(t) - N(t-1) ]
+
+-   m → Max N° de Consumidores
+
+-   p → Coeficiente de innovación: probabilidad de que un Innovador
+      adopte el producto
+
+-   q → Coeficiente de Imitación: probabilidad de que un individuo
+      imitador adopte el producto (debido a la influencia del Innovador)
+
+Matemáticamente se puede expresar como
+
+S(t) = [ p + (q/m) . N(t − 1) ] . [ m − N(t − 1) ] 

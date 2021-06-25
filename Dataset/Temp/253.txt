@@ -1,0 +1,166 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 4
+
+Machine, Platform, Crowd: Harnessing Our Digital Future
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borre
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  INTEGRANTE                   
+  ---------------- ----------- -----------------------
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+
+Fecha de entrega:
+
+30/09/2019
+
+Preguntas:
+
+  1. Explique las tres grandes tendencias que están cambiando los
+  tradicionales modelos de negocio. Describa con ejemplos.
+
+  2. ¿Cómo transforma a la inteligencia humana, los productos y al
+  conocimiento centralizado (core)?
+
+  3. ¿Cómo afecta a los procesos, a la oferta y a la organización del
+  trabajo?
+
+  4. ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+  5. ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+  6. ¿Qué son los efectos de red? Describir ejemplos.
+
+  7. ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+  ejemplos de este tipo de plataformas.
+
+  8. Describa los nuevos modelos de negocio que ofrecen las plataformas
+  digitales.
+
+Resolución
+
+  1. Explique las tres grandes tendencias que están cambiando los
+  tradicionales modelos de negocio. Describa con ejemplos.
+
+Las tres grandes tendencias son:
+
+-   Incremento rápido y expansivo de las capacidades de las máquinas
+
+  Las máquinas hoy en día cambian el paradigma de los negocios, por
+  ejemplo, la inteligencia artificial crea nuevos negocios. La toma de
+  decisiones está basada en datos.
+
+-   El surgimiento de las plataformas digitales
+
+  Las plataformas digitales modifican el viejo sistema de ventas de
+  productos en vidriera, en la actualidad (las plataformas digitales)
+  brindan muchas posibilidades (la teoría de larga cola) a muy bajo
+  costo.
+
+-   El conocimiento de las masas
+
+  El conocimiento de las masas reemplaza a lo que antes era un
+  conocimiento centralizado de unos pocos, hoy en día las masas crean
+  nuevos negocios, algo es exitoso si se vuelve masivo.
+
+  2. ¿Cómo transforma a la inteligencia humana, los productos y al
+  conocimiento centralizado (core)?
+
+La inteligencia humana perdió la confianza, las decisiones importantes
+se toman en base a inteligencia artificial, bases de datos, estadísticas
+de ventas, tendencias de mercado, etc.
+
+La venta de de productos se transformó en venta de servicios, un
+producto se debe ofrecer como un servicio, esto se apoya en las
+plataformas digitales.
+
+El conocimiento centralizado tiene menor valor en el actual mercado, las
+redes y la conectividad generan la masividad necesaria para penetrar el
+mercado.
+
+  3. ¿Cómo afecta a los procesos, a la oferta y a la organización del
+  trabajo?
+
+Los procesos se ven afectados por nuevas formas de tomar decisiones, las
+estadísticas, las máquinas, las encuestas, ect son la fuente principal.
+
+La oferta se ve afectada por el tipo de servicio que brindamos. Cuanto
+más completo y variado sea nuestro servicio más competitiva será nuestra
+oferta.
+
+La organización del trabajo se ve afectada directamente por las masas,
+las redes globales y plataformas robustas son una fuerza poderosa.
+
+4. ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+Machine learning es una rama de la inteligencia artificial que se
+encarga del autoaprendizaje o aprendizaje automático de las máquinas en
+el campo de la ciencia de la computación. Existen distintas tecnologías
+y algoritmos que implementan machine learning.
+
+El uso principal que hoy en dia se le puede dar en materia de marketing
+es el de diagnóstico, clasificación, predicción de mercado, búsqueda de
+mercado, etc. Es la herramienta principal que sustituye la experiencia y
+decisiones de la mente humana.
+
+  5. ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+  Podemos esperar mayor precisión, potenciado por la evolución
+  tecnológica.
+
+  Podemos esperar nuevas herramientas apoyadas en nuevos algoritmos.
+
+  Es probable que no pueda predecir los giros o cambios de futuros
+  mercados.
+
+  6. ¿Qué son los efectos de red? Describir ejemplos.
+
+Los efectos red impactan directamente en la demanda, cuanto más grandes
+son las redes mayor es la ventaja significativa en la adquisición de
+nuevos clientes.
+
+Ejemplos: Mercadolibre actualmente es una referencia de precio en el
+mercado por su masividad en la red.
+
+Plataformas digitales, cualquiera sea, cuanto más grande sea mayor es su
+penetración en el mercado.
+
+  7. ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+  ejemplos de este tipo de plataformas.
+
+Las plataformas O2O son canales en el cual se trata de llevar a los
+consumidores desde la plataforma online hacia la plataforma offline, es
+decir es una estrategia para tratar de atraer al cliente hacia la tienda
+a través de internet. Ofrecen oportunidades a personas que poseen
+recursos propios, estas plataformas aumentan la eficiencia a bajo costo.
+
+Ejemplo: Mercadolibre, los pequeños vendedores pueden ofrecer sus
+productos, OLX, similar a mercado libre, tienda facebook, etc.
+
+  8. Describa los nuevos modelos de negocio que ofrecen las plataformas
+  digitales.
+
+-   Modelo de negocios de código abierto
+
+-   Modelo gratis
+
+-   Modelo freemium
+
+-   Modelo basado en suscripción
+
+-   Modelo bajo demanda
+
+-   Modelo de comercio electrónico

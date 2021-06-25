@@ -1,0 +1,137 @@
+PREGUNTAS TP
+
+Machine, Platform, Crowd: Harnessing Our Digital Future
+
+Andrew McAfee y Erik Brynjolfsson
+
+1.  Explique las tres grandes tendencias que están cambiando los
+    tradicionales modelos de negocio. Describa con ejemplos.
+
+-   Incremento rápido y expansivo de las capacidades de las máquinas: La
+    inteligencia artificial se contrapone a la inteligencia humana.
+    Existen dos paradigmas. La inteligencia artificial aplicada para
+    resolver una tarea como por ejemplo encontrar la mejor ruta en
+    Google maps o dar recomendaciones en Netflix. Y el otro paradigma es
+    la inteligencia general, la cual aún no existe y se busca que puedan
+    resolver problemas para los cuales no fueron diseñados.
+
+-   El surgimiento de las plataformas digitales: Las plataformas
+    transforman lo que son productos y servicios. Por ejemplo, los
+    e-commerce como Mercado Libre. Otro ejemplo de plataforma es
+    Spotify.
+
+-   El conocimiento de las masas: El conocimiento de las masas reemplaza
+    el conocimiento centralizado. Ahora es más importante un conjunto de
+    personas que una sola persona. Ejemplos del conocimiento de masa son
+    Wikipedia, Github y Bitcoin.
+
+2.  ¿Cómo transforma a la inteligencia humana, los productos y al
+    conocimiento centralizado (core)?
+
+Se perdió la confianza en la inteligencia humana y se usa la
+inteligencia artificial para tomar decisiones complejas e importantes.
+Tendencia de reemplazar el juicio humano por el de las máquinas. La toma
+de decisiones basadas en datos. Menos confianza en el juicio de los
+expertos (sesgos, prejuicios).
+
+Ahora los productos se venden a través de plataformas digitales y a su
+vez se utilizan las plataformas para ofrecer servicios y experiencias
+diferenciales por utilizar la plataforma. Con respecto al conocimiento
+centralizado, ahora se le da menor valor que al conocimiento de las
+masas. Es más valioso un conjunto de personas que una sola persona que
+concentre los conocimientos.
+
+3.  ¿Cómo afecta a los procesos, a la oferta y a la organización del
+    trabajo?
+
+Optimiza los procesos produciendo una reducción de costos, aumenta la
+oferta ya que se amplían los canales para llegar a los consumidores, y
+con respecto a la organización del trabajo, se vuelve más fácil que las
+personas se agrupen funden sus propios emprendimientos apoyados de las
+facilidades que provee la tecnología actual. Con lo cual, grandes
+empresas no saben de dónde puede provenir el golpe. Por ejemplo, las
+empresas de taxis no se esperaban que les hiciera competencia una
+plataforma digital como Uber que no posee vehículos propios.
+
+4.  ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+Machine Learning es una disciplina científica del ámbito de la
+Inteligencia Artificial que crea sistemas que aprenden automáticamente.
+La máquina lo que realmente aprende es un algoritmo que revisa los datos
+y es capaz de predecir comportamientos futuros. Las soluciones de
+machine learning sirven para: diagnóstico, clasificación, predicción,
+búsqueda de patrones. Hace 10/20 años solamente las grandes empresas
+podían permitirse utilizar inteligencia artificial. Hoy en día hasta
+podría utilizarlo una pinturería para por ejemplo analizar su stock. Hay
+una democratización de la inteligencia artificial.
+
+5.  ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+Podemos esperar que cada vez se deleguen más decisiones en Machine
+Learning y que esta tecnología sea aún más accesible y fácil de
+implementar por cualquiera. Por ejemplo, se puede llegar a lograr
+operaciones quirúrgicas más precisas.
+
+6.  ¿Qué son los efectos de red? Describir ejemplos.
+
+El efecto de red es la economía de escala del lado de la demanda. A los
+productos, mientras más son consumidos por más personas, más los
+queremos. Es muy importante el factor gente. Por ejemplo, a whatsapp se
+le da más valor mientras más personas lo usen. Otro buen ejemplo es
+Uber, si tuvieran pocos choferes o pocos usuarios para viajar, entonces
+no tendrían tanto valor. También hay efectos de red negativos. Por
+ejemplo, alguien que se va de Facebook porque están sus padres.
+
+7.  ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+    ejemplos de este tipo de plataformas.  
+
+Las plataformas digitales O2O se refieren a offline to online (y
+viceversa), unen el mundo físico con el vitual. Proveen más
+oportunidades para las personas que tienen propiedad de los recursos. Y
+las plataformas aumentan la eficiencia y la utilización de esos
+recursos. El sistema de reputación en las plataformas para mejorar la
+experiencia. Por ejemplo, unitag ofrece conectar lugares físicos con el
+mundo digital para ofrecer contenido de marketing digital. Otro ejemplo
+es Datalogix que provee un link entre los ads digitales y las ventas que
+se realicen en el local.
+
+8.  Describa los nuevos modelos de negocio que ofrecen las plataformas
+    digitales.
+
+-   Código abierto: Un modelo de código abierto hace que el software sea
+    de libre acceso, y generalmente le da la capacidad a una comunidad
+    de programadores para quecontribuya a él. Libre hace que se propague
+    muy rápidamente. La comunidad (crowd) eventualmente determina su
+    éxito.
+
+-   Gratuito: Lanzar un servicio gratuito para una base de usuarios cada
+    vez más grande. Atraen a los primeros inversores ángeles, luego a
+    los capitalistas de riesgo que tuvieron que recurrir rápidamente al
+    modelo de publicidad para monetizar a sus usuarios, para evitar
+    quedarse sin efectivo e inversores. Necesitan de inversiones para
+    mantener su infraestructura a corto plazo y luego encontrar una
+    estrategia de monetización.
+
+-   Freemium: En su núcleo, un modelo freemium tiene una versión
+    gratuita disponible para todos, sin fricción. Solicita dentro de
+    esos servicios gratuitos cambiar a suscripciones pagadas para
+    obtener más volumen, sin publicidad o más datos. Este modelo permite
+    un alto crecimiento de viralidad.
+
+-   Suscripción: Estamos viviendo en una economía de suscripción. Este
+    modelo puede ser muy poderoso ya que conlleva algunas ventajas
+    integradas: Una base de usuarios leales; Un flujo continuo de
+    ingresos predecibles; Un pipeline de ventas más predecible. Producir
+    contenido original para que los suscriptores renueven su plan.
+    Construir un proceso orientado hacia una excelente experiencia del
+    cliente para minimizar las tasas de abandono y mejorar el valor del
+    cliente de por vida.
+
+-   Bajo Demanda: La Web finalmente permitió a las personas consumir
+    contenido a su propio ritmo y en su horario. El modelo bajo demanda
+    se puede monetizar de varias maneras. Desde suscripciones a tarifas
+    por cada transacción en una plataforma.
+
+-   Comercio electrónico: son Marketplace dónde se puede publicar y
+    comprar productos de forma online. Por ejemplo, Amazon y Mercado
+    Libre.

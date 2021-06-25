@@ -1,0 +1,132 @@
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+Universidad Tecnológica Nacional 
+Facultad Regional Buenos Aires 
+Ingeniería en Sistemas de Información 
+ 
+
+ 
+
+CURSO: K5052 - 1 CUAT. 2017 
+
+ 
+
+ 
+
+Marketing en Internet y Nueva Economía 
+
+TP 1 - WIKINOMICS 
+
+ 
+ 
+ 
+Profesor​:​ ​Dr. Alejandro Prince 
+ 
+Nombre:​ Pablo Pallocchi 
+Legajo:​ 138.291-3 
+Fecha de entrega​: ​21/03/2017 
+ 
+
+ 
+
+1.- Desarrolle el concepto “producción entre iguales”. 
+
+Se denomina “producción entre iguales” a un fenómeno que se surgió en las últimas 
+décadas (a partir del gran avance que hubo en las comunicaciones) donde las masas 
+cooperan y se autoorganizan para producir bienes o servicios, y pueden competir con las 
+grandes empresas tradicionales. Algunos ejemplos para destacar son Wikipedia y Linux, la 
+primera logró destronar a la prestigiosa Enciclopedia Británica ya que es gratuita y son 
+millones de personas manteniéndola actualizada contra unos pocos de cientos con los que 
+cuenta la EB. 
+ 
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se 
+basa la wikinomía. Dé un ejemplo de cada una. 
+
+La wikinomía se basa en 4 ideas: 
+ 
+Apertura​:​ ​Tradicionalmente las empresas fueron cerradas, desarrollando sus productos 
+internamente bajo total hermetismo para protegerse de la competencia. La apertura parte de 
+la base de que en el mundo existen millones de personas innovando y creando frente a los 
+pocos cientos que puede tener la empresa, entonces es mucho más beneficioso abrirse, 
+compartir con la comunidad nuestro trabajo y sumar a todo es océano de mentes para que 
+nos ayuden a mejorar y evolucionar más rápido. 
+ 
+Interacción entre iguales​: No hay jerarquías como las conocimos tradicionalmente a lo largo 
+de la historia en todo tipo de organizaciones. La organización en este caso es horizontal y 
+sus integrantes se autoorganizan. Hay líderes y personas que tienen más voz que otras 
+pero porque naturalmente sus pares le otorgan ese reconocimiento. 
+ 
+Compartir​: La única forma de que millones de colaboradores en el mundo puedan trabajar 
+juntos por un objetivo común es que todos estén dispuestos a compartir, ya sea sus 
+conocimientos, recursos y su trabajo. 
+ 
+Actuación global​: Por todo lo mencionado anteriormente, surge que es necesario que las 
+organizaciones abran sus fronteras a todo el mundo y trascender culturas, tecnologías y 
+pueblos. 
+ 
+ 
+
+ 
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia 
+de la colaboración masiva. 
+
+La emergencia tiene que ver con la visión sistémica de la colaboración masiva. Lo que los 
+colaboradores producen como organización no es inherente a lo que puede hacer cada uno 
+de ellos por separado. Podemos asociarlo al concepto de sinergia: “el todo es más que la 
+suma de sus partes”. Ejemplos de esto puede ser el software libre (podríamos citar 
+nuevamente a linux como el gran ejemplo) o wikipedia. 
+ 
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que 
+implicancias tiene? Explique qué y cuáles son los costos de 
+transacción. 
+
+La ley de Coase decía que las empresas deben expandirse hasta que el costo de realizar 
+una transacción adicional de manera interna sean iguales al costo de hacerlo saliendo al 
+mercado. Si el costo en este último era menor, la empresa debe dejar de resolverlo puertas 
+adentro. Ahora la ley sigue vigente, pero debido a los bajos costos que ofrece el mercado se 
+puede ver a la inversa: la empresa debe replegarse lo más que pueda hasta que el costo de 
+realizarlo de forma interna sea menor. 
+Podríamos descomponer los procesos industriales en una serie de transacciones 
+negociadas de manera independiente. Estas transacciones tendrían costos asociados, los 
+cuales serían: costos de búsqueda (localizar proveedores), de contratación (negociar precio 
+y contratar las condiciones) y de coordinación (organizar los distintos productos y procesos). 
+ 
+5.- Qué elementos favorecen la producción colaborativa? 
+
+Algunos de los elementos que favorecen la producción colaborativa son la globalización, las 
+nuevas tecnologías, las motivaciones voluntarias y la era digital y su economía. 
+ 
+6.- Qué rol juega la “autoselección” en la producción entre pares? 
+
+La autoselección es la gran ventaja que tiene la producción entre pares frente a una 
+empresa tradicional, ya que en la primera cada uno se desempeña en lo que más preparado 
+está y más lo motiva, mientras que en las últimas esto corre por cuenta de un gerente que 
+decide qué papel juega cada uno. 
+ 
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales? 
+
+1) El objeto de la producción es información o cultura, una circunstancia que mantiene a un 
+nivel bajo el coste de participación para las personas que contribuyen. 
+ 
+2) Las tareas pueden descomponerse en porciones reducidas que los individuos pueden 
+aportar con pequeños incrementos y con independencia de los demás productores (a saber, 
+entradas de una enciclopedia o componentes de un programa informático). Esto hace que la 
+inversión global en tiempo y energía resulte mínima en comparación con los beneficios que 
+reciben a cambio. 
+ 
+3) El coste de combinar esas porciones par obtener un producto final terminado, incluyendo 
+aquí el liderazgo y los mecanismos de control de calidad, debe ser bajo. 
+ 
+
+

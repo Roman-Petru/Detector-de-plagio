@@ -1,0 +1,713 @@
+Juan Cruz Reines - 149.281-0 
+TP 4 - e-commerce 
+
+E-commerce 
+SEGUNDO SEMESTRE DE 2019 
+
+INSTRUCTOR: Alejandro Prince 
+
+Busque en la web, y defina y diferencie a su criterio y en pocos renglones y claramente e-business, 
+e-marketing y e-commerce.  
+
+ 
+
+ 
+
+● E-business:
+ 
+
+ 
+
+​Se denomina negocio electrónico o e-business
+ 
+
+a aquellas
+ 
+ 
+organizaciones cuya principal fuente de ingresos y su labor principal se ubican o
+ 
+ 
+realizan a través de internet. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+● E-marketing:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+​Llamamos e-marketing al uso de internet y de las capacidades de los
+ 
+ 
+medios digitales para auxiliar en la venta de productos y servicios. Podemos
+considerarlo como la evolución del marketing tradicional al que se le adicionan
+ 
+estas nuevas herramientas que permiten generar mayor influencia en los
+ 
+potenciales compradores. 
+
+ 
+ 
+ 
+
+ 
+ 
+
+   
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+● E-commerce:
+ 
+ 
+
+​El término comercio electrónico hace referencia a un método de
+ 
+compraventa de bienes, productos o servicios de manera online a través de
+ 
+ 
+internet. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Busque en la web el tamaño (ventas anuales) del comercio electrónico B2C o minorista (en u$d) a 2018 (o 
+2017)  en Argentina, Estados Unidos, Colombia, Chile y Brasil. También busque la cantidad de usuarios de 
+internet en esos países. La población y el PBI Cite las fuentes y fechas del dato. Use el cuadro para poder 
+visualizar y comparar 
+
+País/ Dato 2018 
+
+Volumen del e- 
+commerce b2c en 
+
+U$D 
+
+Usuarios de 
+internet en 
+
+millones 
+
+PBI en millones 
+
+de U$D 
+
+Argentina 
+
+ 6.830 
+
+ 41.5 
+
+475.000 
+
+Chile 
+
+ 3.700 
+
+ 14 
+
+300.000 
+
+Población 
+
+en 
+
+millones 
+
+ 44 
+
+ 18 
+
+ 
+
+1 
+
+Juan Cruz Reines - 149.281-0 
+TP 4 - e-commerce 
+
+ 
+
+Brasil 
+
+ 18.860 
+
+Colombia 
+
+ 4.930 
+
+ 149 
+
+ 31 
+
+ 2.055.000 
+
+209  
+
+ 336.000 
+
+ 49 
+
+ 517.360 
+
+ 312 
+
+ 20.513.000 
+
+326  
+
+Estados 
+Unidos 
+
+  
+
+Fuentes: 
+
+● The ecommerce foundation reports 
+● statisticstimes.com 
+● internetworldstats.com 
+
+Del blog de Prince, conteste  cuál ha sido el crecimiento del e-commerce b2c (incluye el c2c) medido en 
+dólares en los últimos 10 años. 
+
+El ecommerce b2b ha crecido 9 veces, medido en dólares, en los últimos 10 años. 
+
+ 
+Del mismo blog, indique cuál es (en Argentina y aproximadamente) el porcentaje de compradores online a fin 
+de 2018 respecto del total de usuarios de internet. 
+
+ 
+
+El porcentaje de compradores online respecto al total de usuarios de internet asciende al
+ 
+80%. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Enuncie 5 o 6 de los principales factores que han hecho crecer en el país, en los últimos 10 años al 
+e-commerce.  
+
+● El aumento de empresas vendedoras y revendedoras, por ende el aumento de la
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oferta. 
+
+● Mejoras en el servicio logístico. 
+● La explosión de la conectividad y la movilidad. 
+● Gran desarrollo de diversos medios de pago electrónicos seguros y convenientes. 
+
+ 
+
+2 
+
+Juan Cruz Reines - 149.281-0 
+TP 4 - e-commerce 
+
+ 
+
+● Proliferación de promociones y planes de pago con tarjeta sin interés. 
+
+ 
+Cuál ha sido, en dólares y en promedio el gasto anual por comprador online en Argentina de 2008 a 2018? 
+Estima que en 2019 ese valor caerá o subirá, porque? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+El gasto en dólares se estima en U$D 290. En 2019 se estima que el valor podría aumentar
+ 
+ 
+debido a la vuelta a la normalidad de las compras a sitios del exterior, sin embargo no
+debemos descartar el efecto negativo que podría tener la situación socioeconómica del
+ 
+país. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Qué porcentaje aproximado de las ventas totales minoristas (on y offline) representa en el país la venta 
+online? Y en Estados Unidos a cuánto asciende ese porcentaje según diversas fuentes? 
+
+ 
+
+En nuestro país dicho porcentaje se estima en 1.7%, mientras que en Estados Unidos
+ 
+escala entre 9% y 14%. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Que piensa que pasará/está pasando con la venta online en Argentina en este año, dada la situación 
+macroeconómica y la fuerte devaluación? Recuerde los factores que hicieron crecer a este mercado de 2008 a 
+2018. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+En mi opinión, si consideramos que la cantidad de usuarios y compradores en línea están
+alcanzando sus máximos posibles, no proveo un gran incremento en el nivel de ventas en
+ 
+ 
+relación a años anteriores. En primer lugar debido a que, si bien se está normalizando el
+ 
+sistema de compras al exterior, la incertidumbre cambiaria desalienta fuertemente este
+ 
+ 
+los procesos de crisis incentivan el surgimiento de una
+tipo de compras. Por otro lado,
+ 
+ 
+economía informal que busca pagar al contado en busca de beneficios que no se pueden
+ 
+obtener por otros medios. 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Ha comprado algo online la última semana? Qué? En qué sitio? 
+
+ 
+
+ 
+
+Si. He comprado equipo deportivo para el tiro con arco en una tienda especializada en
+ 
+Estados Unidos llamada Lancaster Archery Supply. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+

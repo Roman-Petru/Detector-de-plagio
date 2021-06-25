@@ -1,0 +1,122 @@
+[]
+
+MARKETING EN INTERNET Y NUEVA ECONOMÍA
+
+1er Cuatrimestre 2017
+
+TP5 – La sociedad de costo marginal cero
+
+Profesor: Prince, Alejandro
+
+Ayudantes: Hernan Borre, Maximiliano Bracho
+
+Alumno: Rocchio, Claudio
+
+Legajo: 118319-9
+
+1)  Puede describir el vínculo entre las leyes de la termodinámica de
+    Newton y la “factura entrópica”.
+
+  La vinculación se da ya que la primera y segunda ley de la
+  termodinámica establecen que la energía existe en el universo es
+  constante y que la entropía siempre está en crecimiento. Esto quiere
+  decir que, si bien no se puede crear energía, lo que si se hace es
+  transformarla de estados concentrados a estados dispersos, o dicho de
+  otra forma de energía disponible a no disponible o utilizable.
+
+  La factura entrópica se refiere a que cada transformación que se hace
+  de una materia prima para obtener un producto/servicio y
+  comercializarlo hace que se consuma energía, o mejor dicho que la
+  energía pase de estar disponible a dejar de estarlo. Esto quiere decir
+  que la actividad económica está siempre sumando costos a esta factura.
+  Uno de estos costos y muy visible en la actualidad es el cambio
+  climático.
+
+2)  ¿Podría caracterizar la Primera y Segunda revolución industrial al
+    decir de Rifkin? Qué inventos son las metáforas de cada
+    infraestructura en cada una de esas etapas.
+
+  Para Rifkin las plataformas tecnológicas de la primera y segunda
+  revolución industrial estaban centralizadas y sometidas a un control
+  jerarquizado. La razón era que los combustibles fósiles solo se
+  encontraban en lugares muy concretos y su traslado del subsuelo al
+  consumidor exigía una gestión centralizada y de integración vertical.
+
+  También, gestionar la creciente agilización de las transacciones
+  comerciales que las nuevas fuentes de energía hacían posible exigía
+  unas formas de comunicación centralizadas bajo un control
+  jerarquizado.
+
+  En el siglo 19 la imprenta a vapor y el telégrafo fueron los medios de
+  comunicación que permitieron conectar y gestionar un complejo sistema
+  ferroviario y fabril. En el siglo 20, la telefonía, la radio y la
+  televisión fueron los medios que permitieron conectar y gestionar una
+  época y sociedad de consumo más dispersa y marcada por el petróleo, el
+  automóvil y las comunidades residenciales suburbanas.
+
+3)  ¿Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+    3ra revolución industrial?
+
+  La IOT permite que empresas sociales del procomún colaborativo rompan
+  el monopolio de las grandes empresas de integración vertical que
+  actúan en los mercados capitalistas, porque posibilita una producción
+  colaborativa en redes continentales y mundiales de escala horizontal
+  con un costo marginal cercano a cero.
+
+4)  ¿Qué entiende Rifkin por una producción abierta, distribuida y
+    colaborativa?
+
+  Es una red de producción mundial diseñada para que cualquier persona,
+  en cualquier momento y lugar, tenga la oportunidad de acceder a ella y
+  usar sus datos para crear aplicaciones nuevas con las que administrar
+  su vida diaria y con un coste marginal casi nulo.
+
+5)  ¿Qué ejemplos actuales de “procomunes” se le ocurren? Describa. ¿Qué
+    límites le ve Ud. a los procomunes como forma de producción?
+
+  Se me ocurren los grupos en Facebook para determinados asuntos
+  importantes que afectan a muchas personas y que sirven para que los
+  miembros obtengan valiosa información. Otro ejemplo es el de las
+  comunidades Open Source.
+
+  El límite que le veo es sobre todo económico, ya que los fondos para
+  poder producir o generar valor tienen que salir en general de sus
+  miembros, y esto es lo más difícil de lograr ya que ahí aparecen las
+  diferencias entre cuanto puede aportar cada uno. Y esto genera luchas
+  de poder. Por lo tanto, los proyectos que se intenten hacer deben ser
+  limitados por el poder adquisitivo y la voluntad de colaborar de sus
+  miembros.
+
+6)  A la sociedad /economía del conocimiento, entendida como la 3ra
+    revolución de Rifkin, ¿cuál de las infraestructuras claves estaría
+    más demorada y por qué? qué estaría faltando?
+
+  La infraestructura que venía más atrasada es la de la energía ya que
+  los costos de generación de energías renovables eran muy altos, pero
+  esto ya está cambiando. Además, para que estas energías distribuidas,
+  den lugar a unas economías de escala horizontal suficientes para hacer
+  que el coste marginal se reduzca a cero, se deben organizar y
+  compartir entre comunidades y regiones de una manera colaborativa
+  utilizando la internet de las cosas.
+
+7)  ¿Cómo funcionaría (o se garantizaría) la “innovación” bajo el
+    procomún, comparado con el sistema capitalista?
+
+    En el procomún es mucho más accesible la comunicación, la energía y
+    logística para la distribución de nuevos productos o servicios,
+    además al quitar a todos los intermediarios la inversión es mucho
+    más baja y esto permite que muchos pequeños emprendedores puedan
+    sumarse a producir bienes y servicios, que de otra forma les seria
+    casi imposible. Esta democratización hace que se incentive la
+    innovación no para
+
+8)  Acorde su lectura de Rifkin y las clases de Prince, para el estadio
+    actual de la economía, elija uno de estos “apellidos” y justifique
+    brevemente.
+
+    El estadio actual de la economía es colaborativo. Ya que como hemos
+    visto el hecho de que el costo marginal este llegando a cero en
+    muchos rubros hace que se democratice el acceso a la producción y
+    comercialización de bienes y servicios y que se esté entrando en una
+    etapa en la que se busque el procomún más que el beneficio económico
+    personal.

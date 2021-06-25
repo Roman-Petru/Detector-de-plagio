@@ -1,0 +1,221 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 3
+
+The Experience Economy
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borre
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  INTEGRANTE                   
+  ---------------- ----------- -----------------------
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+
+Fecha de entrega:
+
+16/09/2019
+
+Preguntas:
+
+  1) Qué 3 elementos hacen resurgir con fuerza la idea de una economía
+  de experiencia?
+
+  2) Defina y caracterice una experiencia. Diferencias con Producto y
+  Servicio.
+
+  3) Explique y grafique las dimensiones y campos de la experiencia
+
+  4) Describa “impresiones” y sus distintas dimensiones.
+
+  5) De 3 ejemplos distintos (reales si conoce, o invente) de
+  experiencias con estimulación de los sentidos.
+
+  6) Qué es la personalización masiva? Explique la progresión del valor.
+
+  7) Cuáles son las ventajas para la empresa de la personalización
+  masiva?
+
+  8) Describa los 4 tipos de personalización masiva.
+
+  9) Qué aporta el ciberespacio al tema “sacrificio del cliente”?
+
+Resolución
+
+1)  Qué 3 elementos hacen resurgir con fuerza la idea de una economía de
+      experiencia?
+
+Los 3 elementos que se destacan y hacen resurgir la idea de economía de
+experiencia, son:
+
+-   el poder de la tecnología, que actúa como facilitador.
+
+-   la creciente intensidad por la competencia, que promueve la lucha
+      por la diferenciación.
+
+-   la prosperidad, el hombre busca más celebraciones, menos rutinas,
+      más sorpresas; se aleja cada vez más de los commodities; se siente
+      insatisfecho con los productos y servicios, espera verdaderas
+      experiencias.
+
+2)  Defina y caracterice una experiencia. Diferencias con Producto y
+      Servicio.
+
+Las experiencias son memorables, generan sensaciones personales,
+emocionales, físicas, intelectuales, incluso espirituales. Nunca habrá
+dos experiencias iguales, ya que cada “presentación” de la experiencia
+entra en interacción con el estado mental del individuo antes de
+vivirla. Y permanece en la memoria por siempre.
+
+Los productos empezaron a multiplicarse, a partir de las distintas
+materias primas, aportan mayor valor a los usuarios que inmediatamente
+los utilizan. Al ir evolucionando la industrialización de los productos,
+esto generó mayor riqueza y por consiguiente provocó un aumento en la
+demanda de los servicios.
+
+Los servicios son el efecto de la evolución productiva, en un principio
+un servicio se vendía como una forma de mejora del producto, luego al
+ver el comportamiento de los clientes y la importancia que los mismos le
+daban, se transformó en una materia en sí misma.
+
+3)  Explique y grafique las dimensiones y campos de la experiencia
+
+Es un grave error presentar una experiencia como el compromiso de
+“comprometer” a los clientes, en una serie de dimensiones entre las que
+se destacan el grado de participación y el de conexión o relación entre
+el cliente y el evento. La actitud pasiva no involucra al potencial
+cliente, que solo actúa como un mero observador. La participación activa
+lo tiene como protagonista.
+
+En cuanto a la relación que une al consumidor con la experiencia, puede
+comprometer solamente su atención, o llegar a su “inmersión” física o
+virtual en el desarrollo del evento.
+
+Estas 2 dimensiones cruzadas generan los 4 campos de la experiencia, a
+saber: el entretenimiento, la educación, el escapismo y la estética,
+todas compatibles y combinables en encuentros personales únicos.
+
+El tipo de experiencia que la gente asocia con entretenimiento es
+aquella en la que pasivamente absorbe lo que ocurre a través de sus
+sentidos.
+
+La experiencia escapista exige máxima inmersión y protagonismo absoluto,
+como por ejemplo en un casino, o realidad virtual, los chats
+
+En la experiencia estética el individuo se sumerge pero no participa: lo
+que sucede por ejemplo en un museo o ante un paisaje importante.
+
+[]
+
+4)  Describa “impresiones” y sus distintas dimensiones.
+
+Las impresiones son los recuerdos que el cliente se lleva de la
+experiencia, por lo general asociados a ciertas dimensiones específicas:
+
+-   El tiempo, las representaciones del tema pueden ser tradicionales,
+      contemporáneas o futuristas.
+
+-   El espacio: se las puede diseñar locales o cosmopolitas, hogareñas o
+      en el ámbito del trabajo.
+
+-   La tecnología: las habrá de vanguardia o artesanales, naturales o
+      artificiales.
+
+-   La autenticidad: puedens ser originales o imitaciones.
+
+-   La sofisticacion: los signos indican el nivel de refinamiento.
+
+-   La escala: el tema puede representarse como algo grandioso o
+      sencillo y pequeño.
+
+Para generar impresiones hay que incorporar aquellas señales o claves
+que, en conjunto, confirman la naturaleza de la experiencia deseada.
+
+5)  De 3 ejemplos distintos (reales si conoce, o invente) de
+      experiencias con estimulación de los sentidos.
+
+-Cine 4d, es un servicio que con el tiempo fue evolucionando gracias a
+la tecnología, desde hace bastante tiempo el cine 4D ofrece una
+experiencia única que reaviva los sentidos, respecto a solo ver una
+película.
+
+-Cenas Gourmet, Cena a ciegas, son ejemplos de servicios y experiencias
+muy sensitivas, se estimulan los olores, el gusto, el sonido, es
+realmente una experiencia muy buena.
+
+-Un show de teatro o un paisaje florecen los sentidos, son experiencias
+con gran estimulación sensitiva.
+
+6)  Qué es la personalización masiva? Explique la progresión del valor.
+
+La personalización masiva permite atender a los clientes de una forma
+única, combinando los imperativos vigentes de bajo costo e
+individualización que imponen los actuales mercados, turbulentos y
+competitivos. Si se quiere lograr lo mejor de la masividad y
+personalización se debe modularizar los productos y servicios brindados.
+Esta arquitectura determina el universo beneficioso que la compañía se
+propone ofrecer a sus clientes. Una forma de revelar las posibilidades
+en forma progresiva es a través de catálogos, menús para completar,
+matrices de selección, o cualquier herramienta que permita al cliente
+seleccionar cual es la combinación específica que desea.
+
+La progresión del valor económico está dada por, extraer commodities,
+fabricar productos, brindar servicio y proponer experiencias. Esta
+progresión aumenta la competitividad del producto/servicio y el precio o
+valor de mercado, partiendo de una extracción de commoditie con bajo
+valor e indiferenciada hasta llegar a proponer experiencias donde
+logramos una diferenciación y valor premium de mercado.
+
+7)  Cuáles son las ventajas para la empresa de la personalización
+      masiva?
+
+Las ventajas principales son: mejores precios, menos necesidad de
+descuentos, mayores ingresos por clientes, más clientes con menores
+costos de adquisición, niveles de retención más altos.
+
+8)  Describa los 4 tipos de personalización masiva.
+
+Personalización colaborativa o la experiencia exploratoria:
+
+El cliente tiene una opción u otra. La empresa interactúa directamente
+con él para definir que necesita y luego lo produce.
+
+Personalización adaptativa o la experiencia real:
+
+No cambia el producto ni la representación: el cliente “personaliza”
+ambas a partir de cierta funcionalidad incluida en la oferta.
+Enfrentando una multiplicidad de ofertas, debe encontrar la que mejor se
+adapte a sus necesidades y requerimientos.
+
+Personalización cosmética o la experiencia gratificante:
+
+Cuando solo se trata de customizar la representación, la compañía genera
+distintas opciones para un mismo producto. Se modifican las “formas” de
+un producto que siente especialmente diseñado para el.
+
+Personalización transparente o la experiencia elusiva: El cliente recibe
+una oferta a medida sin enterarse, explícitamente, del proceso de
+personalización llevado a cabo.Esta medida se aplica para evitar que se
+repita una y otra vez la tarea de consignar la información necesaria
+para customizar el producto.
+
+9)  Qué aporta el ciberespacio al tema “sacrificio del cliente”?
+
+El ciberespacio, dada su interactividad inherente, es un excelente medio
+para evaluar el nivel de sacrificio, empezando por una herramienta tan
+económica y sencilla como el e-mail. No solo eso: también permite, a
+partir del marketing uno a uno, sentar las bases de una relación de
+aprendizaje que crece, se profundiza y torna más inteligente con el
+tiempo. Cuanto más le enseñe el cliente a la empresa, mejor preparada
+estará para brindarle exactamente lo que necesita.

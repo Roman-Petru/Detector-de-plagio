@@ -1,0 +1,209 @@
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+Universidad Tecnológica Nacional 
+Facultad Regional Buenos Aires 
+Ingeniería en Sistemas de Información 
+ 
+
+ 
+
+CURSO: K5052 - 1 CUAT. 2017 
+
+ 
+
+ 
+
+Marketing en Internet y Nueva Economía 
+
+TP 4 - ADOPCIÓN TIC 
+
+ 
+ 
+ 
+Profesor​:​ ​Dr. Alejandro Prince 
+ 
+Nombre:​ Pablo Pallocchi 
+Legajo:​ 138.291-3 
+Fecha de entrega​: ​17/04/2017 
+ 
+
+ 
+
+ 
+
+1.- Qué se entiende por difusión y adopción de innovaciones. 
+ 
+Es el proceso por el cual una innovación (producto, tecnología, idea, etc.) es percibida y 
+adoptada por miembros, grupos y/o organizaciones en una cierta comunidad o espacio a lo 
+largo del tiempo. 
+ 
+2.- Diferencie la posición instrumentalista de la determinista. 
+ 
+La posición instrumentalista plantea que la tecnología cambia y evoluciona como 
+consecuencia de las aspiraciones y evoluciones humanas sociales (primero la necesidad, 
+entonces la tecnología). Por el otro lado, la posición determinista plantea que la tecnología 
+no evoluciona a causa de los cambios del hombre, sino que ésta actúa en paralelo e 
+independiente de hombre, es entonces que los cambios sociales ocurren. 
+ 
+3.- Indique los 5 determinantes principales del proceso de difusión según Rogers. 
+ 
+
+1. Las Características de la innovación que pueden influenciar su adopción. 
+2. El Procedimiento de Decisión, que ocurre cuando los individuos consideran adoptar 
+
+una nueva idea, producto o práctica. 
+
+3. Las Características de los individuos que se muestran de acuerdo con adoptar una 
+
+innovación. 
+
+4. Las Consecuencias o Beneficios para los individuos y para la sociedad de adoptar 
+
+una innovación y, finalmente. 
+
+5. Los Canales de Comunicación usados en este proceso de adopción. 
+
+ 
+ 
+4.- Explique según Rogers las 5 categorías de integrantes de la adopción. Grafique. 
+ 
+
+1.
+
+Innovadores​. Valientes promotores del cambio. Son mecanismos importantes de 
+comunicación. 
+
+pero de una manera más cuidadosa. 
+
+2. Adoptantes tempranos​. Gente respetable, líderes de opinión, prueban nuevas ideas, 
+3. Mayoría temprana​. La gente racional, acepta el cambio más rápidamente que lo 
+4. Mayoría Tardía​. La gente escéptica, utilizará nuevas ideas o productos solamente 
+5. Rezagados​. La gente tradicional, crítica sobre nuevas ideas, las aceptarán cuando 
+
+se han transformado ya casi en una tradición. 
+
+hace la gente media. 
+
+cuando la mayoría la está utilizando. 
+
+ 
+
+ 
+
+ 
+5.- Defina según Rogers a los innovadores y adoptantes temporarios. 
+ 
+Innovadores 
+
+● Son arriesgados, atrevidos, con alta propensión el riesgo 
+● Suelen tener los medios necesarios como para poder absorber las posibles pérdidas 
+
+de una innovación improductiva 
+
+● Poseen la habilidad para entender y aplicar una innovación compleja 
+● Aceptan la incertidumbre respecto de una innovación 
+● Suelen no ser comprendidos por otros individuos o grupos 
+
+ 
+Adoptantes tempranos 
+
+● Integrados al sistema social local, respetados por sus pares 
+● Alto grado de liderazgo de opinión entre miembros de sus comunidades 
+● Sirven de modelos de comportamiento para otros individuos 
+● Son considerados exitosos 
+
+ 
+6.- Defina según Rogers las características de los rezagados. 
+ 
+
+● No tienen liderazgo de opinión alguno 
+● Están más aislados que los otros grupos 
+● Su referencia principal es el pasado 
+● Son suspicaces respecto de las innovaciones 
+● Sus procesos de decisión o cambio son lentos 
+● Sus recursos son limitados 
+
+ 
+7.- Explique según Rosemberg el rol del aprendizaje en la adopción. 
+ 
+Rosemberg explica que el aprendizaje sirve a modo de retroalimentación de la innovación, 
+donde el mismo aprendizaje genera mejoras en la misma. 
+ 
+8.- Explique según HALL el rol de los costos hundidos en la adopción y porque ésta  
+es un  ̈absorbing state ̈. 
+ 
+Muchos de los beneficios de incorporar una innovación o tecnología son recibidos a lo largo 
+de su uso, como un flujo, y no en un punto, al inicio de la adopción. En cambio los costos de 
+adopción son incurridos al momento de la decisión de adopción. Si bien pueden existir 
+costos de mantenimiento, reparación, servicio o uso, suelen ser muy menores a los costos 
+iniciales. Estos costos son denominados enterrados o “hundidos”.  
+La adopción es un absorbing state, un “viaje de ida”, ya que no es nada usual ver el retorno 
+a modalidades o tecnologías anteriores. 
+ 
+ 
+
+ 
+
+9.- Según Caselli y Coleman cuales son los 4 principales determinantes de adopción 
+de PC, comparando entre diversos países. 
+ 
+
+1. Las fuentes y tipo de comercio con otros países, los países con grandes 
+
+importaciones manufactureras desde países de la OECD tiene niveles mayores de 
+adopción 
+
+2. La protección de derechos de autor  
+3. Las inversiones por trabajador 
+4. Una baja proporción en el PBI del Gobierno y de la agricultura, tanto como una gran 
+
+proporción de las manufacturas en el PBI 
+
+ 
+10.- Explique según Dutton y otros qué es y qué rol juega el hecho de que la PC sea 
+̈innovación activa ̈ 
+ 
+La PC, a diferencia de otros electrodomésticos como la TV posee la cualidad de “innovación 
+activa” al tratarse de un tipo de interacción distinto, donde el usuario se enfrenta a 
+situaciones problema-solución. Esta interactividad evidencia que existen distintos tipos de 
+usuarios y que estos fueron evolucionando a lo largo de la historia 
+ 
+11.- Qué utilidad tiene el modelo Bass, descríbalo y formule describiendo los 
+parámetros. 
+ 
+Permite estimar el número de consumidores que adoptarán (comenzarán a comprar) un 
+nuevo producto a lo largo del tiempo. 
+ 
+La formulación matemática de Bass dice que, el número de consumidores que compran un 
+nuevo producto en un momento determinado del tiempo, es función de la demanda de los 
+individuos innovadores, y de la demanda de los imitadores (que consumen un producto 
+porque los demás lo hacen).  
+ 
+S(t)= [p+(q/m) N(t-1)] [m-N(t-1)] (1) 
+ 
+N(t) = número de consumidores que adoptaron el producto en el momento t. 
+S(t) = número de nuevos consumidores que adoptaron el producto en el período t.  
+ 
+Consecuentemente: 
+ 
+S(t) = N(t) – N (t-1) 
+ 
+m: máximo número de consumidores que pueden adquirir el producto 
+(lo que no significa toda la población del país o región bajo análisis, sino solo los potenciales 
+compradores) 
+p: coeficiente de innovación. Es la probabilidad que un innovador compre o adopte el 
+producto en el período t 
+q: coeficiente de imitación. Es la probabilidad que un imitador adopte el nuevo producto. 
+
+

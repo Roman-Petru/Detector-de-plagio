@@ -1,0 +1,197 @@
+[]
+
+MARKETING EN INTERNET Y NUEVA ECONOMÍA
+
+1er Cuatrimestre 2017
+
+TP1 – WIKINOMICS
+
+Profesor: Prince, Alejandro
+
+Ayudantes: Hernan Borre, Maximiliano Bracho
+
+Alumno: Rocchio, Claudio
+
+Legajo: 118319-9
+
+1)  Desarrolle el concepto “producción entre iguales”
+
+El concepto “producción entre iguales” explica el fenómeno que ocurre
+cuando un grupo de personas por distintos motivos se auto-organizan en
+comunidades para lograr un objetivo en común, sea para diseñar bienes o
+servicios, crear conocimiento o, también producir experiencias dinámicas
+y compartidas.
+
+Si bien en estas comunidades reina el igualitarismo, la mayoría de estas
+comunidades tienen un sistema donde existen rangos o personas con mayor
+autoridad.
+
+También explica que la auto organización funciona mejor que las típicas
+estructuras jerárquicas para algunas tareas. Por ahora su mayor impacto
+se ve en la producción de software, medios de comunicación,
+entretenimientos y cultura, pero se espera que su uso se vaya
+multiplicando en cada vez más áreas y funciones de nuestra sociedad.
+
+2)  Enuncie y desarrolle las 4 ideas o componentes en las que se basa la
+    wikinomía. Dé un ejemplo de cada una.
+
+Las 4 ideas en las que se basa la wikinomía son: apertura, interacción
+entre iguales, el compartir y la actuación global.
+
+-   Apertura: Hasta hace poco las empresas vivían con una política
+    cerrada, cuidando de no compartir sus recursos más preciados. Los
+    grandes y rápidos avances tecnológicos y científicos fueron la
+    principal causa de una apertura cada vez más grande, ya que al no
+    poder conseguir un desarrollo propio y para mantenerse actualizados
+    y vigentes deben estar abiertos al talento que se desarrolla fuera
+    de sus paredes.
+
+  También en la industria del software se ve una mayor apertura, ya que
+  por años se luchó mucho contra el software libre y hoy en día los
+  clientes reclaman una mayor libertad para elegir su hardware o
+  construir una arquitectura y se ven muchas opciones de software libre.
+
+  Además, se está viendo una mayor apertura de información y contenido
+  en empresas grandes que ven la transparencia como un valor agregado y
+  que les brinda importantes beneficios.
+
+-   Interacción entre iguales: Esta idea hace referencia a destruir los
+    conceptos de jerarquía tradicional para pasar a un modelo más
+    horizontal. Wikipedia, por ejemplo, posee contenido que permite la
+    interacción entre iguales, todos pudiendo tener acceso a editar.
+    Otro ejemplo es el de Linux, que permite a cualquier usuario
+    colaborar con el código o corregir errores.
+
+-   Compartir: Esta idea habla sobre el dilema presentado cuando la
+    tecnología permitió que un montón de obras con derechos
+    intelectuales empezaron a ser compartidos libremente, y como se
+    intentó sobrellevar ese problema anteriormente, por ejemplo, en la
+    música haciendo restricciones cada vez más grandes. Y plantea que el
+    modelo ideal es tener una cartera de recursos compartidos y otros
+    protegidos. Cuidando los recursos más valiosos de la empresa, pero
+    permitiendo que en otros proyectos se desarrolle una colaboración
+    útil para las empresas.
+
+-   Actuación Global: Se refiere a como la caída de las barreras de
+    separación económica y geográficas propiciada por la tecnología está
+    generando un nuevo orden en las sociedades y en las empresas. La
+    globalización genero tremendos cambios en todos los países,
+    generando un gran crecimiento en países en desarrollo y genera que
+    las empresas construyan nuevos mecanismos de integración y
+    competencia y acceder a nuevos mercados. Es por esto que hoy en día
+    pensar una empresa competitiva, significa prensar una empresa
+    global, con todo lo que esto implica.
+
+3)  Explique y dé ejemplos de la “emergencia”, como consecuencia de la
+    colaboración masiva.
+
+La emergencia hace referencia a la aparición de valor (entendido como
+nuevas capacidades, estructuras, etc.) nuevo creado a partir de la
+integración de distintas actividades o disciplinas no conexas en
+principio realizadas por agentes que colaboran con ayuda de herramientas
+posibilitadas por Internet. En este contexto el desafío para las
+empresas consiste en propiciar y sostener relaciones simbióticas con
+estructuras emergentes (nuevas y revolucionarias), ya que la
+auto-organización es una estructura difícil de controlar; pero que si
+puede canalizarse. Las empresas inteligentes están transitando este
+camino para orientarse en cómo aprovechar al máximo la capacidad auto
+organizada de proveedores, empleados y clientes.
+
+Los ejemplos sobre esto pueden ser varios, uno sería el de Wikipedia,
+donde la gran cantidad de páginas de información hace que el todo sea
+considerado la mayor enciclopedia disponible para todo el mundo con
+acceso a Internet.
+
+Otros ejemplos de esto son: Google, la blogosfera, Amazon.
+
+4)  ¿Qué enunciaba la ley de Coase originalmente? ¿Y ahora, que
+    implicancias tiene? Explique qué y cuáles son los costos de
+    transacción.
+
+La ley de Coase originalmente enunciaba que “una empresa tenderá a
+expandirse hasta que los costos que supone organizar una transacción
+adicional dentro de la empresa igualen los costes que implica desempeñar
+esa misma función en el mercado abierto”. Esto significa que cuando
+salga más barato realizar una función dentro de la empresa, es
+recomendable hacerlo así; en cambio sí resulta más económico salir al
+mercado, no hay que intentar hacerlo de forma interna.
+
+En la práctica no resultaba práctico descomponer la fabricación y otros
+procesos industriales en una serie de transacciones negociadas de forma
+independiente, debido a los altos costos de transacción, los cuales
+incluyen:
+
+Costos de búsqueda: como lo que supondría localizar distintos
+proveedores y determinar la idoneidad de los bienes que ofrecen.
+
+Costos de contratación: como los que implica negociar el precio y
+contratar las condiciones.
+
+Costos de coordinación: que supondría encajar los distintos productos y
+procesos.
+
+El resultado fue que la mayor parte de las empresas determinaron que lo
+más sensato era desempeñar el máximo número de funciones posible dentro
+de la propia empresa, dando origen a la ley de Coase.
+
+Sin embargo, Internet ha generado que los costes de transacción caigan
+de tal manera que, resulta mucho más útil leer la ley de Coase a la
+inversa: en la actualidad, las empresas deben replegarse hasta que el
+costo que supone realizar una transacción de forma interna no supere el
+coste que implica realizarla de forma externa.
+
+5)  ¿Qué elementos favorecen la producción colaborativa?
+
+La producción entre iguales funciona por las siguientes razones:
+
+-   La nueva economía desencadenada por la tecnología ha trasformado
+    para siempre los costos y beneficios de producir información y
+    colaborar.
+
+-   Resulta más eficaz que las empresas o los mercados para asignar
+    tiempo y atención a determinadas tareas.
+
+-   Funcionan realmente bien para atraer un cumulo de talento más
+    diverso y más o menos disperso del que pueden conseguir las empresas
+    por separado.
+
+-   Las personas que contribuyen disfrutan de la libertad y la
+    experiencia de la producción entre iguales.
+
+-   Un porcentaje cada vez mayor de cosas que valoramos (periódicos
+    incluidos) podemos producirlas nosotros mismos o cooperando con las
+    personas que interactuamos socialmente; sencillamente, porque
+    queremos hacerlo.
+
+6)  ¿Qué rol juega la “autoselección” en la producción entre pares?
+
+La producción entre iguales aprovecha motivaciones voluntarias de una
+manera que propicia la asignación de la persona adecuada con mayor
+eficacia que las empresas tradicionales. La razón es la autoselección.
+Cuando las personas se autoseleccionan para llevar a cabo tareas
+creativas basadas en conocimientos, es más probable que escojan tareas
+para las que poseen una calificación excelente que si la elección
+depende de gerentes.
+
+Siempre que las comunidades dispongan de mecanismos para eliminar las
+aportaciones poco sólidas, las comunidades de personas, amplias,
+autoseleccionadas y en comunicación constante, tienen más probabilidades
+de emparejar las mejores personas con las tareas adecuadas que una única
+empresa, que posee un conjunto de recursos más limitado con el que
+trabajar.
+
+7)  ¿Bajo qué 3 condiciones se favorece la producción entre iguales?
+
+Este tipo de producción funciona mejor cuando se cumplen tres
+condiciones como mínimo: el objeto de la producción es información o
+cultura, lo que mantiene a un nivel bajo el costo de participación para
+las personas que contribuyen; las tareas pueden descomponerse en
+porciones reducidas que los individuos pueden aportar con pequeños
+incrementos y con independencia de los demás productores.
+
+Esto hace que la inversión global en tiempo y energía resulte mínima en
+comparación con los beneficios que reciben a cambio.
+
+El costo de combinar esas porciones para obtener un producto final
+terminado, incluyendo aquí el liderazgo y los mecanismos de control de
+calidad, debe ser bajo.

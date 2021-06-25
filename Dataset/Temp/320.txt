@@ -1,0 +1,118 @@
+Alumno: Franco Zanette (147.074-7)
+
+Institución: UTN-FRBA
+
+TP: TP Nº5 “La sociedad del costo marginal cero”
+
+1.  Puede describir el vínculo entre las leyes de la termodinámica de
+      Newton y la “factura entrópica”.
+
+2.  Podría caracterizar la Primera y Segunda revolución industrial al
+      decir de Rifkin? Qué inventos son las metáforas de cada
+      infraestructura en cada una de esas etapas.
+
+3.  Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+      3ra revolución industrial?
+
+4.  Qué entiende Rifkin por una producci ón abierta, distribuida y
+      colaborativa?
+
+5.  Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+      límites le ve Ud. a los procomunes como forma de producción?
+
+6.  A la sociedad /economía del conocimiento, entendida como la 3ra
+      revolución de Rifkin, cuál de las infraestructuras claves estaría
+      más demorada y porqué? qué estaría faltando?
+
+7.  Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+      procomún, comparado con el sistema capitalista?
+
+8.  Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+      actual de la economía, elija uno de estos “apellidos” y justifique
+      brevemente.
+
+  E. colaborativa
+
+  E. de la Información
+
+  E. del Conocimiento
+
+  E. Digital
+
+  E. Sustentable
+
+  E. intangible o “sin peso”
+
+  E. sin “fricción”.
+
+NOTA: las respuestas no deberán superar en su conjunto a 2 páginas del
+mismo formato que esta guía.
+
+1) La primer y segunda ley de la termodinámica establecen que “la
+energía total en el universo es constante (no se crea, ni se destruye,
+sino que se transforma) y la entropía total aumenta continuamente”. Los
+físicos denominan entropía a la energía, que a causa de la
+transformación, no se puede utilizar. En un contexto económico, la
+factura entrópica es la energía utilizada y perdida para mover la
+actividad económica a lo largo de la cadena de valor.
+
+2) Las plataformas tecnológicas de la primera y la segunda revoluciones
+industriales estaban centralizadas y sometidas a un control
+jerarquizado. La razón era que los combustibles fósiles solo se
+encontraban en lugares muy concretos y su traslado del subsuelo al
+consumidor final exigía una gestión centralizada y de integración
+vertical. Los elevados costos iniciales de crear empresas de integración
+vertical en la primera y segunda revoluciones industriales exigían
+inversiones de capital muy elevados.
+
+En el siglo XIX, la imprenta a vapor y el telégrafo fueron los medios de
+comunicación que permitieron conectar y gestionar un complejo sistema
+ferroviario y fabril basado en el carbón. Mientras que en el siglo XX la
+telefonía y luego la radio y la televisión se convirtieron en los medios
+de comunicación que permitieron conectar y gestionar una época y una
+sociedad de consumo geográficamente más dispersas.
+
+3) Según Rifkin, el IdC (Internet de las Cosas) posibilita una
+producción colaborativa en redes continentales y mundiales de escala
+horizontal con un coste marginal cercano a cero. El internet de las
+cosas permitirá unificar la comunicación, la energía y la logística
+posibilitando la optimización de los procesos .
+
+4) Rifkin define como producción abierta, distribuida y colaborativa,
+aquella en la cual toda persona puede fabricar lo que ella misma va a
+consumir, y además pueda compartir y comunicar al resto de las personas
+información valiosa, procesos y sobrantes de su producción con el
+objetivo de conseguir un costo marginal cercano a cero. Este tipo de
+economía es posible gracias al Internet de las Cosas de comunicación.
+
+5) Un ejemplo de procomún actual es Wikipedia, una enciclopedia libre
+online en donde la gente puede escribir artículos nuevos sobre cualquier
+tópico en particular, mejorar o traducir uno existente. Todo esto, de
+forma gratuita.
+
+Las limitaciones que le encuentro a esta plataforma es que muchas veces
+la información aportada no es verídica, y no todas las personas están
+dispuestas a compartir su conocimiento de manera gratuita.
+
+6) Según Rifkin la infraestructura más demorada es la de la energía
+renovable ya que hoy por hoy la mayoría de las empresas siguen
+utilizando al petróleo como principal fuente de energía debido a sus
+grandes beneficios económicos. Para poder dar un paso adelante en la
+infraestructura de la energía renovable y poder terminar con la
+infraestructura actual del petróleo, este debería agotarse o se debería
+fomentar firmemente en las empresas la utilización de energías
+renovables como ser la solar, eólica, entre otras.
+
+7) En un contexto de procomún, la innovación se garantiza debido al
+beneficio social que ésta genera (dejando de lado el beneficio
+económico). En un sistema capitalista, en cambio, el beneficio económico
+está por encima del beneficio social y la innovación solo se llevaría a
+cabo si el resultado de la misma genera algún beneficio económico.
+
+8) Según mi opinión y teniendo en cuenta las clases de Prince,
+actualmente nos encontramos en una economía del conocimiento. Mediante
+internet las personas pueden compartir información valiosa acerca de
+productos y procesos que permiten generar nuevos conocimientos y
+modificar algunos ya existentes. El hecho de que todos estén conectados
+generando información (en cualquiera de sus formatos) posibilita la
+generación constante de nuevos conocimientos.

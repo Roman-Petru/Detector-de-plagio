@@ -1,0 +1,182 @@
+ 
+ 
+ 
+ 
+
+TRABAJO PRÁCTICO N°6 
+
+ 
+
+ 
+ 
+
+Curso: K5052 
+ 
+ 
+Profesor: Alejandro Prince 
+ 
+ 
+Fecha de Entrega: 08/05/2017 
+ 
+ 
+ 
+
+Nombre y Apellido 
+
+WEISS, GONZALO 
+
+Legajo 
+
+146.913-7 
+
+Email 
+
+gonzaweiss@gmail.com 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marketing en Internet y Nueva Economía 
+
+Trabajo Práctico N°6 
+
+Sistemas emergentes 
+
+1)  ¿Cuáles son los cuatro principios centrales de los sistemas emergentes? 
+
+Los cuatro principios centrales del estudio de los sistemas emergentes son la 
+
+ 
+  
+interacción de vecinos, el reconocimiento de patrones, la retroalimentación y el 
+control indirecto. 
+ 
+
+2)  Describa en no más de diez renglones la particular conducta del Dictiostellum y sus 
+
+Cuando el entorno es el adecuado se produce la coalescencia de esas miríadas 
+
+implicancias. 
+ 
+  
+de células en un solo organismo mayor que comienza a reptar pausadamente por el 
+suelo del jardín consumiendo a su paso hojas y cortezas en descomposición. Cuando el 
+entorno es menos favorable, se comporta como un organismo aislado; cuando el 
+tiempo es más frío y el moho dispone de una cantidad de alimento mayor, “él” se 
+transforma en “ellos”. Según el entorno varía en ser una única criatura y una colonia. 
+ 
+
+3)  ¿Qué es la morfogénesis, quién desarrolló esta idea en 1954? 
+
+ 
+La morfogénesis es la capacidad de todas las formas de vida de desarrollar cuerpos 
+cada vez más complejos a partir de orígenes simples. Esta idea fue desarrollada en 
+1954 por Turing. Esta teoría demuestra cómo un organismo complejo podía 
+desarrollarse sin ninguna dirección o plan maestro. 
+ 
+
+4)  Describa los conceptos o conductas “adaptativas” y “complejas”. Describa sistema 
+
+Las conductas adaptativas son comportamientos que yacen en una escala 
+
+ascendente y sistema dinámico. 
+ 
+  
+superior a la del organismo. Es decir, el sistema utiliza reglas locales entre sus agentes 
+interactivos para crear un comportamiento de nivel superior adecuado a su entorno. 
+  
+En cambio una conducta compleja ocurre cuando un sistema con agentes 
+múltiples interactúan en forma dinámica de múltiples maneras, siguiendo reglas 
+locales e independientes de cualquier instrucción a nivel superior 
+  
+elementos relativamente no inteligentes en lugar de hacerlo recurriendo a un solo 
+elemento particular. Extraen su inteligencia de la base y son sistemas complejos de 
+adaptación que despliegan comportamientos emergentes. 
+  
+todo tipo de sistema que no es inerte ni desintegrado.    
+ 
+
+Los sistemas dinámicos se basan en el principio de la autoorganización, son 
+
+Un sistema ascendente resuelven problemas recurriendo a masas de 
+
+Página 2 de 4  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marketing en Internet y Nueva Economía 
+
+Trabajo Práctico N°6 
+
+Sistemas emergentes 
+
+5)  Describa un sistema emergente o autoorganizativo y diferéncielo de un sistema 
+
+Un sistema emergente o autoorganizado se hacen más inteligentes con el 
+
+evolutivo o del caos.  
+ 
+  
+tiempo y de responder a necesidades cambiantes y específicas de su entorno. Estos 
+sistemas presentan un comportamiento compartido. 
+  
+que en los primeros emergen patrones regulares a partir de la aleatoriedad de niveles 
+inferiores en cambio en los sistemas caóticos emergen conductas impredecibles a 
+partir de reglas deterministas de niveles inferiores. 
+
+La diferencia entre este tipo de sistemas y un sistema evolutivo o del caos es 
+
+Página 3 de 4  
+
+ 
+
+

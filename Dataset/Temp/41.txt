@@ -1,0 +1,115 @@
+Ramirez, Fernando Ezequiel - Marketing en Internet - 2017 
+
+TP Wikinomics 
+
+  
+1.- Desarrolle el concepto “producción entre iguales”. 
+  
+La producción entre iguales consiste en el proceso por el cual distintas masas de personas y 
+empresas ejercen una abierta cooperación entre sí para potenciar sus innovaciones y aumentar 
+el crecimiento. Ejemplo de esto pueden ser las herramientas de software o sitios web de 
+carácter colaborativo, entre las cuales se puede mencionar Linux, Wikipedia, entre otros. 
+Existen nuevas infraestructuras que facilitan la posibilidad de construir productos 
+colaborativos a gran escala con un costo muy bajo, las cuales generan nuevos modelos de 
+negocios y transforman los mercados. 
+ 
+ 
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía. 
+Dé  un ejemplo de cada una. 
+ 
+Apertura: 
+Actualmente las empresas que se encuentran abiertas a nuevas ideas provenientes del exterior 
+obtienen mejores resultados que aquellas que se centran únicamente en sus recursos internos. 
+A su vez, resulta fundamental estandarizar ciertos procesos utilizando estándares abiertos. 
+Las empresas más exitosas se muestran decididamente abiertas, transparentes y preparadas 
+para los cambios. Por ejemplo Progressive Insurance es franca con los clientes 
+–compartiendo con honestidad sus precios y los de los competidores, aunque no sean tan 
+buenos- y los clientes responden brindándoles su confianza. 
+ 
+Interacción entre iguales: 
+Surge como nueva metodología la nueva organización horizontal, colaborativa. Entonces casi 
+desaparece la jerarquía, los miembros de la misma se autoorganizan para funcionar de la 
+forma más eficiente posible. Se impone el igualitarismo, pero existe una estructura 
+subyacente. Esto es comúnmente aplicado en empresas de desarrollo de software por 
+ejemplo. A su vez, un ejemplo claro de la aplicación de interacción entre iguales es la 
+comunidad que desarrolla y mantiene Linux. 
+ 
+El compartir: 
+Mediante este nuevo paradigma se comprende la importancia de compartir el conocimiento y 
+dejar en el pasado las ideas de conservar los derechos de autoría de forma restrictiva. Se 
+comparte para poder enriquecerse mutuamente. Ejemplo de esto es el software open source, 
+en el cual se hace accesible al público el código fuente y la posibilidad de realizar aportes. 
+ 
+La actuación global: 
+ El nuevo proceso de globalización hace que se deban gestionar los activos personales e 
+intelectuales trascendiendo culturas, disciplinas y fronteras de organizaciones. La búsqueda 
+
+Ramirez, Fernando Ezequiel - Marketing en Internet - 2017 
+
+por mantener la competitividad a escala mundial implica seguir las novedades empresariales 
+en el ámbito internacional. Como ejemplo de esto podemos mencionar los estándares 
+informáticos libres, los cuales facilitan la posibilidad de construir empresas integradas 
+globalmente contando con gente trabajando desde distintos puntos geográficos. 
+ 
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración 
+masiva. 
+  
+La emergencia es una consecuencia de la colaboración masiva entre personas, y consiste en la 
+creación de atributos, estructuras y capacidades no inherentes a ningún nodo de la red por sí 
+solo. Un ejemplo de esto es el precio, el cual es fijado colectivamente por todas las empresas 
+que conforman el mercado. 
+ 
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene? 
+Explique qué y cuáles son los costos de transacción. 
+ 
+La ley de Coase decía originalmente que “una empresa tenderá a expandirse hasta que los 
+costes que supone organizar una transacción adicional dentro de la empresa igualen los 
+costes que implica desempeñar esa misma función en el mercado abierto”.  
+A raíz de que los costos de transacción han bajado considerablemente debido al uso y la 
+generalización de la Internet y las herramientas online, esta ley tiende a revertirse 
+drásticamente. Las empresas deben replegarse hasta que el coste que supone realizar una 
+transacción de forma interna no supere el coste que implica realizarla de forma externa. 
+Los costos de transacción se atribuyen a todo el proceso de una compra, desde el contacto 
+con el proveedor, la negociación y la coordinación de la misma. 
+  
+5.- Qué elementos favorecen la producción colaborativa? 
+  
+Entre los elementos que favorecen la producción colaborativa podemos mencionar por 
+ejemplo a las nuevas tecnologías, la globalización, las motivaciones voluntarias y la 
+economía en la era digital.​. 
+ 
+6.- Qué rol juega la “autoselección” en la producción entre pares? 
+  
+El rol de la autoselección consiste en que cuando las personas se autoseleccionan para 
+realizar tareas es más probable que elijan tareas para las cuales están excelentemente 
+calificadas. En el caso de que el gerente decida estas cosas, puede suceder que esto no sea de 
+la misma manera. Según Linus Torvalds, las personas se autoseleccionan para proyectos en 
+los cuales son competentes y tienen interés.  
+Las comunidades de personas, amplias, autoseleccionadas y en constante comunicación 
+tienen mayores probabilidades de emparejarse con las tareas adecuadas. 
+ 
+
+Ramirez, Fernando Ezequiel - Marketing en Internet - 2017 
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales?  
+ 
+Las tres condiciones que favorecen la producción entre iguales son: 
+
+-
+
+-
+
+-
+
+se mantiene bajo el costo de participación para las personas que contribuyen, ya que 
+la información es el objeto de la producción, 
+las tareas pueden descomponerse en porciones que los individuos pueden aportar 
+con pequeños incrementos y con independencia de los demás. Así, la inversión 
+global en tiempo y energía resulta muy pequeña en comparación con los beneficios 
+que se perciben, 
+debe haber un bajo costo de combinar esas porciones para obtener un producto 
+final terminado, incluyendo el liderazgo y los mecanismos de control de calidad. 
+
+ 
+
+

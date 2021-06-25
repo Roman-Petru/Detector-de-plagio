@@ -1,0 +1,117 @@
+1.  Puede describir el vínculo entre las leyes de la termodinámica de
+    Newton y la “factura entrópica”.
+
+Las leyes primera y segunda de la termodinámica establecen que “la
+energía total en el universo es constante y la entropía total aumenta
+continuamente”, pero aunque la energía sea constante se transforma
+continuamente en una sola dirección de disponible a no disponible. Los
+físicos denominan entropía a esta energía que ya no se puede utilizar.
+
+Ahora bien toda actividad económica se basa en aprovechar la energía
+disponible de la naturaleza, y convertirla en productos o servicios.
+Entonces en la energía incorporada en cualquier producto o servicio se
+debe contar la energía utilizada y perdida para mover la actividad
+económica a lo largo de la cadena de valor, y esto último es la factura
+entrópica.
+
+2.  Podría caracterizar la Primera y Segunda revolución industrial al
+    decir de Rifkin? Qué inventos son las metáforas de cada
+    infraestructura en cada una de esas etapas.
+
+La primera y segunda revolución industrial ayudaron a separar y acotar
+las muchas interdependencias ecológicas de la Tierra para el intercambio
+comercial y el beneficio personal. En el siglo XIX la imprenta de vapor
+y el telégrafo fueron los medios de comunicación que permitieron
+conectar y gestionar un complejo sistema ferroviario y fabril, basado en
+el carbón, que conectaba áreas urbanas densamente pobladas dentro de los
+mercados nacionales. En el siglo XX la telefonía y, más delante, la
+radio y televisión se convirtieron en los medios de comunicación que
+permitieron conectar y gestionar una época y una sociedad de consumo
+geográficamente más dispersa y marcada por el petróleo, el automóvil y
+las comunidades residenciales suburbanas.
+
+3.  Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+    3ra revolución industrial?
+
+La plataforma IdC invierte el proceso de las dos primeras revoluciones
+industriales. Ayuda a la humanidad a reintegrarse en la compleja
+coreografía de la biosfera y, con ello, aumentar de una manera drástica
+la productividad sin poner en peligro las relaciones ecológicas que
+rigen el planeta. Utilizar menos recursos de la Tierra con más eficacia
+y productividad en una economía circular y llevar a cabo la transición
+de los combustibles fósiles a las energías renovables, y sistemas de
+logística y transporte automatizados en el procomún mundial cada vez más
+interconectado. En esta nueva era cada uno de nosotros se convertirá en
+un nodo del sistema nervioso de la biosfera.
+
+4.  Qué entiende Rifkin por una producción abierta, distribuida y
+    colaborativa?
+
+Gracias a la implementación de IdC se genera una red neural mundial en
+la que cualquier persona, en cualquier momento y lugar, tenga la
+oportunidad de acceder a ella y usar sus datos para crear aplicaciones
+nuevas con las que administrar su vida diaria con un coste marginal casi
+nulo. Permite que las empresas sociales del procomún colaborativo rompan
+el monopolio de las grandes empresas de integración vertical que actúan
+en los mercados capitalistas, porque posibilita un producción
+colaborativa en redes continentales y mundiales de escala horizontal con
+un coste marginal cercano a cero.
+
+5.  Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+    límites le ve Ud. a los procomunes como forma de producción?
+
+El desarrollo a través de impresiones 3D, cursos de nivel universitario
+ofrecidos a través de Internet, entro otros. La limitación es el capital
+inicial necesario para formar parte de esta revolución. Por ejemplo la
+impresora 3D, o la computadora necesaria para poder efectuar el
+desarrollo de un prototipo a implementar.
+
+6.  A la sociedad /economía del conocimiento, entendida como la 3ra
+    revolución de Rifkin, cuál de las infraestructuras claves estaría
+    más demorada y porqué? qué estaría faltando?
+
+Por un lado la infraestructura pública como ser autovías, tendido de red
+eléctrica, red de telecomunicaciones, gasoductos, sistemas de suministro
+de agua potable y de enseñanza pública, entre otras. Las empresas
+necesitan infraestructura que al ser bienes públicos requieren la
+participación del Estado. La gran depresión y la segunda guerra mundial
+ralentizaron esta actividad.
+
+También se observa gran énfasis del autor en la necesidad de ir
+desacelerando las inversiones en las energías fósiles e ir incrementando
+en mayor medida hacia las energías renovables. El costo marginal de las
+energías fósiles nunca se va a acercar a cero, pero el costo marginal de
+las energías renovables ya se está aproximando a cero para los millones
+de usuarios que han empezado a adoptarlas.
+
+7.  Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+    procomún, comparado con el sistema capitalista?
+
+En el sistema capitalista la innovación es buscada con el fin de una
+productividad más barata y eficaz, dado que la productividad en la
+economía capitalista siempre se ha fundado en la reducción del coste
+marginal.
+
+En contraposición si todo es prácticamente gratuito nace el incentivo
+por fomentar el bienestar social de la humanidad más que la expectativa
+de una recompensa económica. El resultado es un aumento espectacular de
+la creatividad equiparable a las grandes innovaciones que han surgido de
+la economía capitalista durante el siglo XX.
+
+8.  Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+    actual de la economía, elija uno de estos “apellidos” y justifique
+    brevemente.
+
+E. colaborativa
+
+E. de la Información
+
+E. del Conocimiento
+
+E. Digital
+
+E. Sustentable
+
+E. intangible o “sin peso”
+
+E. sin “fricción”.

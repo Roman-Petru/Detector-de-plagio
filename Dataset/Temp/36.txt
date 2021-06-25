@@ -1,0 +1,328 @@
+MMAARRCCEELLOO  BBRROOSSII                                                                                                    
+
+  
+
+  
+
+  
+
+                                        111155..220033--88                                                                                          
+
+ 
+
+  
+
+MMaarrkkeettiinngg  eenn  IInntteerrnneett  yy  
+
+NNuueevvaa  EEccoonnoommííaa 
+
+27 de marzo 
+
+ 
+
+2017 
+
+Trabajo 
+Práctico Nº 1 
+
+““WWIIKKIINNOOMMIICCSS””  
+
+--  11eerr  CCUUAATTRRIIMMEESSTTRREE  22001177  --    
+
+PPRROOFFEESSOORR::  AAlleejjaannddrroo  PPrriinnccee    
+
+AAYYUUDDAANNTTEESS::  HHeerrnnáánn  BBoorrrréé  ––  MMaaxxiimmiilliiaannoo  BBrraacchhoo  
+
+AALLUUMMNNOO::  MMaarrcceelloo  BBrroossii  
+
+LLEEGGAAJJOO::  111155..220033--88  
+ 
+
+Curso K5052 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  Página 1 de 5 
+
+MMAARRCCEELLOO  BBRROOSSII                                                                                                    
+
+  
+
+  
+
+  
+
+                                        111155..220033--88                                                                                          
+
+ 
+
+Contenidos 
+
+DESARROLLE EL CONCEPTO “PRODUCCIÓN ENTRE IGUALES”. ............................................. 3 
+
+ENUNCIE Y DESARROLLE LAS 4 IDEAS O COMPONENTES EN LAS QUE SE BASA LA 
+WIKINOMÍA. DÉ UN EJEMPLO DE CADA UNA. ............................................................................... 3 
+
+EXPLIQUE Y DÉ EJEMPLOS DE LA “EMERGENCIA”, COMO CONSECUENCIA DE LA 
+COLABORACIÓN MASIVA. .................................................................................................................... 4 
+
+¿QUÉ ENUNCIABA LA LEY DE COASE ORIGINALMENTE? Y AHORA, ¿QUÉ 
+IMPLICANCIAS TIENE? EXPLIQUE QUÉ Y CUÁLES SON LOS COSTOS DE 
+TRANSACCIÓN. ........................................................................................................................................ 4 
+
+¿QUÉ ELEMENTOS FAVORECEN LA PRODUCCIÓN COLABORATIVA? ................................... 4 
+
+¿QUÉ ROL JUEGA LA “AUTOSELECCIÓN” EN LA PRODUCCIÓN ENTRE PARES? ................. 5 
+
+¿BAJO QUÉ 3 CONDICIONES SE FAVORECE LA PRODUCCIÓN ENTRE IGUALES? ............... 5 
+
+ 
+
+ 
+
+Curso K5052 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  Página 2 de 5 
+
+MMAARRCCEELLOO  BBRROOSSII                                                                                                    
+
+  
+
+  
+
+  
+
+                                        111155..220033--88                                                                                          
+
+RESPUESTAS
+
+  
+
+Desarrolle el concepto “producción entre iguales”. 
+El  término  se  refiere  a  una  nueva  forma  de  organización  horizontal  como  oposición  a  la 
+organización  jerárquica  de  la  empresa  tradicional,  gracias  a  las  bondades  de  las  nuevas 
+tecnologías  y  herramientas  colaborativas  que  les  permite  conectarse  de  maneras  antes 
+impensadas  y  producir  de  manera  abierta  nuevos  bienes  y  servicios  basados  en  la 
+información. 
+
+Los  individuos  ahora  comparten  conocimiento,  capacidad  informática,  ancho  de  Banda, 
+creatividad, iniciativa y otros recursos en pos de potenciar la innovación y el crecimiento 
+para  crear  una  amplia  variedad  de  bienes  y  servicios  gratuitos  y  libres,  que  cualquiera 
+puede utilizar, modificar y así generar un valor agregado diferente.  
+
+ 
+
+Enuncie  y  desarrolle  las  4  ideas  o  componentes  en  las  que  se  basa  la 
+wikinomía. Dé un ejemplo de cada una.  
+La  wikinomía  se  fundamenta  en  4  ideas  que  son:  apertura,  interacción  entre  iguales,  el 
+hecho de compartir y la actuación global. 
+
+Apertura:  El  concepto  de  apertura  habla  de  poseer  la  flexibilidad  para  colaborar  entre 
+empresas,  adaptarse  a  estándares  abiertos,  recibir  e  incorporar  nuevas  ideas  y  recursos 
+externos  y  poseer  un  grado  de  transparencia  hacia  la  sociedad.  MySQL  es  un  ejemplo  de 
+esto, al tratarse de código abierto logró crecer y mejorar con la colaboración de la gente. 
+
+Interacción  entre  iguales:  Esta  idea  hace  referencia  a  destruir  los  conceptos  de  jerarquía 
+para  compartir  entre  empresas  o  individuos  como  iguales,  de  manera  horizontal  bajo  la 
+forma de un foro colaborativo. Potencia la auto-organización, un estilo de producción que 
+funciona  con  mayor  eficiencia  que  la  dirección  jerárquica  para  determinadas  tareas.  Un 
+ejemplo podría ser el sistema operativo Linux, el cual fue creado a partir de contribuciones 
+realizadas por su comunidad de desarrolladores. 
+
+Compartir: Consiste en abandonar las restricciones y propiedades intelectuales sobre cosas 
+como  el  conocimiento,  y  en  su  lugar  compartirlas  libremente.  Todo  programa  “Open 
+Source”  es  ejemplo  de  esto,  en  vez  de  cerrarse  en  proteger  su  código,  lo  comparten  para 
+enriquecerlo, acelerar el crecimiento y la innovación. 
+
+Actuación  Global:  Se  refiere  al  alcance  global,  al  abandono  de  los  límites  geográficos  y 
+físicos  tanto  a  nivel  individual  como  corporativo.  Mantener  la  competitividad  a  escala 
+mundial implica seguir las novedades  empresariales en el ámbito internacional y explotar 
+la colaboración del capital humano a nivel global y mucho más amplio.Ejemplo de esto son 
+los variados idiomas en los que está escrita la Wikipedia, y que hasta cambia su contenido 
+según el país en el que se ve la información. 
+
+Curso K5052 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  Página 3 de 5 
+
+MMAARRCCEELLOO  BBRROOSSII                                                                                                    
+
+  
+
+  
+
+  
+
+                                        111155..220033--88                                                                                          
+
+Explique  y  dé  ejemplos  de  la  “emergencia”,  como  consecuencia  de  la 
+colaboración masiva.  
+La  emergencia  se  define  como  la  creación  de atributos,  estructuras  y  capacidades  que  no 
+son  inherentes  a  ningún  nodo  de  la  red  por  sí  solo,  sino  a  todo  su  conjunto  dado  qué  el 
+valor  surge  de  la  red  conectada  y  no  de  los  nodos  por  separado.  Estamos  viendo  como 
+surgen  resultados  y  artefactos  sofisticados  de  actividades  relativamente  difusas, 
+conectadas  de  forma  flexible  y  realizadas  por  agentes  que  colaboran  con  ayuda  de 
+herramientas  posibilitadas  por  Internet.  Ejemplos  de  este  concepto  no  tan  nuevo  son:  el 
+precio  es  característica  emergente;  en  un  mercado  competitivo  ninguna  empresa  fija  el 
+precio,  sino  que  lo  hacen  todas  en  forma  colectiva.  Todo  centro  de  información  como 
+Wikipedia es un gran ejemplo del poder de emergencia, donde una página no hace al valor, 
+sino  la  combinación  de  todas  que  vuelve  a  Wikipedia  la  enciclopedia  más  nutrida  del 
+mundo. También el software libre se encuentra dentro de la misma línea de pensamiento. 
+ 
+
+¿Qué  enunciaba  la  ley  de  Coase  originalmente?  Y  ahora,  ¿qué  implicancias 
+tiene? Explique qué y cuáles son los costos de transacción.  
+En su concepción original, la ley de Coase enunciaba que “una empresa tenderá a expandirse 
+hasta  que  los  costes  que  supone  organizar  una  transacción  adicional  dentro  de  la  empresa 
+igualen  los  costes  que  implica  desempeñar  esa  misma  función  en  el  mercado  abierto”. 
+Básicamente  suponía  qué  siempre  y  cuando  salga  más  barato  realizar  una  transacción 
+dentro  de  la  empresa,  era  más  recomendable  hacerlo  así;  en  cambio  si  resultase  más 
+económico salir al mercado, no hay que intentar hacerlo de forma interna. 
+
+Internet  ha propiciado que los costos de transacción caigan en picada de tal manera que, 
+resulta  mucho  más  útil  leer  la  ley  de  Coase  a  la  inversa:  en  la  actualidad,  las  empresas 
+deben replegarse hasta que el costo que supone realizar una transacción de forma interna 
+no  supere  el  costo  que  implica  realizarla  de  forma  externa.  Los  costos  de  transacción 
+siguen existiendo, pero ahora suelen ser más onerosos en las empresas que en el mercado.  
+
+Estos  costos  de  transacción  hacen  referencia  a  todo  el  proceso  de  una  compra,  desde  la 
+búsqueda  del  proveedor,  el  contacto  con  el  mismo,  la  negociación  o  contratación  y  la 
+coordinación de la misma. 
+
+ 
+
+¿Qué elementos favorecen la producción colaborativa? 
+La producción colaborativa se encuentra favorecida desde un punto de vista externo por  
+
+a) la globalización; 
+
+b) las nuevas tecnologías; 
+
+c) las motivaciones voluntarias; 
+
+d) la era digital y su respectiva economía. 
+
+ 
+Curso K5052 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  Página 4 de 5 
+
+MMAARRCCEELLOO  BBRROOSSII                                                                                                    
+
+  
+
+  
+
+  
+
+                                        111155..220033--88                                                                                          
+
+¿Qué rol juega la “autoselección” en la producción entre pares? 
+La  autoselección  implica  que  la  producción  entre  iguales  aprovecha  motivaciones 
+voluntarias  de  una  manera  que  propicia  la  asignación  de  la  persona  más  adecuada  para 
+realizar una tarea con mayor eficacia que las empresas tradicionales. Cuando las personas 
+se  autoseleccionan  para  llevar  a  cabo  tareas  creativas  basadas  en  conocimientos,  es  más 
+probable  que  escojan  tareas  para  las  que  poseen  una  calificación  excelente  que  si  la 
+elección depende de gerentes. La autoselección motiva al incremento de la producción ya 
+que trata de  que cada uno haga  aquello que más le interesa, generando que la gente más 
+idónea haga la tarea que corresponde. 
+
+ 
+
+¿Bajo qué 3 condiciones se favorece la producción entre iguales? 
+Las 3 condiciones qué se deben dar para favorecer la producción entre iguales son: 
+
+a)  al  ser  la  información  el  objeto  de  la  producción,  se  mantiene  bajo  el  costo  de 
+participación para las personas que contribuyen;  
+
+b)  las  tareas  pueden  descomponerse  en  porciones  reducidas  que  los  individuos  pueden 
+aportar  con  pequeños  incrementos  y  con  independencia  de  los  demás  productores,  
+haciendo que la inversión global en tiempo y energía resulte mínima en comparación con 
+los beneficios que reciben a cambio; 
+
+c)  el  costo  de  combinar  esas  porciones  para  obtener  un  producto  final  terminado, 
+incluyendo aquí el liderazgo y los mecanismos de control de calidad, debe ser bajo. 
+
+Curso K5052 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  Página 5 de 5 
+
+

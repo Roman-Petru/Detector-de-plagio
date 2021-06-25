@@ -1,0 +1,149 @@
+Materia: Marketing en internet
+
+TP: N°4 - Economía digital - adopción
+
+Alumno: Hernán Filannino
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernán Borré y Maximiliano Bracho
+
+Curso: Lunes 1er cuatrimestre
+
+Año: 2017
+
+Preguntas:
+
+TP: PAPER DIFUSION Y ADOPCION PARTE 1
+
+1. Qué se entiende por difusión y adopción de innovaciones.
+
+2. Diferencie la posición instrumentalista de la determinista.
+
+3. Indique los 5 determinantes principales del proceso de difusión según
+Rogers.
+
+4. Explique según Rogers las 5 categorías de integrantes de la adopción.
+Grafique.
+
+5. Defina según Rogers a los innovadores y adoptantes temporarios.
+
+6. Defina según Rogers las características de los rezagados.
+
+TP: PAPER DIFUSION Y ADOPCION PARTE 2
+
+7. Explique según Rosemberg el rol del aprendizaje en la adopción.
+
+8. Explique según HALL el rol de los costos hundidos en la adopción y
+porque ésta es un ̈absorbing state ̈.
+
+9. Según Caselli y Coleman cuales son los 4 principales determinante de
+adopción de PC, comparando entre diversos países.
+
+10. Explique según Dutton y otros que es y que rol juega el hecho de que
+la PC sea ̈innovación activa ̈
+
+11. Qué utilidad tiene el modelo Bass, descríbalo y formule describiendo
+los parámetros.
+
+Respuestas:
+
+1)  El proceso de difusión y adopción refiere a que una innovación, es
+      percibida por la población, hasta que con el tiempo es adoptada,
+      es decir utilizada por dicha población en un espacio de tiempo.
+
+2)  La visión instrumentalista, refiere que el proceso de cambio se debe
+      a las condiciones sociales y aspiraciones humanas, en cambio la
+      determinista es un proceso que dice ser autónomo y revolucionario.
+
+3)  Los cinco determinantes del proceso de difusión según Rogers son:
+
+-   características de la innovación
+
+-   procedimiento de decisión, que ocurre cuando los individuos deciden
+      adoptar la innovación.
+
+-   características de los individuos
+
+-   consecuencias o beneficios de adoptarlo
+
+-   canales de comunicación
+
+4) Categorías de integrantes en la curva de adopción:
+
+-   innovadores, valientes
+
+-   adoptantes tempranos
+
+-   mayoría temprana: la gente racional acepta el cambio antes que la
+      gente media.
+
+-   mayoría tardía: adopta cuando la mayoría lo haya adoptado.
+
+-   rezagados
+
+5) Entiendo que se refiere a diferencia entre innovadores y adoptantes
+“tempranos”:
+
+adoptantes tempranos: gente de respetable, de opinión importante pero
+más cautos que los innovadores: estos últimos son valientes promotores,
+mecanismos importantes de comunicación.
+
+6) Gente tradicional, solamente aceptan cuando se transformó en algo
+común.
+
+7) La difusión de las innovaciones es a través del aprendizaje sobre su
+uso en distintos entornos, esto hace mejorar la retroalimentación. De
+esta manera la innovación aprende y devuelve una versión nueva mejorada.
+
+8) Los costos hundidos refieren al potencial adoptante, el cual evalúa
+el costo de adoptarlo contra el beneficio esperado; este costo no puede
+ser recuperado. El absorbing state se da porque es un viaje de ida el
+cual una vez adoptado no se puede volver a una tecnología anterior, ya
+que se perderían todos los beneficios que poseen sin recuperar nada del
+costo hundido.
+
+9) a) Fuentes y tipo de comercio con otros países, protección y derechos
+de autor, inversiones por trabajador, y baja proporción en el PBI del
+gobierno y de la agricultura, tanto como una gran proporción en
+manufacturas en el PBI.
+
+10) PC innovación activa, dado que a diferencia de una TV envuelve al
+usuario en una conducta del tipo problema, es de naturaleza interactiva,
+en donde son trabajadores del conocimiento, analistas conceptuales,
+buscadores de información.
+
+11) Este modelo permite estimar la demanda de un producto en las
+próximas décadas, cuántos adoptarán una innovación.
+
+S(t)= [p+(q/m) N(t-1)] [m-N(t-1)] (1)
+
+donde:
+
+N(t) = número de consumidores que adoptaron el producto en el momento t.
+
+S(t) = número de nuevos consumidores que adoptaron el producto en el
+período t. Consecuentemente:
+
+S(t) = N(t) – N (t-1)
+
+Los parámetros básicos de modelo son:
+
+m: máximo número de consumidores que pueden adquirir el producto
+
+(lo que no significa toda la población del país o región bajo análisis,
+sino solo los potenciales compradores);
+
+p: coeficiente de innovación. Es la probabilidad que un innovador compre
+o adopte el producto en el período “t” (puede interpretarse como la tasa
+a la que un consumidor compra espontáneamente el producto).
+
+q: coeficiente de imitación. Es la probabilidad que un imitador adopte
+el nuevo producto. Este coeficiente captura el efecto del boca en boca,
+es decir, la comunicación que hay entre los innovadores y los imitadores
+por la cual estos últimos aprenden y copian a los primeros. También es
+llamado efecto contagio. Este coeficiente refleja el efecto que pueden
+producir los consumidores ya existentes sobre los potenciales nuevos
+consumidores, por lo cual también recibe el nombre de coeficiente de
+influencia interna, a diferencia de p que recibe el nombre de
+coeficiente de influencia externa.

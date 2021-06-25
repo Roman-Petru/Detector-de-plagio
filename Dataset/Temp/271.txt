@@ -1,0 +1,159 @@
+Alumno: Franco Zanette (147.074-7)
+
+Institución: UTN-FRBA
+
+TP: TP Nº1 “Wikinomics”
+
+Fecha de Presentación: 03/04/2017
+
+1.- Desarrolle el concepto “producción entre iguales”.
+
+El concepto “producción entre iguales” hace referencia a la
+participación de la gente de forma masiva en la innovación y la creación
+de la riqueza desde todos los sectores de la economía. En este contexto
+masas de personas y empresas colaboran abiertamente para potenciar la
+innovación y el crecimiento en sus sectores.
+
+Dicha realidad es posible debido a la accesibilidad de las tecnologías
+de información que ponen en manos de las masas los instrumentos
+necesarios para que ellas puedan colaborar, crear valor y competir.
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la
+wikinomía.
+
+Dé un ejemplo de cada una.
+
+Los principios de la wikinomía son:
+
+Apertura: el principio de apertura refiere a un cambio radical en la
+manera de pensar y actuar tanto de las empresas y las instituciones como
+de la sociedad en la cual están inmersas. Las empresas comenzaron a
+compartir información corporativa, a confiar en recursos humanos
+externos a su organización, a exponer información de manera transparente
+que genera confianza en la sociedad y entre sus trabajadores y a
+participar de en el desarrollo de tecnologías abiertas y colaborativas.
+En la actualidad, las empresas cuyas fronteras se vuelven porosas a las
+nuevas ideas, estándares, y tecnologías obtienen mejores resultados que
+las organizaciones que únicamente confían en recursos y capacidades
+internas. Ejemplo: Linux,es un claro ejemplo de apertura, ya que es un
+sistema operativo desarrollado de forma colaborativa por programadores.
+
+Producción entre iguales: este concepto refiere a un nuevo tipo de
+organización empresarial que compite con la típica forma jerárquica de
+organización. La producción entre iguales trata de una organización
+horizontal que potencia la autoorganización y permite eliminar el típico
+modelo jerárquico de “superiores” y “subordinados”. Aquellas personas
+que forman partes de una producción entre iguales presentan muchas
+motivaciones distintas para intervenir que van desde la diversión y el
+altruismo hasta conseguir algo que les reporta el valor directo. Un
+ejemplo de esto es el portal Wikipedia.
+
+Compartir: el principio de “Compartir” hace referencia a una nueva
+economía de la propiedad intelectual que se está imponiendo en la
+actualidad. Cada vez son más las empresas que descubren que mantener y
+defender un sistema de propiedad intelectual no libre, casi siempre,
+paraliza su capacidad de crear valor. De esta forma, dichas empresas
+tratan a la propiedad intelectual como si fuese un fondo de inversión
+colectivo en donde protegen lo mínimo e indispensable de sus valores de
+propiedad intelectual y comparten los demás. El motor de base de datos
+MySQL es un ejemplo de esto , ya que una comunidad de programadores
+compartió el código (en vez de protegerlo) , con el objetivo de que
+otros programadores colaborarán con el proyecto.
+
+Actuación global: el principio de actuación global trata acerca de una
+nueva globalización que es causante, y está causada por los cambios en
+la colaboración y en la manera de las empresas de organizar la capacidad
+de innovar y producir las cosas. Las alianzas mundiales, los mercados de
+capital humano y las comunidades de producción entre iguales le permiten
+a las empresas el acceso a nuevos mercados, ideas y tecnologías .Para
+llegar actuar de manera global, se deben gestionar los activos
+personales e intelectuales trascendiendo culturas, disciplinas y
+fronteras de las organizaciones.
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la
+colaboración masiva.
+
+La emergencia consiste en la creación de atributos, estructuras y
+capacidades que no son inherentes a ningún nodo de las red por sí solo.
+No son ideas nuevas. Un claro ejemplo que reúne las característica
+emergentes es el precio : en un mercado competitivo , ninguna empresa
+fija el precio, sino que lo hacen todas de forma colaborativa.
+
+Ejemplos claros de la emergencia son: el descubrimiento científico , las
+wikis, Google, Amazon.
+
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, qué
+implicancias tiene? Explique qué y cuáles son los costos de transacción.
+
+La ley Coase originalmente enunciaba que una empresa tenderá a
+expandirse hasta que los costos que supone organizar una transacción
+adicional dentro de la empresa igualen a los costos que implica
+desempeñar esa misma función en el mercado abierto. Cuando salga más
+barato realizar una transacción dentro de la empresa, es recomendable
+hacerlo así; en cambio sí resulta más económico salir al mercado, no hay
+que intentar hacerlo de forma interna.
+
+En la actualidad, resulta más útil comprender la ley Coase a la inversa:
+las empresas deben replegarse hasta que el costo que supone realizar una
+transacción de forma interna no supere el coste que implica realizarla
+de forma externa. Los costes de transacción siguen existiendo, pero
+ahora suelen ser más onerosos en las empresas que en el mercado.
+
+Los costos de transición, originalmente, eran los costos que tenía una
+empresa cuando decidía desempeñar una función en el mercado abierto , en
+vez de hacerlo dentro de la empresa. Los costos son:
+
+Costos de búsqueda: localizar distintos proveedores y determinar la
+idoneidad de los bienes que ofrecen.
+
+Costos de contratación: negociar el precio y contratar las condiciones
+
+Costos de coordinación: encajar los distintos productos y procesos.
+
+5.- Qué elementos favorecen la producción colaborativa?
+
+La producción colaborativa se ve favorecida por las siguientes razones:
+
+1)La tecnología , la cual dio lugar a la nueva economía, ha cambiado
+radicalmente los costos y beneficios de producir información y
+colaborar.
+
+2)La producción colaborativa resulta eficaz para las empresas en los
+momentos que deben asignar tiempo y atención a una gran cantidad de
+tareas.
+
+3)La producción entre pares es muyeficiente para la atracción de
+talentos de diversas especialidades estén más o menos dispersos,
+
+4)Las personas que contribuyen disfrutan de la libertad y del hecho de
+estar formando parte de un proceso de producción entre pares.
+
+6.- Qué rol juega la “autoselección” en la producción entre pares?
+
+La producción entre pares aprovecha las motivaciones voluntarias de las
+personas que se “autoseleccionan” para llevar a cabo una tarea
+determinada. De esta forma se realiza una asignación de personas más
+eficiente que si la decisión de asignar o no a cierta persona estuviese
+en manos de un tercero. En la mayoría de los casos, cuando las personas
+se “autoseleccionan” para llevar a cabo una tarea creativa basada en
+conocimientos, es muy que escojan tareas para las cuales poseen una
+calificación excelente
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales?
+
+Este tipo de producción funciona mejor cuando se cumplen por lo menos
+las siguientes condiciones:
+
+1) el objeto de la producción es información o cultura, una
+circunstancia que mantiene a un nivel bajo el costo de participación
+para las personas que contribuyen;
+
+2) las tareas pueden descomponerse en porciones reducidas que los
+individuos pueden aportar con pequeños incrementos y con independencia
+de los demás productores. Esto hace que la inversión global en tiempo y
+energía resulte mínima en comparación con los beneficios que reciben a
+cambio.
+
+3) el costo de combinar esas porciones par obtener un producto final
+terminado, incluyendo aquí el liderazgo y los mecanismos de control de
+calidad, debe ser bajo.

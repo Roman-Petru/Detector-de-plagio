@@ -1,0 +1,119 @@
+Marketing en Internet y Nueva Economía
+
+TP Nº1
+
+“Wikinomics”
+
+-   Curso: K5071
+
+-   Legajo: 138.694-3
+
+-   Alumno: Jourdan Martin
+
+-   Fecha de entrega: 05/09/2016
+
+1.- Desarrolle el concepto “producción entre iguales”.
+
+El concepto “producción entre iguales” se relaciona con lo que sucede
+cuando tanto personas como empresas colaboran abiertamente con el
+objetivo de potenciar la innovación y el crecimiento en sus sectores.
+
+Esto es facilitado por la gran accesibilidad a la tecnología con la que
+se cuenta.
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la
+wikinomía.
+
+Dé un ejemplo de cada una.
+
+-   Apertura: Poseer la flexibilidad para colaborar entre empresas.
+      Ejemplo: Base de datos MySQL (para las BD), Linux (para los SO).
+
+-   Interacción entre iguales: Forma de organización horizontal, no
+      jerárquica, donde se diseña bienes o servicios, se crea
+      conocimiento o, sencillamente, se produce experiencias dinámicas y
+      compartidas. Potencia el auto organización. Ejemplo: Linux,
+      Wikipedia, etc; que poseen un contenido que permite la interacción
+      entre iguales, todos pudiendo tener acceso a leer y editar su
+      contenido.
+
+-   Compartir: Expresa la idea de dejar atrás todas las restricciones y
+      propiedades sobre cosas como el conocimiento, y en su lugar
+      compartirlas libremente. También se refiere a compartir otros
+      recursos: capacidad informática, ancho de banda, contenido.
+
+  Todo programa open source es ejemplo de esto, en vez de cerrarse en
+  proteger su código, lo comparten para enriquecerlo. Ejemplo: Skype.
+
+-   Actuación global: Utilizar la globalización y el avance de los
+      nuevos mercados, ideas y tecnologías para ampliarse y poder
+      competir en el mundo empresarial. No contar con fronteras físicas
+      ni regionales. Ejemplo: Facebook.
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la
+colaboración masiva.
+
+Emergencia se refiere al surgimiento de nuevas estructuras, atributos y
+capacidades que no pertenecen a un nodo de la red por sí solo, sino a
+todo en su conjunto, el valor surge de la red conectada y no de los
+nodos separados.
+
+Ejemplos: Google, Amazon, el software libre.
+
+4.- ¿Qué enunciaba la ley de Coase originalmente? Y ahora, ¿qué
+implicancias tiene? Explique qué y cuáles son los costos de transacción.
+
+La ley de Coase establece que en caso de ser más barato realizar una
+transacción dentro de la empresa, conviene realizarlo de esa manera,
+pero en el caso en que los costes de esta misma transacción en el
+mercado y fuera de la empresa fueran menores, no conviene intentar
+hacerlo de forma interna.
+
+Actualmente, Internet hizo que los costes de transacción decaigan
+entonces la ley se lee a la inversa. La empresa debe realizar la
+transacción en forma externa hasta que la realización de la misma tenga
+un coste menor en forma interna.
+
+Los costos de transacción son:
+
+-   Los costos de búsqueda (localizar, comparar y elegir proveedores).
+
+-   Los costos de contratación (negociar el precio y las condiciones).
+
+-   Los costos de coordinación (encajar los productos y procesos).
+
+5.- ¿Qué elementos favorecen la producción colaborativa?
+
+La producción colaborativa favorece los siguientes elementos:
+
+-   Combina jerarquía y auto organización: los miembros con más
+    experiencia asumen el liderazgo y ayudan a integrar los aportes de
+    la comunidad.
+
+-   Las actividades productivas son voluntarias
+
+-   Las personas pueden colaborar y compartir sus creaciones por un
+    costo muy reducido.
+
+-   Las actividades productivas carecen de beneficios monetarios
+
+6.- ¿Qué rol juega la “autoselección” en la producción entre pares?
+
+La autoselección es la motivación voluntaria para realizar una tarea de
+la que nos sentimos capaces, con los conocimientos o la creatividad
+necesaria para hacerla. Nosotros mismos nos asignamos una tarea, mucho
+mejor que si un superior tuviera que hacerlo. Además, sin la producción
+colaborativa, la cantidad de recursos que pueden cumplir cada tarea es
+limitada.
+
+7.- ¿Bajo qué 3 condiciones se favorece la producción entre iguales?
+
+-   Lo que se debe producir es información o cultura.
+
+-   Las tareas deben poder descomponerse en trabajos pequeños, que no
+      impliquen mucho tiempo y esfuerzo, lo que hace que la inversión en
+      tiempo y energía sea poca en comparación con los beneficios que
+      obtiene el colaborador.
+
+-   El costo de combinar estas descomposiciones de la tarea, también
+      deben ser bajos.

@@ -1,0 +1,124 @@
+MARKETING EN INTERNET Y NUEVA ECONOMÍA 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Cátedra:​ ​Alejandro Prince 
+Ayudantes:​ ​Hernán Borré, Maximiliano Bracho 
+ 
+ 
+ 
+
+Trabajo Práctico:​ TP N° 6 – Sistemas emergentes 
+Año:​ 2017 
+
+ 
+ 
+ 
+
+NOMBRE Y APELLIDO 
+
+Melanie Blejter 
+
+Alumna 
+
+LEGAJO Nº 
+145.697-0 
+
+1 
+
+Melanie Blejter 
+145.687-0 
+
+TP N° 6 – Sistemas 
+
+emergentes 
+
+ 
+
+ 
+
+ 
+
+Desarrollo 
+ 
+
+Pregunta 1: ¿Cuáles son los 4 principios centrales del estudio de los 
+sistemas emergentes? 
+Los cuatro principio centrales de los Sistemas Emergentes son : interacción de vecinos, reconocimiento 
+de patrones, retroalimentación y control indirecto. 
+ 
+
+Pregunta 2: Describa en no más de 10 renglones la particular conducta del 
+Dictiostellum y sus implicancias. 
+Dictyostelium discoideum, comúnmente conocido como hongos mucilaginosos. El moho de fango pasa 
+buena parte de su vida como miles de organismos unicelulares distintos; cada uno se mueve 
+independientemente de sus otros compañeros. Bajo las condiciones adecuadas se producirá la 
+coalescencia de esas miríadas de células en un solo organismo mayor que comienza a reptar 
+pausadamente por el suelo del jardín consumiendo a su paso hojas y cortezas en descomposición. 
+Cuando el entorno es menos favorable, el moho de fango se comporta como un organismo aislado; 
+cuando el tiempo es más frío y el moho dispone de una cantidad de alimento mayor, "él" se transforma 
+en "ellos". El moho de fango oscila entre ser una única criatura y una colonia. Las células del moho de 
+fango son relativamente simples pero han atraído una atención desproporcionada por parte de varias y 
+variadas disciplinas -embriología, matemática, ciencias informáticas- ya que ofrecen un ejemplo 
+fascinante del comportamiento de un grupo coordinado. 
+
+Pregunta 3: ¿Qué es la morfogénesis, quién desarrolló esta idea en 1954? 
+La morfogénesis fue un estudio publicado por  Turing antes de su muerte, en 1954, trataba de la 
+capacidad de todas las formas de vida de desarrollar cuerpos cada vez más complejos a partir de 
+orígenes increíblemente simples. El trabajo de Turing se centraba en la recurrencia de los patrones 
+numéricos de las flores, pero usando herramientas matemáticas demostraba cómo un organismo 
+complejo podía desarrollarse sin ninguna dirección o plan maestro. 
+
+Pregunta 4: Describa los conceptos o conductas “adaptativas” y 
+“complejas”. Describa sistema ascendente y sistema dinámico. 
+En términos sencillos los sistemas ascendentes, resuelven problemas recurriendo a masas de elementos 
+relativamente no inteligentes en lugar de hacerlo recurriendo a un solo "brazo ejecutor" inteligente. Son 
+sistemas ascendentes, no descendentes. Extraen su inteligencia de la base.  En un lenguaje más 
+técnico, son sistemas complejos de adaptación que despliegan comportamientos emergentes.13 En 
+estos sistemas, los agentes que residen en una escala comienzan a producir comportamientos que 
+yacen en una escala superior a la suya: las hormigas crean colonias, los habitantes de una ciudad crean 
+barrios, un software de reconocimiento de patrón simple aprende a recomendar libros.  
+Los sistemas "sistemas estables dinámicos” son todo tipo de sistema que no es inerte ni desintegrado. 
+
+2 
+
+ 
+
+Melanie Blejter 
+145.687-0 
+
+TP N° 6 – Sistemas 
+
+emergentes 
+
+ 
+
+ 
+Esto incluye todos los sistemas vivos: ecosistemas, organismos, las células que componen esos 
+organismos, microorganismos. Incluye también muchos sistemas inanimados: los ríos, la atmósfera, el 
+centro de la Tierra.  
+Un sistema qué exhibe un comportamiento complejo es aquél qué posee agentes múltiples que 
+interactúan en forma dinámica de múltiples maneras, siguiendo reglas locales e independientes de 
+cualquier instrucción de un nivel superior. 
+
+Pregunta 5: Describa un sistema emergente o autoorganizativo y 
+diferéncielo de un sistema evolutivo o del caos. 
+Los sistemas autoorganizados son los que poseen cierta coordinación entre componentes locales para 
+pasar del desorden a la coordinación mutua. Este proceso no tiene ningún agente principal sino que está 
+dirigido en conjunto. Los sistemas complejos pueden actuar de formas que no son predecibles mediante 
+el análisis de sus partes por separado, pero funcionan como un todo y tienen propiedades distintas de las 
+partes que lo componen 
+Un sistema evolutivo si posee un ente que rige las acciones, se lo puede comprar con un sistema 
+jerárquico. 
+ 
+
+3 
+
+

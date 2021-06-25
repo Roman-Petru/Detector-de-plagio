@@ -1,0 +1,155 @@
+[]
+
+Marketing en Internet y Nueva Economía
+
+CURSO: K5052  -  1 CUAT. 2017
+
+Profesor: Alejandro Prince
+Fecha de entrega: 17/04/2017
+
++----------------------+-------------+-------------------------+
+|   NOMBRE Y APELLIDO  |   LEGAJO N° |   EMAIL CONTACTO        |
++======================+=============+=========================+
+|   Brian Daniel Leder |   146.641-0 |   briandleder@gmail.com |
++----------------------+-------------+-------------------------+
+
+1) Qué se entiende por difusión y adopción de innovaciones?
+
+2) Diferencie la posición instrumentalista de la determinista.
+
+3) Indique los 5 determinantes principales del proceso de difusión según
+Rogers.
+
+4) Explique según Rogers las 5 categorías de integrantes de la adopción.
+Grafique.
+
+5) Defina según Rogers a los innovadores y adoptantes temporarios.
+
+6) Defina según Rogers las características de los rezagados.
+
+7)  Explique según Rosemberg el rol del aprendizaje en la adopción.
+
+8)  Explique según HALL el rol de los costos hundidos en la adopción y
+    porque ésta es un ¨absorbing state¨.
+
+9)  Según Caselli y Coleman cuales son los 4 principales determinante de
+    adopción de PC, comparando entre diversos países.
+
+10) Explique según Dutton y otros que es y que rol juega el hecho de que
+    la PC sea ¨innovación activa¨
+
+11) Qué utilidad tiene el modelo Bass, descríbalo y formule describiendo
+    los parámetros.
+
+1)  La difusión y adopción de innovaciones es un proceso en el que una
+    innovación es percibida y adoptada por grupos y organizaciones en
+    una sociedad y se mantiene durante el tiempo.
+
+2)  La posición instrumentalista plantea que la tecnología cambia y
+    evoluciona como consecuencia de las aspiraciones y evoluciones
+    humanas sociales mientras que la posición determinista plantea que
+    la tecnología actúa en paralelo e independiente de hombre
+
+3)  Rogers define cinco determinantes en el proceso de difusión:
+
+    -   Las Características de la innovación que pueden influenciar su
+        adopción.
+
+    -   El Procedimiento de Decisión, que ocurre cuando los individuos
+        consideran adoptar una nueva idea, producto o práctica,
+
+    -   Las Características de los individuos que se muestran de acuerdo
+        con adoptar una innovación,
+
+    -   Las Consecuencias o Beneficios para los individuos y para la
+        sociedad de adoptar una innovación y, finalmente,
+
+    -   Los Canales de Comunicación usados en este proceso de adopción.
+
+4)  Según Rogers las categorías de integrantes de la curva de son:
+
+    -   Innovadores: Valientes promotores del cambio. Son mecanismos
+        importantes de comunicación
+
+    -   Adoptantes Temprano: Gente respetable, líderes de opinión,
+        prueban nuevas ideas, pero de una manera más cuidadosa.
+
+    -   Mayoría temprana: La gente racional, acepta el cambio más
+        rápidamente que lo hace la gente media.
+
+    -   Mayoría tardía: Gente escéptica, usa los productos recién cuando
+        la mayoría los está utilizando.
+
+    -   Rezagados: Gente tradicional, sólo las acepta cuando éstas ya se
+        han convertido en tradición.
+
+[]
+
+5)  Los innovadores son personas propensas al riesgo, atrevidas, con los
+    medios necesarios para afrontar tales riesgos, suficientemente
+    hábiles para adoptar una innovación compleja y aceptar su
+    incertidumbre. Los adoptantes tempranos, son personas no tan
+    individualistas, líderes en opinión y consideradas exitosas.
+
+6)  Los rezagados no poseen liderazgo de opinión alguno, suelen estar
+    aislados de los otros grupos teniendo como referencia principal de
+    lo “bueno”, cosas del pasado. Les dificulta afrontar el cambio.
+    Tampoco poseen demasiados recursos para afrontar las innovaciones.
+
+7)  Rosemberg explica que el aprendizaje sirve a modo de
+    retroalimentación de la innovación, donde el mismo aprendizaje
+    genera mejoras en la misma.
+
+8)  Los costos hundidos son aquellos iniciales que se consideran en la
+    adopción de una innovación. Son de mayor importancia en las primeras
+    etapas de la adopción. En base a esto surge que está en un
+    “absorbing state”, una vez que se decide el camino de adoptar la
+    innovación no existe un camino atrás, y el gasto se considera como
+    realizado para llegar luego a ser irrelevante.
+
+9)  Los 4 determinantes de adopción según Caselli y Coleman son:
+
+-   las fuentes y tipo de comercio con otros países, los países con
+    grandes importaciones manufactureras desde países de la OECD tiene
+    niveles mayores de adopción
+
+-   la protección de derechos de autor
+
+-   las inversiones por trabajador
+
+-   una baja proporción en el PBI del Gobierno y de la agricultura,
+    tanto como una gran proporción de las manufacturas en el PBI.
+
+10) La PC posee la cualidad de “innovación activa”. Se trata de un tipo
+    de interacción distinto, donde el usuario se enfrenta a situaciones
+    problema-solución. Esta interactividad evidencia que existen
+    distintos tipos de usuarios y que estos fueron evolucionando a lo
+    largo de la historia.
+
+11) El modelo Bass plantea una manera de estimar el número de
+    consumidores que adoptarán un nuevo producto, tema importante
+    actualmente con la actual acotada curva de vida de los productos.
+    Se definen dos grupos de usuarios. Los innovadores, que adoptan el
+    producto independientemente del resto de la sociedad, y el resto de
+    los consumidores, también llamados imitadores, ya que comienzan a
+    adquirir el nuevo producto cuando observan que otros lo consumen. Se
+    plantea la siguiente ecuación matemática:
+
+  S(t)= [p+(q/m) N(t-1)] [m-N(t-1)]
+
+Donde:
+
+N(t) = número de consumidores que adoptaron el producto en el momento t.
+
+  S(t) = número de nuevos consumidores que adoptaron el producto en el
+  período t. Entonces:
+
+S(t) = N(t) – N (t-1)
+
+m: máximo número de consumidores que pueden adquirir el producto;
+
+  p: coeficiente de innovación. Es la probabilidad que un innovador
+  compre o adopte el producto en el período “t”.
+
+  q: coeficiente de imitación. Es la probabilidad que un imitador adopte
+  el nuevo producto.

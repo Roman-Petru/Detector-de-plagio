@@ -1,0 +1,340 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 4
+
+Wikinomics
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borre
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  INTEGRANTE                   
+  ---------------- ----------- -----------------------
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+
+Fecha de entrega:
+
+23/09/2019
+
+Preguntas:
+
+  1.- Desarrolle el concepto “producción entre iguales”.
+
+  2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa
+  la wikinomía.
+
+  Dé un ejemplo de cada una.
+
+  3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la
+  colaboración masiva.
+
+  4.- Describa el orígen y características de la “generación.net”.
+  Diferencie, compare, este concepto del de “nativos digitales” (según
+  Marc Prensky).
+
+  5.- Qué enunciaba la ley de Coase originalmente. Y ahora, qué
+  implicancias tiene? Explique qué y cuáles son los costos de
+  transacción.
+
+  6.- Qué elementos favorecen la producción colaborativa?
+
+  7.- Qué rol juega la “autoselección” en la producción entre pares?
+
+  8.- Bajo qué 3 condiciones se favorece la producción entre iguales?
+
+  9.- Explique cómo la colaboración del prosumidor deviene o implica
+  “autoservicio”?
+
+10.- Enuncie y describa las 5 implicancias o reglas para trabajar con
+comunidades de prosumidores. Dé ejemplos.
+
+  11.- En la aplicación de los principios de la wikinomía, que 7
+  principios de diseño son comunes a cualquier modelo de producción
+  entre iguales?
+
+Resolución
+
+  1.- Desarrolle el concepto “producción entre iguales”.
+
+Anteriormente la participación de las personas a nivel económico era muy
+limitado, ya sea como consumidor o como trabajador las personas estaban
+sumergidas en una profunda burocracia de las organizaciones. Muchas
+personas quedaban excluidas en la circulación de conocimientos, poder y
+capital, de manera que participarán en la periferia de la economía.
+
+En la actualidad, y gracias al avance de la tecnología y su
+accesibilidad, están todos los instrumentos disponibles para que
+cualquier persona pueda colaborar, crear valor y competir. La gente
+puede participar en la innovación y la creación de riqueza desde todos
+los sectores de la economía. Esta nueva forma de innovacion y creacion
+de valor se denomina “producción entre iguales”.
+
+  2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa
+  la wikinomía.
+
+  Dé un ejemplo de cada una.
+
+El nuevo arte y la nueva ciencia de wikinomía se fundamenta en cuatro
+potentes ideas novedosas: apertura, interacción entre iguales, el
+compartir y la actuación global.
+
+Apertura: se asocia con la franqueza, la transparencia, la libertad, la
+flexibilidad, el carácter expansivo, el compromiso y la accesibilidad.
+Recientemente las empresas inteligentes han estado planteándose la
+apertura y esto está empezando a afectar a varias funciones importantes,
+como los recursos humanos, la innovación, los estándares industriales y
+las comunicaciones.
+
+En cuanto a recursos humanos, la apertura se da respecto a contratar a
+los mejores, motivarlos, permitir su desarrollo y retenerlos como base
+de su capital y competitividad en el mercado.
+
+Respecto a la innovación, las empresas deben estar abiertas al talento
+global más allá de sus cuatro paredes.
+
+En los estándares industriales, los usuarios ya no quieren pertenecer a
+un mundo cerrado en cuanto al software, por ello las empresas deben
+brindar opciones y multiplataformas, un software debe poder correr en
+linux, windows, ios.
+
+La comunicación de información corporativa, está creciendo de forma
+espectacular, hoy en día es clave la transparencia.
+
+Ejemplos: apertura de recursos humanos, google, valora y da libertad a
+sus recursos, en cuanto a innovación puedo mencionar Amazon, respecto a
+estándares, la mayoría de juego de la actualidad se desarrollan
+multiplataforma.
+
+La interacciones entre iguales: En la actualidad las viejas estructuras
+jerárquicas poco a poco están desapareciendo, en competencia con nuevas
+formas de organización horizontal. Las mismas crean productos y
+servicios basados en la información y en algunos casos, objetos físicos.
+Los participantes en comunidades de producción entre iguales tienen
+muchas motivaciones distintas para intervenir, desde la diversión y el
+altruismo hasta conseguir algo que les reporta el valor directo. Aunque
+se impone el igualitarismo, la mayor parte de las redes de iguales
+poseen una estructura subyacente, donde algunas personas gozan de mayor
+autoridad e influencia que otras.
+
+Un ejemplo de esto sería, Linux una plataforma abierta en la cual miles
+de programadores cooperan entre sí.
+
+Compartir: La industria digital lucha constantemente contra la
+piratería, las organizaciones han optado por una postura defensiva.
+Existen distinta alternativas y estrategias para proteger la propiedad
+intelectual pero en la actualidad se está imponiendo una nueva economía
+de la propiedad intelectual. Las empresas se están dando cuenta que
+mantener y defender un sistema de propiedad intelectual no libre
+paraliza, a menudo, su capacidad de crear valor. Las empresas
+inteligentes están tratando la propiedad intelectual como si se tratara
+de un fondo de inversión colectivo: gestionan una cartera equilibrada de
+valores de propiedad intelectual, algunos protegidos y otros
+compartidos.
+
+Ejemplo: Sun Microsystem, empresa de desarrollo de software que explotó
+su plataforma Java.
+
+Actuación Global: El concepto fundamental acá es la globalización, la
+misma rompió todas las barreras existentes de la innovación y la
+creación de riquezas.
+
+La nueva globalización es causante de y, al mismo tiempo, está causada
+por cambios en la colaboración y en la manera que tienen las empresas de
+organizar la capacidad de innovar y producir cosas. Mantener la
+competitividad a escala mundial implica seguir las novedades
+empresariales en el ámbito internacional y explotar un vivero de
+talentos global, mucho más amplio.
+
+Ejemplo: google y cualquiera de las empresas mundiales más conocida de
+informática son producto de la globalización.
+
+  3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la
+  colaboración masiva.
+
+Otra consecuencia de de la colaboración masiva entre personas es la
+emergencia: la creación de atributos, estructuras y capacidades que no
+son inherentes a ningún nodo de la red por sí solo.
+
+Estamos moviéndonos desde el concepto re-emegencia como consecuencia de
+una autoorganización en bruto, la idea la idea según la cual los agentes
+independientes, al actuar juntos de modo inconsciente, crean algo nuevo
+(el llamado <<orden libre>>)- hasta el reconocimiento de quien es
+posible fomentar la autoorganización e, incluso, orquestarla, como han
+demostrado Google, Mozilla e IBM.
+
+Dentro de esta colaboración deliberada con estándares e interfaces de
+programación de aplicaciones abiertas, que permiten combinar sitios web
+independientes, podemos mencionar empresas incipientes como flickr, 43
+Things, del.icio.us y Technorati.
+
+  4.- Describa el orígen y características de la “generación.net”.
+  Diferencie, compare, este concepto del de “nativos digitales” (según
+  Marc Prensky).
+
+La “generacion.net” comprende a los nacidos entre 1997 y 1996, está
+comprendida por más de 2.000 millones de personas. Es la primera
+generación que ha crecido en la era digital y eso convierte a sus
+miembros en una fuerza que impulsa la colaboración. Se la denomina
+generación de la colaboración debido a que están creciendo en un entorno
+donde prima la interactividad, son una generación que lo observa todo de
+cerca. Es una generación a la cual le preocupa su futuro, no son las
+propias capacidades las que generan la inseguridad sino el mundo adulto
+exterior y como puede escasear sus oportunidades.
+
+En el caso del nativo digital, son personas que desde temprana edad
+estuvieron rodeadas por las nuevas tecnologías, computadoras,
+videojuegos, cámaras, celulares y los nuevos medios de comunicación
+masiva, este tipo de personas tiene otra forma de pensar totalmente
+distinta al de la generación.net, el nativo tecnológico ya nació dentro
+del mundo masivo de la conectividad, avanza y aprende de forma natural,
+no tiene miedo a la tecnología y al futuro tecnológico ya que es parte
+de las raíces de esa persona, en contraposición con la generación .net
+que tiene que luchar constantemente para entender está masividad
+tecnológica y el mundo de la conexion constante.
+
+5.- Qué enunciaba la ley de Coase originalmente. Y ahora, qué
+implicancias tiene?
+
+Explique qué y cuáles son los costos de transacción.
+
+Ley de Coase: una empresa tenderá a expandirse hasta que los costes que
+supone organizar una transacción adicional dentro de la empresa igualen
+los costes que implica desempeñar esa misma función en el mercado
+abierto. Cuando salga más barato realizar una transacción dentro de la
+empresa, es recomendable hacerlo así; en cambio si resulta más económico
+salir al mercado, no hay que intentar hacerlo de forma interna.
+
+Respecto de la actualidad y la influencia de internet, la ley sigue
+igual de vigente. Sin embargo, Internet ha propiciado que los costes de
+transacción caigan en picado de tal manera que, resulta mucho más útil
+leer la ley de Coase a la inversa, “las empresas deben replegarse hasta
+que el coste que supone realizar una transacción de forma interna no
+supere el coste que implica realizarla de forma externa. Los costes de
+transacción siguen existiendo, pero ahora suelen ser más onerosos en las
+empresas que en el mercado”.
+
+Cada producto que una empresa fabrica tiene un costo de transacción, la
+cual implica los siguientes puntos,
+
+-   costes de búsqueda, implica localizar distintos proveedores y
+      determinar la idoneidad de los bienes que ofrecen.
+
+-   costes de contratación, implican negociar el precio y contratar las
+      condiciones.
+
+-   costes de coordinación los que implican encajar los distintos
+      productos y procesos.
+
+  6.- Qué elementos favorecen la producción colaborativa?
+
+Alguno de los elementos que favorecen la producción colaborativa son la
+globalización, las nuevas tecnologías, las motivaciones voluntarias y la
+era digital y su economía.
+
+  7.- Qué rol juega la “autoselección” en la producción entre pares?
+
+Cuando las personas se auto-seleccionan para llevar a cabo tareas
+creativas basadas en conocimiento, es probable que escojan tareas para
+las que poseen una calificación excelente que si la elección depende de
+gerentes.
+
+La autoselección genera mayor probabilidad de emparejar las mejores
+personas con las tareas adecuadas, en contrapartida con la elección
+limitada de recursos que una organización podría hacer.
+
+  8.- Bajo qué 3 condiciones se favorece la producción entre iguales?
+
+  Las tres condiciones son:
+
+-   el objeto de la producción es información o cultura, una
+      circunstancia que mantiene a un nivel bajo el coste de
+      participación para las personas que contribuyen.
+
+-   las tareas pueden descomponerse en porciones reducidas que los
+      individuos pueden aportar con pequeños incrementos y con
+      independencia de los demás productores.
+
+-   el coste de combinar esas porciones par obtener un producto final
+      terminado, incluyendo aquí el liderazgo y los mecanismos de
+      control de calidad, debe ser bajo.
+
+9.- Explique cómo la colaboración del prosumidor deviene o implica
+“autoservicio”?
+
+Los clientes someten a consideración sus diseños y los mejores llegan al
+proceso de producción. Por ejemplo, Aunque Fluevorg no ofrece royalties
+ni devuelve los diseños a la comunidad, a prometido adornar con el
+nombre del diseñador el zapato que acabe adoptando.
+
+Estos casos ilustran cómo las compañías inteligentes están llegando más
+lejos para implicar a clientes y a usuarios punteros directamente en los
+procesos de desarrollo de productos. Sin embargo, uno de los elementos
+importantes que no queda reflejado en estos ejemplos hasta qué punto de
+innovación de los clientes se convierte en autoservicio con el auge de
+las comunidades de prosumidores.
+
+10.- Enuncie y describa las 5 implicancias o reglas para trabajar con
+comunidades de prosumidores. Dé ejemplos.
+
+Las 5 implicancias para trabajar con comunidades son:
+
+-   “Más que personalizacion”: se produce cuando un cliente consigue un
+      producto estándar adaptado a sus especificaciones. (por ejemplo:
+      productos hechos a medida, una computadora)
+
+-   “Perder el control”: los clientes van a tratar el producto como una
+      plataforma para sus propias innovaciones, dándoles permiso de
+      hacerlo o no. El valor se traslada del producto al servicio. (Por
+      ejemplo: juegos y plataformas en línea)
+
+-   Juegos de herramientas para clientes y orquestación del contexto:
+      los clientes van a tratar los productos como plataformas, uno
+      también puede adelantarse. Se deben hacer los productos modulares,
+      reconfigurables y editables. Se debe establecer el contexto para
+      la innovación y la colaboración de los clientes. (Ejemplo:
+      aplicaciones financieras SAP)
+
+-   Convertirse en un igual: el verdadero negocio del nuevo mundo del
+      prosumo no es crear productos terminados, sino ecosistemas de
+      innovación. (ejemplos: software de comunidad libre)
+
+-   Compartir los frutos: los clientes esperan compartir la propiedad y
+      los frutos de sus creaciones. Si los clientes ven su beneficio al
+      implicarse, siempre se podrá contar con un ecosistema fértil y
+      dinámico para el crecimiento y la innovación. (ejemplo: Second
+      Life)
+
+  11.- En la aplicación de los principios de la wikinomía, que 7
+  principios de diseño son comunes a cualquier modelo de producción
+  entre iguales?
+
+  Los 7 principios son:
+
+-   Obtener pistas de los usuarios punteros
+
+-   Construir una masa crítica
+
+-   Suministrar una infraestructura para la colaboración
+
+-   tomarse tiempo para dar con las estructuras y la gobernanza
+      adecuadas
+
+-   Asegurarse de que todos los participantes puedan recabar su parte de
+      valor
+
+-   Someterse a las normas comunidad
+
+-   dejar que el proceso evolucione
+
+-   poner a punto nuestra mentalidad colaborativa

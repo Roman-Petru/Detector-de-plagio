@@ -1,0 +1,116 @@
+Trabajo Práctico 4
+
+Hernán Dalle Nogare - 146.877-7
+
+E-commerce
+
+1) Busque en la web, y defina y diferencie a su criterio y en pocos
+renglones y claramente e-business, e-marketing y e-commerce.
+
+E-business se refiere al conjunto de actividades y prácticas de gestión
+empresariales resultantes de la incorporación a los negocios de las TIC
+generales y particularmente de Internet. El e-marketing puede definirse
+como el resultado de la unión entre las TIC con los principios del
+marketing ya conocidos. Por otro lado, el e-commerce consiste en la
+compra y venta de productos o servicios a través de medios electrónicos,
+tales como redes sociales y otras páginas web.
+
+2) Busque en la web el tamaño (ventas anuales) del comercio electrónico
+B2C o minorista (en u$d) a 2018 (o 2017) en Argentina, Estados Unidos,
+Colombia, Chile y Brasil. También busque la cantidad de usuarios de
+internet en esos países. La población y el PBI Cite las fuentes y fechas
+del dato. Use el cuadro para poder visualizar y comparar
+
++-------------+-------------+-------------+-------------+-------------+
+| País/ Dato  | Volumen del | Usuarios de | PBI en      | Población   |
+| 2018        | e- commerce | internet en | millones    |             |
+|             | b2c en U$D  | millones    |             | en millones |
+|             |             |             | de U$D      |             |
++=============+=============+=============+=============+=============+
+| Argentina   | 4.260 mill. | 41,17 (93%) | 486.371     | 44,27       |
++-------------+-------------+-------------+-------------+-------------+
+| Chile       | 5.888 mill. | 14,07 (78%) | 277.443     | 18,05       |
++-------------+-------------+-------------+-------------+-------------+
+| Brasil      | 19.722      | 148,6 (71%) | 1.741.005   | 209,3       |
+|             | mill.       |             |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| Colombia    | 4.000 mill. | 30,91 (63%) | 307.271     | 49,07       |
++-------------+-------------+-------------+-------------+-------------+
+| Estados     | 504.582     | 287,94      | 19.149.538  | 327,2       |
+| Unidos      | mill.       | (88%)       |             |             |
++-------------+-------------+-------------+-------------+-------------+
+
+Fuentes:
+
+https://www.linio.cl/sp/indice-ecommerce
+
+Google (población)
+
+https://datosmacro.expansion.com/pib
+
+3) Del blog de Prince, conteste cuál ha sido el crecimiento del
+e-commerce b2c (incluye el c2c) medido en dólares en los últimos 10
+años.
+
+En los últimos 10 años creció 9 veces en dólares.
+
+4) Del mismo blog, indique cuál es (en Argentina y aproximadamente) el
+porcentaje de compradores online a fin de 2018 respecto del total de
+usuarios de internet.
+
+El porcentaje de compradores online respecto del total de usuarios de
+internet es de 80%.
+
+5) Enuncie 5 o 6 de los principales factores que han hecho crecer en el
+país, en los últimos 10 años al e-commerce.
+
+Factores que han hecho crecer al e-commerce en el país:
+
+-   El aumento de empresas vendedoras y revendedoras, y de los rubros,
+      productos y servicios ofrecidos.
+
+-   Mejoras relativas en la calidad y eficiencia del servicio logístico
+      y entregas.
+
+-   Un incremento de la proporción de compradores en relación al total
+      de usuarios de internet.
+
+-   El crecimiento de los usuarios de internet y de la proporción de
+      éstos que compran en línea.
+
+-   La explosión de la conectividad y de la movilidad.
+
+-   La mayor frecuencia de compra y del monto de compra por parte de los
+      compradores más antiguos fruto de la curva de aprendizaje.
+
+6) Cuál ha sido, en dólares y en promedio el gasto anual por comprador
+online en Argentina de 2008 a 2018? Estima que en 2019 ese valor caerá o
+subirá, porque?
+
+El gasto anual promedio por comprador online es de U$S 290. Estimo que
+el valor caerá en 2019 debido a la fuerte devaluación de la moneda
+local.
+
+7) Qué porcentaje aproximado de las ventas totales minoristas (on y
+offline) representa en el país la venta online? Y en Estados Unidos a
+cuánto asciende ese porcentaje según diversas fuentes?
+
+En Argentina, las ventas online representan el 1,7% del total de ventas
+minoristas. En Estados Unidos representa de un 9% a un 14%.
+
+8) Que piensa que pasará/está pasando con la venta online en Argentina
+en este año, dada la situación macroeconómica y la fuerte devaluación?
+Recuerde los factores que hicieron crecer a este mercado de 2008 a 2018.
+
+Pienso que las ventas en moneda local van a seguir creciendo respecto de
+los años anteriores debido a todos los factores mencionados que se
+siguen acrecentando con el correr del tiempo. Cada vez hay más gente con
+acceso a internet y smartphones, y cada vez más gente está migrando
+hacia las compras online. También son más las empresas que empiezan a
+ofrecer sus productos online. Todo esto se ve potenciado por las
+plataformas disponibles de e-commerce que ofrecen una experiencia cada
+vez más sencilla para los usuarios, generando más confianza.
+
+9) Ha comprado algo online la última semana? Qué? En qué sitio?
+
+Sí, compré en Mercado Libre un juguete para hacer un regalo.

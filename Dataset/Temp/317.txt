@@ -1,0 +1,142 @@
+Año: 2019
+
+Curso: K5571
+
+Nombre: Marina Pross
+
+Legajo: 141.882-8
+
+  -- -- --
+        
+        
+  -- -- --
+
+Consiga: Responder el siguiente cuestionario basándose en la
+presentación sobre el tema.
+
+1.  Explique las tres grandes tendencias que están cambiando los
+    tradicionales modelos de negocio. Describa con ejemplos.
+
+    a.  Incremento rápido y expansivo de las capacidades de las
+        máquinas. Ejemplo: el crecimiento de la inteligencia artificial.
+
+    b.  Surgimiento de las plataformas digitales. Ejemplo: nuevas formas
+        de prestar servicios o productos con mayores beneficios para
+        ambas partes.
+
+    c.  El conocimiento de las masas. Ejemplo: blogs o centros de
+        opinión que agilizan el boca o boca.
+
+2.  ¿Cómo transforma a la inteligencia humana, los productos y al
+    conocimiento centralizado (core)?
+    La inteligencia humana debe evolucionar. Gracias a que la tecnología
+    ha tomado parte del trabajo del hombre, este puede comenzar a pensar
+    en nuevos aspectos, estrategias e innovar en campos aún no
+    explotados.
+
+  En cuanto a los productos, estos nuevos modelos brindan diferentes
+  formas de comercializarlos y de obtener ganancias por productos o
+  servicios que con los modelos tradicionales sería casi imposible.
+
+  El conocimiento centralizado que tenía una gran importancia en los
+  modelos tradicionales porque de hecho contar con este era un gran
+  beneficio, ahora con las redes sociales y la era digital, este
+  conocimiento se dispersó permitiendo que sea más sencillo opinar en él
+  y consultarlo.
+
+3.  ¿Cómo afecta a los procesos, a la oferta y a la organización del
+    trabajo?
+    Los procesos se ven afectados dado que ahora las decisiones se toman
+    en base a los datos producidos por dichos procesos, no se tiene en
+    cuenta solo el juicio u opinión del experto en el tema, se puede
+    corroborar y probar los conceptos más fácilmente.
+    La oferta, por su parte gracias a la creación de plataformas
+    digitales ya no está centralizada en los grandes proveedores ni en
+    productos específicos. Ahora la oferta abarca los productos más
+    populares como también los nuevos nichos que se dan a conocer.
+
+  Por otra parte, la organización del trabajo también se ve afectada por
+  las nuevas tecnologías y era digital. Las estructuras y metodologías
+  estáticas ya no son tan eficientes cuando se trabaja con estos modelos
+  dado que son tan dinámicos y cambiantes que las organizaciones deben
+  acompañarlos.
+
+4.  ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+    Machine Learning es un campo de la ciencia de la computación y una
+    rama de la inteligencia artificial que busca que las máquinas con su
+    uso mejoren su desempeño. Se trabaja en algoritmos que conviertan
+    los datos del proceso en programas de computación sin tener que
+    crearlos.
+    Algunas de sus aplicaciones son:
+
+    a.  Diagnóstico Médico
+
+    b.  Detección de fraude con el uso de tarjetas de crédito
+
+    c.  Clasificación de secuencias de ADN
+
+    d.  Marketing personalizado
+
+5.  ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+    Con el paso del tiempo y la incorporación de nuevas tecnologías,
+    este modelo crecerá y tendrá mejor resultados. Se expandirá en más
+    sociedad y economías lo que generará grandes beneficios y será más
+    accesible lo que aumentará su explotación.
+
+6.  ¿Qué son los efectos de red? Describir ejemplos.
+    Los efectos de red hacen referencia a la ventaja de redes grandes
+    con respecto a las chicas con respecto a la adquisición de nuevos
+    cliente como también al incremento de valor de un bien a medida que
+    más usuarios lo usan.
+
+    a.  Efectos positivos del mismo lado: ejemplo, WhatsApp,
+        Instagram,mails. Tener más usuarios en la app genera que más
+        gente quiera tener la app.
+
+    b.  Efectos negativos del mismo lado: ejemplo, MercadoLibre. Cuantos
+        más proveedores hay, mayor competencia y mayor dificultad para
+        elegir el indicado.
+
+    c.  Efectos cruzados positivos: ejemplo, Visa, Tarjeta Naranja,
+        mercadoPago. Con más clientes que pagan con tarjeta hay más
+        comercios que los aceptan y viceversa.
+
+    d.  Efectos cruzados negativos: ejemplo, Uber. Si UBER atrae a
+        demasiados choferes, habrá poco trabajo para ellos. Por el
+        contrario, si atrae a muy pocos, habrá mucha espera para los
+        pasajeros.
+
+7.  ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+    ejemplos de este tipo de plataformas.  
+    Las plataformas O2O son las conocidas como online-offline. Son las
+    que unen el mundo físico con el virtual, produciendo mayores
+
+Ejemplos
+
+a.  Uber
+
+b.  Falabella y Falabella.com / Farmacity
+
+c.  Pedidos ya / Glovo
+
+8.  Describa los nuevos modelos de negocio que ofrecen las plataformas
+    digitales.
+
+    a.  Modelo de negocio de código abierto: Software de libre acceso y
+        rápida propagación. También da la posibilidad de ver y modificar
+        su código a necesidad del usuario.
+
+    b.  Modelo gratis: Es un servicio gratuito para el usuario, que
+        necesita de inversiones importantes en el corto plazo y luego
+        trabaja con estrategias de publicidad, etc.
+
+    c.  Modelo freemium: Es un servicio gratuito para todos sus usuarios
+        pero que contiene una versión paga mejor a la gratuita.
+
+    d.  Modelo basado en suscripción: Consiste el ofrecer sus servicios
+        a cambio de un aporte monetario. Debe garantizar una buena
+        experiencia de usuario y mantener su rendimiento para que sea
+        sostenible.
+
+    e.  Modelo bajo demanda: Permite al usuario solo consumir lo que
+        desea, cuando lo desea y solo pagar por ello.

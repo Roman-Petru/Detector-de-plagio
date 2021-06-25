@@ -1,0 +1,232 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 1
+
+La Larga Cola
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borre
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  ---------------- ----------- -----------------------
+  INTEGRANTE                   
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+  ---------------- ----------- -----------------------
+
+Fecha de entrega:
+
+02/09/2019
+
+Consigna
+
+  1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+  presente y futuro de la economía minorista? Grafique.
+
+  2) Defina economía de escasez. ¿Cómo influye Internet en este
+  concepto?
+
+  3) Relacione los términos: Ley de Pareto, Economía de masas y Larga
+  Cola.
+
+  4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+  igualmente necesitan ofrecer “Hits” a sus clientes?
+
+  5) Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+  servicios) que basen su modelo económico en La Larga Cola.
+
+  6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+  Cola?
+
+  7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+  brevemente.
+
+Resolución
+
+  1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+  presente y futuro de la economía minorista? Grafique.
+
+La larga cola se define como un nuevo modelo económico que surge de la
+revolución digital, cuando aparece el mercado de venta online en la web
+(internet). Los costos de almacenamiento, de distribución, de acceso,
+etc dejan de ser un límite, a partir de esto cambia el paradigma, no
+solo lo que importa o mueve la economía son los hits o lo popular, sino
+que los productos de menor volumen de venta empiezan a ser el foco
+principal del negocio, para describir esto se mencionan negocios como
+Netflix, Amazon, Itunes, etc. Los mismos poseen enormes catálogos (casi
+infinitos) de ventas de productos cada uno en su rubro, donde muchos de
+ellos no son populares, esto potencia sus ventas, ya que la gente elige
+los sitios donde mayor cantidad de opciones se ofrecen.
+
+[]
+
+La economía minorista tradicional por necesidad se concentra en la
+popularidad ya que la gran mayoría de los productos no está disponible
+en las tiendas físicas, esto limita las opciones. Cuando el comerciante
+puede bajar sustancialmente los costos de conexión entre la oferta y la
+demanda cambia la naturaleza del mercado. Poner los nichos al alcance de
+todos revela la demanda latente de contenidos no comerciales, esto
+genera una mejora en la economía generando un feedback positivo que
+transforma y transformará todas las industrias.
+
+  2) Defina economía de escasez. ¿Cómo influye Internet en este
+  concepto?
+
+Cuando la economía se basaba en el éxito, dado que no había suficiente
+espacio para que todo sea accesible a todos, cuando no había suficientes
+pantallas para proyectar todas las películas disponibles, ni suficientes
+canales para transmitir todos los programas de televisión, ni tampoco
+había suficientes horas del día para ofrecer todo a través de alguno de
+estos espacios, esto era la economía de la escasez.
+
+La internet, su evolución y masividad transformó el mercado de la
+escasez en abundancia, eliminó los límites mencionados en el párrafo
+anterior.
+
+  3) Relacione los términos: Ley de Pareto, Economía de masas y Larga
+  Cola.
+
+Entre 1970 y 1980 la cultura de masas estaba de auge, todos veían los
+mismos programas, escuchaban las mismas radios, se imponían las mismas
+bandas de música muy pocos adinerados tenían acceso más allá de esto.
+Cuando la revolución digital llegó, grandes compañías cambian el
+paradigma de la economía de masas, ahora no solo es importante la
+cabeza, sino que la larga cola amplía las opciones, surgen nuevos nichos
+que potencian el mercado, la gente ya no elige solo lo popular, la gente
+busca aquel que más opciones le muestra.
+
+El autor describe que la larga cola es en cierta forma el fin de la
+regla 80/20 (Ley de Pareto), ya no es una realidad que el 20% de los
+productos generan el 80% de la ganancia, esto solo analizado desde este
+punto de vista. La larga cola alienta a no dejarse dominar por la regla,
+un producto situado en el 80% de los menos populares puede pasar al
+grupo del 20% de los más vendidos.
+
+  4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+  igualmente necesitan ofrecer “Hits” a sus clientes?
+
+La estrategia de la larga cola es un complemento para ampliar y
+potenciar el mercado ofreciendo mayor cantidad de opciones y libertad de
+elección al momento de compra de un cliente. Los “hits” seguirán siendo
+fuente de grandes ingresos para las tiendas, pero la competitividad de
+las grandes tiendas online está en la capacidad de ofrecer la mayor
+cantidad de opciones, no eliminando los hits.
+
+Los hits en muchos casos son el motor de financiamiento de otros
+productos de la larga cola, en base a esto se puede hacer crecer el
+catálogo de esa larga cola, ampliando la vidriera.
+
+  5) Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+  servicios) que basen su modelo económico en La Larga Cola.
+
+-ITunes: Plataforma de contenido digital.
+
+-Netflix: Plataforma de entretenimiento que brinda contenido
+audiovisual.
+
+-Amazon: Compañía estadounidense de comercio electrónico y servicios de
+computación en la nube.
+
+-Google: Motor de búsqueda más utilizado en la web.
+
+  6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+  Cola?
+
+Las 3 fuerzas son:
+
+-   Democratizar las herramientas de producción: como ejemplo se
+      menciona el ordenador personal, el cual permitió que tareas
+      específicas puedan ser realizadas por el común de las personas,
+      tareas que antes solo podían realizar profesionales. Ejemplo:
+      filmar un cortometraje, grabar un disco, publicar una idea, etc.
+      Esto multiplica los bienes disponibles.
+
+-   Democratizar las herramientas de distribución: el motor de esta
+      fuerza es internet, la misma permitió que todos puedan actuar como
+      distribuidores. Esto permite que todos puedan acceder a infinidad
+      de contenidos.
+
+-   Conectar la oferta y la demanda: la conexión entre la oferta y la
+      demanda permite que los consumidores tengan acceso a los nuevos
+      productos orientando la demanda hacia la larga cola. Esta conexión
+      se da de distintas formas: recomendaciones en sitios webs,
+      opiniones o reseñas de Google, el boca en boca de los blogs, etc.
+      Esto minimiza costos y permite que el negocio se redireccione
+      desde los éxitos hacia los nichos.
+
+  7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+  brevemente.
+
+Principales reglas:
+
+Reducción de costos
+
+-   Use un inventario digital
+
+  Minimiza costos y permite un catálogo infinito, permite el crecimiento
+  de los nuevos mercados de nicho.
+
+-   Deje que los clientes hagan el trabajo
+
+  Los clientes se encargan de calificar los productos, redactando
+  reseñas y fundamentando el porqué, ellos poseen tiempo ilimitado para
+  realizar esta tarea. Luego otros usuarios se fijan en ellas para tomar
+  su decisión de consumo.
+
+Mercado de Nichos
+
+-   No hay un método de distribución para todo
+
+  No existe un único canal de distribución para todos los productos, por
+  ejemplo, hay clientes que prefieren ir a una tienda, otros compran
+  online, algunos buscan en la web y luego van a la tienda, otros
+  quieren el producto ahora, etc.
+
+-   No hay un producto que se adapte a todos
+
+  Por ejemplo, hoy en día existen muchas opciones de comprar música, por
+  álbum, un tema individual, un tono para el celu, un video, etc. Esto
+  es una tendencia que acapara todos los mercados.
+
+-   No use un precio único
+
+  Existen diferentes personas que están dispuestas a pagar diferentes
+  precios, por diversas razones, cantidad de dinero disponible, tiempo
+  disponible. El precio variable en un mercado de abundante variedad
+  puede ser una poderosa técnica para aumentar el valor de un producto y
+  la dimensión del mercado.
+
+Menor control
+
+-   Comparta la información
+
+  El saber compartir información de los productos de forma clara y
+  completa, sirve como herramienta de marketing, dar mayor confianza al
+  usuario o cliente, disipando todo tipo de dudas.
+
+-   Piense en una cosa y otra, no en una u otra
+
+  Cambio el paradigma, antes teníamos limites en la estantería, por
+  ende, elegíamos una cosa u otra para vender, con la estrategia de la
+  capacidad infinita, el mostrar todo el contenido crea mayor potencial.
+
+-   Deje que el mercado trabaje por usted
+
+  En el mercado de la abundancia podemos ofrecer todo y el mercado hará
+  su tarea, él mismo realizará la selección. La popularidad, el boca en
+  boca amplificaron esta tarea.
+
+-   Reconocer la fuerza de la gratuidad
+
+  En los mercados digitales los costos tan bajos, casi 0, han hecho
+  accesible la gratuidad.

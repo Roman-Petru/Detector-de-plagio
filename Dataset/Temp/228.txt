@@ -1,0 +1,149 @@
++----------------------------------+----------------------------------+
+| [9EP1tN5bG                       |   Universidad Tecnológica        |
+| 2R36e9lDjw8ev7jJLekATqX2WRUWJSz6 |   Nacional                       |
+| 0ERxXLAevgDy6epk9GhHN_vDi_xo5cSn |                                  |
+| tX6hXVQqnh8QnXKOR7gNlrbPJIvVcBgE |   Facultad Regional Buenos Aires |
+| dpAT4Tw23-hubSepS0GMiAqAo9ARs5h] |                                  |
+|                                  |   Ingeniería en Sistemas de      |
+|                                  |   Información                    |
++----------------------------------+----------------------------------+
+
+CURSO: 2 CUATRIMESTRE 2016
+
+Marketing en Internet
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borré  
+
+Trabajo Práctico: LongTail
+
+  NOMBRE Y APELLIDO   LEGAJO N°   EMAIL CONTACTO
+  ------------------- ----------- -----------------------
+  Hernán Noriega      146.666-5   hernannorie@gmail.com
+
+Fecha de entrega:    
+
+12/09/2016
+
+1. ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+presente y futuro de la economía minorista? Grafique.
+
+La larga cola es la competencia entre un negocio minorista y uno
+mayorista. Ahí se pueden ver las maniobras que debe realizar cada uno de
+ellos para posicionar sus productos en el mercado.
+
+Asegura que es el presente y futuro de las minoristas porque gracias a
+internet y las nuevas tecnologías, se logró que todas las empresas
+puedan competir activamente en el mercado.
+
+2. Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+
+La economía de escasez es aquella economía que surge en épocas de faltas
+de recursos donde sólo se pueden vender aquellos productos que son
+exitosos de acuerdo a la demanda.
+
+Internet influye en este concepto ya que permite que las tecnologías
+sean más accesibles por todos y puedan competir en el mercado con
+cualquier producto por mas que la demanda sea minima.
+
+3. Relacione los términos: Ley de Pareto, Economía de masas y Larga
+Cola.
+
+La ley de Pareto indica que algunas cosas se podrán vender más que
+otras, lo cual sucede en mercados Long tail y tradicionales. Se basa en
+la regla que expresa que el 20 por ciento de los productos van a
+representar el 80 por ciento de mis ganancias.
+
+Sin embargo el mercado Long Tail no busca estar basado en esta ley.
+
+Una economía de masas busca vender aquellos productos que son muy
+populares, por lo que se rige por la ley de pareto.
+
+4. ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+igualmente necesitan ofrecer “Hits” a sus clientes?
+
+Utilizan hits ya que gracias a esto permiten vender aquellos productos
+que quizá no son tan conocidos pero tienen una buena calidad.
+
+5. Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+servicios) que basen su modelo económico en La Larga Cola.
+
+Netflix: pese a publicar algunas de las películas más exitosas del
+momento, también se publican documentales o películas muy específicas,
+no tan conocidas y por lo tanto no tan demandadas por el público en
+general, sino que poseen un público muy específico. De hecho, Netflix
+comenzó de esta forma: con la reproducción de documentales. Pese a poder
+dejar de hacerlo, continúan con su amplio catálogo: con sus hits
+(películas/series del momento) y sus misses (documentales específicos).
+
+Amazon: la aplicación de long tail en esta empresa se puede ver
+claramente en el ejemplo de los libros mencionados en el libro: como una
+edición que no tuvo éxito en el momento en que se publicó,
+posteriormente gracias a la salida de otro libro comenzó a venderse cada
+vez más gracias a que un pequeño público lo había comprado en ese primer
+momento. Este público muy específico comenzó a comprar el segundo libro
+y comentando sus opiniones, logrando así que Amazon haga que cuando se
+compraba esta edición que era más popular, se recomiende comprar el otro
+libro junto a él.
+
+Scribd: esta es una plataforma de autopublicación de libros, por la cual
+cualquier persona que desee escribir un libro sin contar con una
+editorial o los recursos necesarios, pueda conseguir publicar su libro
+en formato digital y pueda ser distribuido a través de esta plataforma
+(y también otras Amazon o iBook Store). La cantidad de titulos que
+encontramos seguramente sea mayor y se presente en mayor variedad que
+cualquier librería que venda libros físicos.
+
+Spotify: esta empresa realiza algo muy parecido a lo que ocurre con
+Netflix. Pese a contar con los grandes éxitos de la música que son
+consumidos por la mayor parte de los usuarios, también presentan en su
+catálogo miles de artistas independientes o que no son tan reconocidos,
+pero que son consumidos por un público más específico.
+
+6. ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+Cola?
+
+Las 3 fuerzas en las que se basa la Larga Cola son:
+
+Democratizar las herramientas de producción: significa que todos
+tengamos acceso a las herramientas para producir contenido.
+
+Democratizar las herramientas de distribución: en otras palabras se
+trata de reducir los costos de acceso a los productos o servicios
+mediante la democratización de la distribución.
+
+Conectar la oferta y la demanda: se relaciona con presentar a los
+consumidores estos nuevos productos ahora disponibles.
+
+7. ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+brevemente.
+
+Las reglas de la Larga Cola son 6:
+
+1.  En casi todos los mercados hay más bienes de nicho (productos para
+    un público más específico) que productos de éxito (productos para el
+    público masivo).
+
+2.  Los costos de acceso a esos nichos están bajando notablemente.
+    Gracias a varios aspectos como la distribución digital, las
+    tecnologías de búsqueda, el auge de internet y la economía en red,
+    los mercados online están transformando la economía del comercio
+    minorista.
+
+3.  Ofrecer simplemente más variedad no hace que esos productos sean
+    consumidos, por lo que hay que ayudar a los consumidores a encontrar
+    los nichos que se adaptan a sus intereses particulares.
+
+4.  Una vez que se ha expandido la variedad y se aplican los filtros
+    para navegar por ella, la curva de la demanda se aplana.
+
+5.  Todos estos productos de nicho se suman. A pesar que ninguno vende
+    grandes cantidades, la oferta es tan grande que colectivamente
+    pueden crear un mercado que rivaliza con los éxitos, similar a la
+    idea de sinergia a la hora del trabajo.
+
+6.  Una vez que llegamos a este punto, naturalmente se revela la forma
+    de la demanda, liberada de las dificultades de distribución, la
+    escasez de información, los costos de almacenamiento y la limitación
+    del espacio de venta.

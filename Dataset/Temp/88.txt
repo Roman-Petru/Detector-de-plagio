@@ -1,0 +1,80 @@
+SAS, MATIAS NAHUEL                             146.566-1                                                 UTN
+
+Trabajo Práctico: 
+
+Steven Johnson - Sistemas emergentes 
+
+1) Cuáles son los 4 principios centrales del estudio de los sistemas emergentes? 
+
+ 
+Los cuatro principios centrales del estudio de los sistemas emergentes son la 
+interacción entre vecinos, el reconocimiento de patrones, la retroalimentación y el 
+control indirecto. 
+
+2) Describa en no más de 10 renglones la particular conducta del Dictiostellum y 
+
+sus implicancias. 
+
+El moho de fango (Dictyostelium discoideum) se comparta de un modo muy 
+
+particular, viviendo su vida como miles de organismos distintos, moviéndose y 
+comportandose de modo independiente entre sí, para luego, bajo condiciones 
+adecuadas, unirse para formar un sólo organismo mayor.  
+
+Cuando el entorno se torna menos favorable, el moho de fango vive como un 
+
+ 
+organismo. Al cambiar el clima y disponer de mayor energía y alimento, el organismo 
+se “separa” en miles de organismos más pequeños independientes. 
+
+Esta conducta tiene grandes implicancias al día de hoy, siendo un ejemplo libro 
+
+ 
+y precursor de un modo de resolución de problemáticas bajo un grupo coordinado, 
+que se utilizan hoy en día, por ejemplo, en el desarrollo de videojuegos. 
+
+3) Qué es la morfogénesis, quién desarrolló esta idea en 1954? 
+
+La morfogénesis es la capacidad de todas las formas de vida de crear 
+
+ 
+organismos de complejidad creciente basandose en otros muy simples. Esta idea fue 
+desarrollada por Alan Turing. 
+
+4) Describa los conceptos o conductas “adaptativas” y “complejas”.  Describa 
+
+sistema ascendente y sistema dinámico. 
+
+ 
+El concepto de adaptativo hace referencia a la capacidad de aprender y 
+cambiar en base al entorno y las experiencias pasadas. El de complejo refiere a 
+sistemas compuestos por muchos elementos. 
+
+Un sistema ascendente es aquel en el cual las soluciones surgen del sector 
+
+ 
+bajo, o elementos menos inteligentes, los cuales se van “uniendo” y formando 
+soluciones mejores y más complejas. Un sistema dinámico es aquel que evoluciona en 
+el tiempo, y se ve modificado por la experiencia y el entorno. 
+
+SAS, MATIAS NAHUEL                             146.566-1                                                 UTN
+
+5) Describa un sistema emergente o autoorganizativo y diferéncielo de un sistema 
+
+evolutivo o del caos. 
+
+Un sistema emergente o autoorganizativo es aquel que resuelve problemas 
+
+ 
+utilizando una gran cantidad de elementos poco inteligentes de un modo ascendente. 
+La inteligencia de estos sistemas sale de la base de los mismos. Tienen la 
+característica de volverse más inteligente con el tiempo y responden a necesidades 
+cambiantes y puntuales del entorno.  
+
+Se diferencian con un sistema del caos en que en los primeros los patrones que 
+
+ 
+surgen son en base a los niveles base, en cambio en los segundos se producen 
+conductas impredecibles a partir de las relaciones de los niveles base.
+
+

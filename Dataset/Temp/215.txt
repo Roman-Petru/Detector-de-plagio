@@ -1,0 +1,127 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing en Internet y Nueva Economía
+
+Trabajo Práctico N° 0
+
+Definiciones
+
+Profesor: Alejandro Prince
+
+Curso: K5571 - 2do cuatrimestre 2019
+
+  INTEGRANTE                   
+  ---------------- ----------- -----------------------
+  ALUMNO           LEGAJO      EMAIL
+  Calvo, Luciano   119.865-8   lucho_gra@hotmail.com
+
+Fecha de entrega:
+
+26/08/2019
+
+Definiciones
+
+Economía Digital
+
+También se le conoce como Economía en Internet, Nueva Economía o
+Economía Web, y se basa en el uso de los sistemas tecnológicos
+digitales, se sabe que comenzó a usarse en el año 1995 y fue el autor
+Don Tapscott el primer en nombrarla.
+
+Se define como la rama de la economía que hace los estudios de los
+costos marginales nulos de los bienes intangibles que se venden por vía
+del internet.
+
+A través de esta nueva forma de economía las redes digitales y la
+infraestructura de la comunicación son los que le dan la plataforma
+global en la que las personas y las organizaciones crean o elaboran
+estrategias de negocios, se interrelacionan, comunican, prestan
+colaboración y hasta pueden buscar información de los bienes.
+
+Se establece como una nueva forma de producir y consumir que debe
+implicar cambios en la organización de tipo social, económico y político
+en todos los países, por eso se considera como un factor de desarrollo
+de los mismos.
+
+Economía Digital Colaborativa
+
+Este es un sistema económico en el cual se pueden compartir e
+intercambiar bienes y servicios usando las plataformas digitales. En
+este nuevo enfoque se establece que debe haber un cambio de consumo por
+existir una migración del comercio hacia las plataformas sociales entre
+amigos.
+
+Una de las ventajas de este tipo de economía es que minimiza la barrera
+de la desconfianza ya que se ven los comentarios de otras personas en
+donde establecen un tipo de reputación para valorar, recomendar y ayudar
+a otras personas a usar ese servicio o en caso contrario.
+
+Si no es acorde a los estándares de los compradores, denunciarlo y darle
+una recomendación negativa para que otros usuarios no lo utilicen.
+
+Se le llama colaborativa ya que con ella se puede aprovechar los
+recursos que son subutilizados o desperdiciados por algunos usuarios y
+se les ofrece a personas que los necesiten.
+
+Fuente: https://adriw.com/conceptos-economicos/economia-digital/
+
+Economía del Conocimiento
+
+Podemos definirla como aquel sector de la economía que utiliza el
+conocimiento o la información para generar valor, ofrecer resultados,
+mejoras, llevando las mismas a un nivel superior.
+
+Podría argumentarse que esto ha sido más o menos toda la vida, y
+efectivamente así es: el conocimiento siempre ha sido el motor de cambio
+y evolución en todas las sociedades. Lo que justifica el que hoy
+hablemos con más intensidad de este fenómeno, de este tipo de economía,
+son dos cuestiones:
+
+-   Por un lado, el hecho de que antes el conocimiento era menor y no
+      imprescindible (si eras un zoquete, siempre podías labrar la
+      tierra), mientras que hoy es mayor y absolutamente imprescindible
+      (si quieres tener empleo y/o ingresos, claro)
+
+-   Por otro, el hecho de que el ritmo de producción de conocimiento es
+      hoy mayor que nunca (evolución exponencial). No da tiempo a
+      asimilarlo todo y se impone una tarea de búsqueda y selección.
+
+Fuente: https://agustingrau.com/economia-del-conocimiento/
+
+Economía de la Información
+
+El concepto de una sociedad y economía post-industrial fue mencionado
+por primera vez en los años cincuenta, cuando los investigadores se
+percataron de que existía una expansión gradual de las secciones no
+agrícolas, no industriales de las economías industriales avanzadas. Al
+constatar que estas secciones constituían la base de una nueva economía
+incipiente, el término “post-industrial” fue empleado con frecuencia
+para describir esta economía.
+
+Los primeros estudios de la economía “post-industrial” la consideraron
+erróneamente como una economía de servicios. Uno de los primeros autores
+en reconocer correctamente la característica principal de la nueva
+economía incipiente fue Machlup (1962), quien para describirla empleó el
+término “industria basada en el conocimiento”. Él descubrió que en el
+año 1959, las ocupaciones que generaban conocimiento habían superado en
+número a las demás. Sin embargo, en 1973, autores como Daniel Bell
+(1973) seguían refiriéndose a la economía incipiente como economía
+“post-industrial”. En 1977, Marc Uri Porat (1977), a quién más tarde se
+unió Rubin, escribió un ensayo de 9 volúmenes, que midió y estimó el
+alcance de esta economía, y describió este sector emergente como
+“economía de la información”.
+
+Cuando la tecnología digital posibilitó la producción sin límites de
+copias exactas de textos, imágenes, sonido, video y otros materiales de
+información, la economía de la información creció rápidamente. Con el
+surgimiento de Internet y después de la World Wide Web, la economía de
+la información maduró gradualmente hasta convertirse en la floreciente
+economía de la actualidad.
+
+Fuente: https://vecam.org/archives/article725.html

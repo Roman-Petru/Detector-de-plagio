@@ -1,0 +1,153 @@
+[]
+
+MARKETING EN INTERNET Y NUEVA ECONOMÍA
+
+1er Cuatrimestre 2017
+
+TP2 – Long Tail
+
+Profesor: Prince, Alejandro
+
+Ayudantes: Hernan Borre, Maximiliano Bracho
+
+Alumno: Rocchio, Claudio
+
+Legajo: 118319-9
+
+1)  ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+    presente y futuro de la economía minorista? Grafique.
+
+La larga cola es en un gráfico que relaciona la oferta de productos con
+sus respectivas ventas, esa curva se estira muy a lo ancho y tiende a
+casi infinito, por lo tanto, esta larga cola está definida como todos
+aquellos productos que no representan un gran éxito de ventas en ningún
+rubro, pero que, al estar presentes en la oferta online, pueden ser
+adquiridos y generan demanda. Esto es gracias que el costo marginal es 0
+en internet, por lo tanto, para las empresas online, sumar más productos
+a su variedad no les perjudica en nada, sino que al contrario por más
+pocas ventas que estos productos puedan llegar a tener, sumando todos
+estos productos, representan un gran volumen de ventas. Por esto mismo
+es que para el mercado minorista esto es una gran ventaja ya que las
+posibilidades son muy amplias, no hay restricción geográfica ni de
+volumen mínimo de ventas.
+
+El ejemplo más notorio es Netflix, en el cual su mayor éxito no son las
+películas de taquilla sino los documentales, series o películas de
+culto.
+
+2)  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+
+La economía de la escasez era aquella en la cual estaba regida
+exclusivamente por el mundo físico, donde los recursos son limitados,
+estamos hablando de recursos como espacio, ancho de banda de las
+transmisiones, ni tampoco una gran capacidad de distribución debido a
+los costos de transporte.
+
+Esto fue quebrado violentamente cuando apareció internet, ya que no
+responde a restricciones físicas y permite anular las distancias
+geográficas, además sumado a las copias digitales en las cuales cuesta
+prácticamente lo mismo hacer una sola copia o millones. Es lo que
+permitió llamar a esta época, la época de la abundancia.
+
+3)  Relacione los términos: Ley de Pareto, Economía de masas y Larga
+    Cola.
+
+Estos tres términos se vinculan de la siguiente manera, decimos larga
+cola, ya que, en un gráfico de ventas por oferta de productos, podemos
+ver las 3 cosas:
+
+Podemos ver generalmente que en un porcentaje muy chico de productos se
+concentran la amplia mayoría de cantidad de ventas y el resto (la cola)
+es la que tiende a ser cada vez más chica. Esto nos referencia al
+principio de Pareto, que hablaba de un 80-20, un 20% del mercado
+(generalmente es un 10%), genera el 80% de las ganancias. Y esto se
+vincula también con el mercado de masas donde para poder subsistir un
+producto dentro de la línea de una empresa tendría que tener una masa
+crítica de ventas importante, por esto las empresas se concentraban en
+la popularidad y eso requería limitar las opciones. En este tipo de
+gráficos vemos que el punto de quiebre (hasta donde ofrecer más
+productos) en el mundo físico, se da bien cerca del eje vertical. En
+cambio, en el mundo de internet este corte ya no es necesario.
+
+4)  ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+    igualmente necesitan ofrecer “Hits” a sus clientes?
+
+  Porque los hits o éxitos, sirven como punto de entrada para que un
+  usuario explore y busque por relaciones en base a su gusto, interés o
+  necesidad, productos de la larga cola.
+
+  Es necesario que una buena tienda minorista tenga productos de los dos
+  extremos: de la cabeza (los más vendidos), que sirven de fuente de
+  cultura en común y alrededor de los cuales se pueden abrir camino a
+  los productos nichos, o de la larga cola.
+
+5)  Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+    servicios) que basen su modelo económico en La Larga Cola.
+
+  Google y su modelo de publicidad, suma muchos ingresos de sus pequeños
+  anunciantes.
+
+  Amazon y su oferta de libros.
+
+  Youtube.
+
+  Mercado Libre.
+
+6)  ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+    Cola?
+
+  Las tres fuerzas son:
+
+-   Democratizar las herramientas de producción: esto es brindar a las
+    personas de herramientas accesibles para poder crear contenido que
+    antes solo los profesionales podían crear.
+
+-   Democratizar las herramientas de distribución: Esto se logró gracias
+    a que internet permite llegar a más personas con un coste mucho
+    menor.
+
+-   Conectar la oferta y la demanda: se refiere a reducir los costos de
+    búsqueda, esto es cuán difícil se le hace una persona encontrar lo
+    que realmente está buscando, utilizando recomendaciones, blogs, y
+    reseñas de los usuarios, etc.
+
+7)  ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+    brevemente.
+
+  Regla 1 - Use un inventario digital: permiten costos mucho más bajos y
+  evitan las limitaciones físicas.
+
+  Regla 2 - Deje que los clientes hagan el trabajo: muchos usuarios
+  están dispuestos a hacer gratuitamente lo que normalmente requería
+  pagarle a alguien.
+
+  Regla 3 - No hay un método de distribución para todo: Ofrecer
+  múltiples canales de distribución es la única manera de llegar a un
+  mercado potencial más amplio.
+
+  Regla 4 - No hay un producto que se adapte a todos: conviene ofrecer
+  el mismo producto con distintas modalidades de uso y permitir
+  combinarlos libremente para ampliar la demanda.
+
+  Regla 5 - No use un precio único: El precio variable es el modelo
+  apropiado para la música y todos los demás sectores donde los costes
+  marginales de fabricación y distribución
+
+  son insignificantes. Los minoristas pueden cobrar más por los
+  artículos más populares y menos por los menos populares.
+
+  Regla 6 - Comparta la información: Ofrecer información sobre
+  tendencias es valorable si ayuda a elegir la opción y no para
+  confundir.
+
+  Regla 7 - Piense en una cosa «y» otra, no en una «u» otra: Quitando
+  las limitaciones físicas no hay porque elegir entre que producto
+  elegir en detrimento de otro. Ofrecer todas las opciones es lo ideal.
+
+  Regla 8 - Deje que el mercado trabaje para usted: En los mercados
+  abundantes se puede ofrecer todo y dejar que el público elija por
+  nosotros cuales productos darle mayor relevancia.
+
+  Regla 9 - Reconocer la fuerza de la gratuidad: En muchos rubros es
+  conveniente ofrecer un servicio gratuito que sirva a muchos usuarios y
+  otro pago con más prestaciones.

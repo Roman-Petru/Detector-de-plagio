@@ -1,0 +1,184 @@
+MARKETING EN INTERNET Y NUEVA ECONOMÍA 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Cátedra:​ ​Alejandro Prince 
+Ayudantes:​ ​Hernán Borré, Maximiliano Bracho 
+ 
+ 
+ 
+
+Trabajo Práctico:​ TP N° 1 – WIKINOMICS 
+Año:​ 2017 
+
+ 
+ 
+ 
+
+NOMBRE Y APELLIDO 
+
+Melanie Blejter 
+
+Alumna 
+
+LEGAJO Nº 
+145.697-0 
+
+1 
+
+TP N° 1 – WIKINOMICS 
+
+ 
+
+Melanie Blejter 
+145.687-0 
+
+ 
+
+ 
+
+Desarrollo 
+ 
+
+Pregunta 1: Desarrolle el concepto “producción entre iguales”. 
+Está naciendo una nueva forma de organización horizontal que compite con la empresa jerárquica en 
+cuanto a la capacidad de crear productos y servicios basados en la información y en algunos casos, 
+objetos físicos. 
+La producción entre iguales es la producción de bienes y servicios de modo muy tangible y continuado a 
+través de la conexión de iguales por medio de redes flexibles. El avance en las tecnologías de la 
+información pone al alcance de todos los instrumentos necesarios para colaborar, crear valor y competir. 
+Hay un nuevo esfuerzo conjunto y colaboración autoorganizada entre numerosas personas, que 
+producen nuevos bienes y servicios dinámicos que compiten con los ofrecidos por las empresas más 
+potentes y con mayor financiación del mundo. Esta nueva forma de innovación y creación de valor se 
+denomina “producción entre iguales”.  
+Estos individuos y empresas u organizaciones, comparten recursos, ideas, experiencia y conocimientos 
+para potenciar la innovación y el crecimiento de sus sectores. 
+ 
+
+Pregunta 2: Enuncie y desarrolle las 4 ideas o componentes en las que se 
+basa la wikinomía. Dé  un ejemplo de cada una. 
+El nuevo arte y la nueva ciencia de wikinomía se fundamenta en cuatro potentes ideas novedosas: 
+apertura, interacción entre iguales, el compartir y la actuación global. 
+ 
+Apertura: Consiste en una nueva tendencia donde las personas e instituciones que interactúan con las 
+empresas están consiguiendo un acceso sin precedentes a la información importante sobre el 
+comportamiento, las operaciones y los resultados corporativos. Se comunica la información que antes 
+era secreto corporativo a socios, clientes, accionistas y otros empleados. La transparencia forma parte 
+de esta nueva tendencia, ya que brinda seguridad a los interesados. Un ejemplo de este caso puede ser 
+el MIT que brinda cursos gratuitos, donde cualquier usuario puede inscribirse sin pagar por la matrícula.  
+ 
+Interacción entre iguales: Es un concepto relacionado con la producción entre iguales, donde existe una 
+organización horizontal que compite con la empresa jerárquica en cuanto a la capacidad de crear 
+productos o servicios. Las personas cada vez se autoorganizan más para diseñar bienes o servicios, 
+crear conocimiento o, sencillamente producir experiencias dinámicas y compartidas. Linux es el ejemplo 
+más claro de este caso que, consta de un sistema operativos de código abierto donde diferentes 
+personas de diferentes partes del mundo introducen cambios y mejoras colaborando a voluntad. 
+ 
+Compartir: En la nueva era digital, es fácil compartir las creaciones digitales, re-mezclarlas y asignarles 
+nuevas funciones, e igual de fácil es reproducirlas. Compartir refiere a justamente eliminar las 
+restricciones intelectuales y usar más libremente la información y productos de este tipo. Open Office, un 
+software gratuito y de libre distribución, que sirve para crear documentos de texto, hojas de cálculo, o 
+presentaciones entre otras cosas es un ejemplo de eso. Ya que los creadores no solo lo distribuyen 
+
+2 
+
+ 
+
+Melanie Blejter 
+145.687-0 
+
+TP N° 1 – WIKINOMICS 
+
+ 
+
+ 
+libremente, sino que comparten su código fuente para ayudar a mejorar el producto. 
+ 
+Actuación global: La nueva globalización es causante de y, al mismo tiempo, está causada por los 
+cambios en la colaboración y en la manera que tienen las empresas de organizar la capacidad de 
+innovar y producir cosas. La actuación global tiene que ver con las alianzas mundiales, los mercados de 
+capital humano y las comunidades de producción entre iguales. Los individuos y empresas eliminan las 
+fronteras y restricciones geográficas para actuar en conjunto. Un ejemplo de esto son empresas como 
+Google o Facebook que si bien tienen sus sede central en EEUU, tienen una sedes distribuidas por todo 
+el mundo para estar más integradas. 
+ 
+
+Pregunta 3: Explique y dé ejemplos de la “emergencia”, como 
+consecuencia de la colaboración masiva.  
+La emergencia se define como la creación de atributos, estructuras y capacidades que no son inherentes 
+a ningún nodo de la red por sí solo. El precio constituye el mejor ejemplo de la característica emergente: 
+en un mercado competitivo ninguna empresa fija el precio, sino que lo hacen todas en forma colectiva. El 
+valor radica en las conexiones y no en los nodos separados. Como se mencionó anteriormente, un 
+ejemplo de este concepto es el precio, ya que no es determinado por una sola empresa sino que se hace 
+de forma global. De esta misma forma, la wikipedia, que su valor radica en que está nutrida por la 
+colaboración de los diferentes usuarios y editores en todo el mundo. 
+ 
+ 
+
+Pregunta 4: ¿Qué enunciaba la ley de Coase originalmente? Y ahora, 
+¿qué implicancias tiene? Explique qué y cuáles son los costos de 
+transacción.  
+Originalmente, la ley de Coase sostenia que “una empresa tenderá a expandirse hasta que los costes 
+que supone organizar una transacción adicional dentro de la empresa igualen los costes que implica 
+desempeñar esa misma función en el mercado abierto. Cuando salga más barato realizar una 
+transacción dentro de la empresa, es recomendable hacerlo así; en cambio sí resulta más económico 
+salir al mercado, no hay que intentar hacerlo de forma interna.” 
+Debido al auge de internet y las nuevas tecnologías, los costos de transacción cayeron, de forma que 
+resulta muy útil leer la ley en forma inversa: “Las empresas deben replegarse hasta que el coste que 
+supone realizar una transacción de forma interna no supere el coste que implica realizarla de forma 
+externa.”   
+Los costos de transacción hace referencia a todo el proceso de una compra, desde la búsqueda del 
+proveedor, el contacto con el mismo, la negociación o contratación y la coordinación de la misma. 
+
+Pregunta 5: ¿Qué elementos favorecen la producción colaborativa? 
+La producción colaborativa se nutre de las nuevas tecnologías y tendencias globales, como la era digital 
+y su nueva economia,ademas se ve favorecida por las motivaciones voluntarias y la tendencia a 
+“eliminar” las barreras geográficas. 
+ 
+
+3 
+
+Melanie Blejter 
+145.687-0 
+
+ 
+
+ 
+
+TP N° 1 – WIKINOMICS 
+
+ 
+
+Pregunta 6: ¿Qué rol juega la “autoselección” en la producción entre 
+pares? 
+La producción entre iguales aprovecha motivaciones voluntarias de una manera que propicia la 
+asignación de la persona adecuada con mayor eficacia que las empresas tradicionales. Las personas se 
+autoseleccionan para llevar a cabo tareas creativas basadas en conocimientos, cuando lo hacen, es más 
+probable que escojan tareas para las que poseen una calificación excelente que si la elección depende 
+de gerentes. Por último es importante remarcar que cuando las personas se autoseleccionan, es muy 
+probable que lo hagan en campos de su interés, con lo cual favorece la producción. 
+
+Pregunta 7: ¿Bajo qué 3 condiciones se favorece la producción entre 
+iguales? 
+Las 3 condiciones que favorece la producción entre iguales son: 
+1) Cuando el objeto de la producción es información o cultura, una circunstancia que mantiene a un nivel 
+bajo el coste de participación para las personas que contribuyen; 
+2) Si las tareas pueden descomponerse en porciones reducidas que los individuos pueden aportar con 
+pequeños incrementos y con independencia de los demás productores (a saber, entradas de una 
+enciclopedia o componentes de un programa informático). Esto hace que la inversión global en tiempo y 
+energía resulte mínima en comparación con los beneficios que reciben a cambio. 
+3) Cuando el coste de combinar esas porciones par obtener un producto final terminado, incluyendo aquí 
+el liderazgo y los mecanismos de control de calidad, debe ser bajo. 
+ 
+ 
+
+4 
+
+

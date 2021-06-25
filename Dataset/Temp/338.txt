@@ -1,0 +1,111 @@
+Trabajo Práctico 5
+
+Hernán Dalle Nogare - 146.877-7
+
+Plataformas y modelos de negocios
+
+1) Explique las tres grandes tendencias que están cambiando los
+tradicionales modelos de negocio. Describa con ejemplos.
+
+1- Incremento rápido y expansivo de las capacidades de las máquinas:
+esto genera un grado de automatización de procesos cada vez mayor,
+permitiendo reemplazar muchos de los trabajos anteriormente realizados
+por el ser humano a menor costo. Por ejemplo, con la ayuda de la
+inteligencia artificial cualquier empresa puede tener un chat bot que
+permita realizar una atención al cliente más rápida y sin personal.
+
+2- El surgimiento de las plataformas digitales: esto permite a las
+empresas ofrecer, mediante las plataformas, una gama muy amplia de
+productos y servicios que escalan a nivel mundial a un costo
+relativamente bajo. Por ejemplo, Netflix brinda su servicio de streaming
+en una gran cantidad de países, ofreciendo una enorme variedad de
+películas, series y documentales de todo tipo.
+
+3- El conocimiento de las masas: ya no son pocas empresas monopólicas
+las que concentran el conocimiento sin compartirlo, sino que se pasó a
+un modelo de conocimiento distribuido a nivel mundial, donde cualquier
+persona puede aportar su grano de arena desde cualquier lugar. Por
+ejemplo, a través de gestores de repositorios de código como Github,
+muchas empresas hacen público su código para que todos puedan aportar.
+
+2) ¿Cómo transforma a la inteligencia humana, los productos y al
+conocimiento centralizado (core)?
+
+La inteligencia humana se va reemplazando en cierta medida por las
+máquinas, haciendo más valorado el aporte a nivel creativo del humano y
+no tanto el operativo. Los productos se tienden a digitalizar para poder
+facilitar y hacer más económico su acceso, reproducción y distribución.
+El conocimiento centralizado se reemplaza por el conocimiento
+distribuido o de masas, el cual permite un aporte mucho más amplio y
+dinámico.
+
+3) ¿Cómo afecta a los procesos, a la oferta y a la organización del
+trabajo?
+
+Los procesos se ven altamente afectados positivamente por la
+automatización que permiten las máquinas, reemplazando al ser humano en
+muchos aspectos. Los procesos de tomas de decisiones siguen siendo
+llevados a cabo por personas pero con ayuda de los datos generados por
+sistemas de información. La oferta crece en gran magnitud ya que las
+plataformas permiten ofrecer una infinidad de productos y servicios con
+un costo marginal casi nulo. El trabajo se organiza en torno al valor
+agregado que puede aportar cada persona y no a tareas operativas que son
+reemplazables por máquinas.
+
+4) ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+Machine learning es una rama de la inteligencia artificial, cuyo
+objetivo es desarrollar técnicas que permitan que las computadoras
+aprendan. Permite desarrollar motores de búsqueda, sistemas predictivos,
+sistemas de diagnóstico, sistemas de detección de fraudes en pagos
+online, reconocimiento de voz, entre otros.
+
+5) ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+Podemos esperar que se haga cada vez más accesible a cualquier empresa y
+que éstas puedan implementarla en sus procesos para poder abaratar
+costos y mejorar sus tiempos. Esto podría generar que se reemplacen
+muchos puestos de trabajo por sistemas.
+
+6) ¿Qué son los efectos de red? Describir ejemplos.
+
+El efecto de red es un fenómeno contagioso que genera en los
+consumidores una necesidad por ciertos bienes debido a que hay muchos
+otros consumidores que actualmente los poseen. Por ejemplo, como la
+mayoría de las personas usa Whatsapp para mensajería, uno tiende a optar
+por usar la misma aplicación y no otra, como puede ser Telegram.
+
+7) ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+ejemplos de este tipo de plataformas.
+
+Son plataformas (online to offline) que ofrecen productos de forma
+online, permitiendo visualizarlos, evaluarlos y comprarlos mediante este
+canal, pero también ofrecen la modalidad offline para que el usuario
+pueda ir a retirar el producto comprado personalmente. Ejemplos de estas
+plataformas son Mercado Libre, Garbarino y Frávega que permiten comprar
+online y luego retirar los productos en las sucursales del vendedor o de
+algún correo.
+
+8) Describa los nuevos modelos de negocio que ofrecen las plataformas
+digitales.
+
+Modelo de negocio de código abierto: software de libre acceso, donde la
+comunidad de programadores puede realizar aportes. Propagación más
+rápida.
+
+Modelo gratis: atrae una gran masa de usuarios. Luego requiere una
+estrategia de monetización.
+
+Modelo freemium: ofrece ciertas funcionalidades básicas de forma
+gratuita y un paquete de funcionalidades más complejas de forma paga.
+
+Modelo basado en suscripción: genera un flujo continuo de ingresos
+predecibles, pero es más difícil de retener a los usuarios pagando la
+suscripción (generar nuevo contenido).
+
+Modelo bajo demanda: usuarios pagan sólo por el consumo que realizan.
+
+Modelo de comercio electrónico: venta de productos en un marketplace
+online, generalmente se cobra una comisión por cada venta realizada
+(cuando el servicio de e-commerce lo provee otra empresa distinta de la
+que vende el producto).

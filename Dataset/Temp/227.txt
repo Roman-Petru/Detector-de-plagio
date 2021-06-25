@@ -1,0 +1,150 @@
+TP N°2 Larga Cola – Ezequiel Ogando
+
+1) ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+presente y futuro de la economía minorista? Grafique.
+
+En una ley de potencias a medida que la curva se prolonga hacia el
+infinito su valor tiende a cero. Esto se refleja en los productos de
+menos popularidad o más antiguos los cuales se ubican a partir de cierto
+punto en el cual las ventas decaen abruptamente ( En el grafico
+aproximadamente entre 5.000 y 10.000)
+
+[]
+
+[]
+
+[]
+La importancia de los mercados online es que explotan nichos y si bien
+esos productos se venden en menor cantidad que los populares, su gran
+número y diversidad de productos hace que su sumatoria de ventas crezca
+de manera significativa representando una gran parte de los ingresos.
+Además elimina las restricciones geográficas y físicas de distribución
+El mayor efecto de la larga cola son los beneficios obtenidos ya que
+como hay menor coste de inventario los márgenes de ganancia de los
+bienes menos vendidos son mayores que en los mercados tradicionales dado
+que precisan espacio físico.
+
+Con la distribución y la venta digital se inició el mundo de la
+abundancia, en el cual los usuarios quieren algo más que simples éxitos.
+A través de los diversos gustos e intereses se abren nuevas alternativas
+de mercados en constante expansión
+2) Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+La economía de escasez es un modelo económico centrado en el éxito y la
+popularidad de los productos, en el cual existen limitaciones físicas en
+base a audiencias locales y medios de distribución escasos como por ej
+la capacidad del espectro de frecuencias de radio para cada emisora, o
+el inventario máximo. De manera que a un negocio minorista solo le
+interesa distribuir o comercializar aquellos productos populares que más
+se venden, poniendo una línea de corte más allá de cierto punto.
+
+Con Internet los costos de distribución y almacenamiento se hacen casi
+nulos y además se rompe la barrera de audiencia local. Se crea un nuevo
+mercado en el cual las ventas de productos de nicho antes desconocidos
+pasa a ser un activo importante, incluso pudiendo competir con los
+productos nuevos de más popularidad ya que tiende a aplanar la curva de
+demanda.
+Por otro lado también facilita la búsqueda y filtro de productos a la
+vez que actúa como una red de recomendaciones y comentarios logrando que
+los consumidores tengan más opciones de elección y puedan descubrir
+artículos según sus necesidades.
+Si bien todo producto novedoso y exitoso con el tiempo termina
+situándose en un nicho, puede ocurrir que herramientas como Google
+reduzcan este efecto dado que brindan más importancia a los nuevos
+enlaces que a las novedades, por lo que un sitio más antiguo tiene más
+tiempo para atraer enlaces
+
+3) Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola
+La ley de Pareto es una ley de potencia en la cual se expresa una
+relación matemática entre 2 proporciones.
+En el caso de economía de masas tiene que ver con que solamente un
+pequeño porcentaje inferior al 20% de los productos representan un 80%
+del total de las ventas. Por esto los minoristas solo tienen en
+inventarios aquellos productos nuevos que tengan mayor potencial de
+venta.
+El otro porcentaje mayor de productos más antiguos o menos populares con
+pocas ventas representan la larga cola, la cual se extiende hacia el
+infinito tendiendo su valor a 0 y aunque sus ventas individuales sean
+más pequeñas su sumatoria representa un gran número.
+
+4) ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+igualmente necesitan ofrecer “Hits” a sus clientes?
+
+Porque cada uno de estos hits tiene más volumen de ventas
+individualmente y por lo tanto es muy importante su oferta para los
+ingresos de la organización. La ley de Pareto sigue siendo vigente pero
+en menor medida
+5) Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+servicios) que basen su modelo económico en La Larga Cola.
+Tiendas de música digital I tunes y Rhapsody
+Multimedia online en Netflix
+Larga cola de anunciantes pequeños en Google
+Publicación de diversos nichos de productos en EBay
+
+Libros online en Amazon
+6) ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+Cola?
+
+- Democratización de las fuerzas de producción: Darle a la gente la
+posibilidad de crear e innovar con herramientas que estén al alcance de
+cualquiera, de esta manera se crean obras maestras y se extiende la
+larga cola
+
+- Reducción de los costos de consumo mediante la democratización de las
+herramientas de distribución: Si los costos bajan se refleja en un mayor
+consumo, aumento de ventas y crecimiento del área debajo de la larga
+cola
+- Conectar la oferta y la demanda: A medida que se le presenta a los
+consumidores el nuevo contenido también se los orienta hacia la larga
+cola, lo que reduce los costes de búsquedas a la hora de buscar nuevos
+nichos.
+7) ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+brevemente.
+
+1- Use un inventario digital: Se emplean redes de almacenes de socios
+para ofrecer una mayor variedad de artículos que en sus tiendas físicas,
+a través de su sitio web
+
+2- Deje que los clientes hagan el trabajo: Los usuarios están dispuestos
+a hacer algo gratuitamente, que en otras circunstancias la compañía
+debería pagar a alguien. Colectivamente los clientes tienen capacidad y
+tiempo ilimitados, solo ellos pueden mantener la larga cola
+
+3- No hay un método de distribución para todo: Si solo se concentra en
+la distribución de algunos clientes se corre el riesgo de perder a
+otros. Los mercados long tail no se encuentran restringidos por
+fronteras geográficas ni hacen conjeturas sobre que desean los clientes
+y cuando lo necesitan
+
+4- No hay un producto que se adapte a todos: La mejor estrategia es
+separar todo por sus partes para que la gente pueda consumirlos del modo
+que sea, así como mezclarlos con otros contenidos.
+
+5- No use un precio único: El precio variable puede ser una herramienta
+poderosa para aumentar el valor del producto y la dimensión del mercado.
+El precio variable se ajusta bien a la música y los demás sectores donde
+los costes marginales de fabricación y distribución son insignificantes.
+
+6- Comparta la información: Ofrecer información a los clientes es mejor
+cuando ayude a organizar las opciones y no los confunda. A su vez la
+información sobre comportamiento de venta puede resultar en una
+herramienta poderosa de marketing dado que puede servir para disipar
+dudas que de otro modo podrían haber impedido una compra.
+El consumidor que recibe recomendaciones adquiere confianza en el
+sistema y ayuda a otros a usarlo mejor.
+7- Piense en una cosa y otra, no en una cosa u otra: En los mercados que
+tienen una capacidad infinita la estrategia apropiada es ofrecer todos
+los contenidos. La decisión de que producto tendrá éxito puede ser
+acertada a un nivel general pero casi siempre es desacertada a un nivel
+particular
+8- Deje que el mercado trabaje para usted: En los mercados abundantes es
+más efectivo ofrecer todos los productos y ver lo que sucede, dejando la
+tarea de selección al mismo.
+Los mercados online son estimaciones altamente eficientes del
+conocimiento colectivo que facilita la decisión de los compradores
+
+9- Reconocer la fuerza de la gratuidad: Los mercados digitales hacen que
+los costos de distribución sean casi nulos por lo que el precio también
+podría serlo. De modo que se brinde un servicio gratuito y se ofrezca
+una prestación mejorada por un precio determinado, o se distribuyan
+demos de video juegos o trailers de películas, reduciendo así costos de
+marketing.

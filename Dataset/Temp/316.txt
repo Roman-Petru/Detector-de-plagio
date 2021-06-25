@@ -1,0 +1,118 @@
+PREGUNTAS TP - (Test de lectura sobre capítulos 1 y 5)
+
+La sociedad de costo marginal cero; Jeremy Rifkin
+
+1.  Puede describir el vínculo entre las leyes de la termodinámica de
+    Newton y la “factura entrópica”.
+
+2.  Podría caracterizar la Primera y Segunda revolución industrial al
+    decir de Rifkin? Qué inventos son las metáforas de cada
+    infraestructura en cada una de esas etapas.
+
+3.  Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+    3ra revolución industrial?
+
+4.  Qué entiende Rifkin por una producción abierta, distribuida y
+    colaborativa?
+
+5.  Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+    límites le ve Ud. a los procomunes como forma de producción?
+
+6.  A la sociedad /economía del conocimiento, entendida como la 3ra
+    revolución de Rifkin, cuál de las infraestructuras claves estaría
+    más demorada y porqué? qué estaría faltando?
+
+7.  Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+    procomún, comparado con el sistema capitalista?
+
+8.  Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+    actual de la economía, elija uno de estos “apellidos” y justifique
+    brevemente.
+
+E. colaborativa
+
+E. de la Información
+
+E. del Conocimiento
+
+E. Digital
+
+E. Sustentable
+
+E. intangible o “sin peso”
+
+E. sin “fricción”.
+
+NOTA: las respuestas no deberán superar en su conjunto a 2 páginas del
+mismo formato que esta guía.
+
+1)  Las leyes de la termodinámica establecen que la energía total del
+    universo es constante y la entropía total aumenta constantemente.
+    Con esta definición podemos relacionarlo con la activad económica ya
+    que esta aprovecha la energía disponible en cada etapa del proceso
+    de producción, almacenamiento y distribución para convertir recursos
+    en productos y servicios.
+
+  Los bienes producidos se consumen, se desechan y se devuelven a la
+  naturaleza aumentando la entropía. Es por esto que la energía
+  incorporada en cualquier producto o servicio debe ser contabilizada
+  como energía utilizada como así también perdida.
+
+2)  La primera revolución industrial se basó en el traspaso de
+    producción artesanal a una producción industrial en masa. Se podrían
+    caracterizar como un cambio hacia empresas del tipo centralizadas y
+    con estructuras de poder piramidal.
+
+  En la segunda revolución industrial el modelo de poder siguió siendo
+  piramidal y concentrado. Para obtener economías de escala, utilizan
+  los modelos centralizados de producción.
+
+  Los inventos Metáforas son: impresora a vapor, telégrafo, la radio y
+  la televisión.
+
+3)  La IOT aportará a la 3ra revolución industrial la posibilidad de
+    unificar la comunicación, energía y logística; pudiendo ser capaces
+    de tener una Internet de la comunicación, una internet de la energía
+    y una Internet de la logística que optimicen al máximo los procesos,
+    pudiendo disponer de una infraestructura muy potente y unificada a
+    un costo marginal cercano a cero. Todo esto permite que la sociedad
+    demande muchísimos productos y servicios a costo marginal cero.
+
+4)  Rifkin lo entiende como aquella que permite a cualquier persona
+    fabricar lo que consume y compartir con todos: la información, los
+    procesos, y el sobrante producido a modo de lograr conseguir un
+    costo marginal cero. Esto es posible gracias al fenómeno de “La
+    internet de las cosas de comunicación”. De esta manera los
+    ciudadanos pueden pasar del rol de consumidores de
+    producto/servicios a un rol de prosumidor (consumidores que a la vez
+    son productores).
+
+5)  Un ejemplo ser la WIKI, que es un servicio de alojamiento gratuito
+    de páginas web basadas en la tecnología wiki, bajo la filosofía de
+    la cooperación, este procomún permite a las personas compartir y
+    colaborar distintos contenidos de temas particulares.
+
+  Algunos límites que encuentro es que no todas las personas están
+  dispuestas a colaborar sin nada a cambio, como también que algunas de
+  esas personas que colaboran podrían tener malas intenciones.
+
+6)  Según Rifkin la infraestructura que estaría más demorada es la de la
+    energía renovable porque hoy en día la mayoría de las empresas
+    siguen utilizando como fuente de energía principal al petróleo,
+    debido a que este genera un gran beneficio económico. Para lograr
+    finalizar con esta infraestructura, el petróleo debería agotarse o
+    de alguna manera se debería fomentar u obligar a las empresas que lo
+    utilizan a que adopten otro tipo de energía. Para ello se puede
+    impulsar el uso de la energía solar, eólica o cualquier otra fuente
+    de energía renovable.
+
+7)  Teniendo en cuenta el procomún, la innovación se garantizaría a
+    través del beneficio social en lugar de un beneficio económico. A
+    diferencia del sistema capitalista, en donde se piensa primero en el
+    beneficio económico antes que todo.
+
+8)  En mi opinión el estadio actual de la economía se podría
+    caracterizar por la “C. del conocimiento” porque se genera valor por
+    medio de la transformación de la información. Mediante el
+    conocimiento se abre el abanico de información el cual añade un
+    valor agregado en los productos y servicios.

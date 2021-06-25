@@ -1,0 +1,93 @@
+1. Explique las tres grandes tendencias que están cambiando los
+tradicionales modelos de negocio. Describa con ejemplos.
+1) Incremento rápido y expansivo de las capacidades de las máquinas. Asi
+como la revolucion industrial revoluciono el modelo de negocio, hoy en
+dia los costos siguen disminuyendo gracias a nuevos descubrimientos.
+Impresoras 3D
+
+2) El surgimiento de las plataformas digitales. Comunidades de consumo:
+Facebook
+
+3) El conocimiento de las masas: La tecnologia aplicada a la informacion
+permite dirigir la publicidad a un siguiente nivel. Publicidad de Google
+
+2. ¿Cómo transforma a la inteligencia humana, los productos y al
+conocimiento centralizado (core)?
+
+El incremento rapido y expansivo de las capacidades de las maquinas se
+contrapone a la inteligencia humana y permite obtener mucha información
+para la toma de decisiones.
+
+A su vez este avance abarata el costo de los productos y la tecnología,
+al estar al alcance de todos, permite descentralizar el conocimiento.
+
+3. ¿Cómo afecta a los procesos, a la oferta y a la organización del
+trabajo?
+
+La reconfiguración mente / máquina afecta a los procesos
+
+La reconfiguración producto / servicio afecta a la oferta
+
+La reconfiguración core / masa afecta al trabajo y a la organización
+
+4. ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+Machine learning es el subcampo de las ciencias de la computación y una
+rama de la inteligencia artificial, cuyo objetivo es desarrollar
+técnicas que permitan que las computadoras aprendan sobre datos y
+experiencias anteriores.
+Hoy en dia permite realizar tareas automáticamente de optimización,
+clasificación. En lo que nos respecta de marketing, los sitios Web que
+le recomiendan artículos que podrían gustarle con base en compras
+anteriores, utilizan el machine learning para analizar su historial de
+compras – y promocionar otros artículos que podrían interesarle. Esta
+capacidad de capturar datos, analizarlos y usarlos para personalizar una
+experiencia de compra (o implementar una campaña de marketing) es el
+futuro del comercio detallista.
+
+5. ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+Los efectos de red crean "economías de escala del lado de la demanda",
+lo que significa que las redes más grandes obtienen una ventaja
+significativa en la adquisición de nuevos clientes que las redes más
+pequeñas.
+
+6. ¿Qué son los efectos de red? Describir ejemplos.
+
+Los efectos de red crean "economías de escala del lado de la demanda",
+lo que significa que las redes más grandes obtienen una ventaja
+significativa en la adquisición de nuevos clientes que las redes más
+pequeñas.
+
+7. ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+ejemplos de este tipo de plataformas.
+
+Las plataformas “online to offline” vienen ganando fuerza en la ultima
+decada. Son plataformas que no ofrecen cosas digitales, como musica,
+software o servicios financieros, sino que incluye bienes y servicios
+fisicos a través de una plataforma online. Por ejemplo Uber o AirBnb
+
+8. Describa los nuevos modelos de negocio que ofrecen las plataformas
+digitales.
+
+-   Modelo de negocio de código abierto: Se propaga rapidamente y muchos
+      contribuyen
+
+-   Modelo gratis: Necesitan de inversiones para mantener su
+      infraestructura a corto plazo y luego encontrar una estrategia de
+      monetización.
+
+-   Modelo freemium: Dispone de version gratuita y ofrece servicios
+      extra a cambio de una un pago. Permite alto crecimiento de
+      viralidad. Se debe asegurar de tener base de clientes solida y
+      mucha infraestructura.
+
+-   Modelo basado en suscripción: A través de una suscripcion permite
+      tener una base de usuarios leales, un flujo de ingresos continuos
+      y un pipeline de ventas más predecible
+
+-   Modelo bajo demanda: Consumir contenido al ritmo y necesidad de cada
+      persona. Se puede monetizar desde suscripciones a tarifas por cada
+      transacción en una plataforma.
+
+-   Modelo de comercio electrónico

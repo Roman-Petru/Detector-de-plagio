@@ -1,0 +1,78 @@
+Marketing en Internet y Nueva Economía
+
+Ingeniería en Sistemas de Información
+
+[]
+
+Trabajo Práctico Nº6
+
+Sistemas Emergentes
+
+Alumno: Levy Nazareno Isaac
+
+Legajo: 141.910-9
+
+E-mail: nazareno.levy@gmail.com
+
+1)  Cuáles son los 4 principios centrales del estudio de los sistemas
+    emergentes?
+
+Los cuatro principios centrales del estudio de los sistemas emergentes
+son:
+
+-   La interacción de los vecinos.
+
+-   Reconocimiento de patrones.
+
+-   Retroalimentación.
+
+-   Control Indirecto.
+
+2)  Describa en no más de 10 renglones la particular conducta del
+    Dictiostellum y sus implicancias.
+
+El moho de fango (Dictyostelium discoideum) oscila entre ser una única
+criatura y una colonia. Ya que si el ambiente es propicio, las células
+actuarán como si fuera un grupo coordinado. Caso contrario, cada una se
+separará y se comportará como un sistema unicelular independiente. La
+implicancia más importante es que no existe jerarquía alguna entre las
+células para decidir cuándo combinarse, sino que todas son iguales. Este
+nuevo descubrimiento desenterro un viejo pensamiento de poder
+descentralizado y colaboración entre las partes. Mediante una
+autoorganización bottom-up, se busca resolver problemas recurriendo a
+masas de elementos relativamente no inteligentes y no sólo a un “brazo
+ejecutor” inteligente.
+
+3)  Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+La morfogénesis fue uno de los últimos trabajos de Turing y se refiere a
+la capacidad de todas ls formas de vida de desarrollar cuerpos cada vez
+más complejos a partir de orígines simples. Utilizando herramientas
+matemáticas demostraba cómo un organismo complejo podía desarrollarse
+sin ninguna dirección o plan maestro.
+
+4)  Describa los conceptos o conductas “adaptativas” y “complejas”.
+    Describa sistema ascendente y sistema dinámico.
+
+Los sistemas ascendentes o bottom-up son los que extraen su inteligencia
+de la base, con una conducta compleja que despliega comportamientos
+emergentes (cada elemento interactua entre sí bajo ciertas reglas
+locales). Aquí, los agentes que residen en una escala comienzan a
+producir comportamientos que yacen en una escala superior a la suya.
+
+Un sistema dinámico es aquel en el cual sus elementos crean un
+comportamiento nuevo, en base a un conjunto de relgas locales
+predefinidas.
+
+5)  Describa un sistema emergente o autoorganizativo y diferéncielo de
+    un sistema evolutivo o del caos.
+
+Los sistemas emergentes o autoorganizados son aquellos en los que se
+basan en un proceso espontáneo de orden o coordinación basado en las
+interacciones locales entre los componentes de un sistema inicialmente
+desordenado. Éste no está dirigido ni controlado por ningún agente o
+subsistema dentro o fuera del sistema.
+
+En cambio, un sistema evolutivo o del caos es aquel en donde hay una
+cierta jerarquía de gobierno. En donde un elemento es el que decide
+sbore todos los demás.

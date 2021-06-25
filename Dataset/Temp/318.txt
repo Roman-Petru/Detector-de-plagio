@@ -1,0 +1,97 @@
+TP 5 - Machine, Platform, Crowd: Harnessing Our Digital Future
+
+Andrew McAfee y Erik Brynjolfsson
+
+1) Explique las tres grandes tendencias que están cambiando los
+tradicionales modelos de negocio. Describa con ejemplos.
+Las 3 tendencias son:
+
+-   Incremento rápido de las capacidades de las máquinas (Ej. Chatbots
+      para customer service, Redes neuronales para análisis de riesgo
+      crediticio, etc)
+
+-   El surgimiento de las plataformas digitales (Ej. Mercado Libre,
+      Despegar, Netflix, etc)
+
+-   El conocimiento de las masas (Ej. Wikipedia, Comunidades en redes
+      sociales, foros, blogs, etc)
+
+2) ¿Cómo transforma a la inteligencia humana, los productos y al
+conocimiento centralizado (core)?
+El incremento de las capacidades de las máquinas tiene como contraparte
+el reemplazo de la mente humana para determinadas tareas (Especialmente
+para aquellas que requieran de una toma de decisión lo más objetiva
+posible), es por esto que se está transformando la utilidad que se le da
+a la mente humana y se la está destinando a tareas donde las máquinas
+aún no tienen lugar.
+
+Los productos y servicios comienzan a ofrecerse a través de las
+plataformas ya que funcionan como un medio de acceso a estos muy
+efectivos (gratis, perfecto e instantáneo)
+
+El conocimiento centralizado comienza a ser costoso y de menor calidad
+que el crowd. Las empresas dejan de crear conocimiento y comienzan a
+aplicar el ya existente en el mercado.
+
+3) ¿Cómo afecta a los procesos, a la oferta y a la organización del
+trabajo?
+Muchos procesos comienzan a tener menos injerencia humana, la oferta de
+los productos o servicios comienza a ser más grande ya que comienza a
+ser muchísimo más fácil gracias a las plataformas. Por consiguiente
+también aumenta la competencia.
+
+4) ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+Es una un conjunto de técnicas usadas para crear sistemas que
+identifican patrones complejos en millones de datos y que son capaces de
+predecir comportamientos futuros. Hoy en día permite realizar tareas
+como diagnóstico, clasificación, predicción, búsqueda de patrones.
+
+5) ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+Al ser una disciplina en auge, es muy probable que en los próximos años
+comience a ser utilizada en tareas que hoy aún realiza el hombre desde
+cosas sencillas tal como hoy sucede hasta cosas realmente complejas como
+puede ser la programación de sistemas informáticos o el control de todos
+los aviones, o la predicción de catástrofes naturales complejas.
+
+6) ¿Qué son los efectos de red? Describir ejemplos.
+Se trata de aquellos comportamientos donde un nodo o potencial nodo se
+ve influenciado por el comportamiento de otro nodo. Esto es sumamente
+frecuente en el uso de plataformas que son usadas por un gran número de
+personas ya sea el caso de Facebook, Instagram, Whatsapp, Mercado Libre,
+etc, y que muchas veces permiten lograr determinados objetivos
+personales a través de ellas, tal como aceptación, status, publicación,
+etc.
+
+7) ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+ejemplos de este tipo de plataformas.
+Son plataformas Online to Offline. Por lo general son usadas por
+empresas que ya son fuertes en alguno de los dos canales y que tratan de
+llegar a la venta offline a través del mundo online. Es decir que trata
+de atrapar al cliente mediante la plataforma para acercarlo físicamente
+hasta un lugar donde este pueda seguir comprando otras cosas. Por
+ejemplo Walmart,
+
+8) Describa los nuevos modelos de negocio que ofrecen las plataformas
+digitales.
+
+-   Modelo de negocio de código abierto: Mantienen público el código y
+      por lo general da a los programadores la capacidad para
+      contribuir. Esto suele hacer que se propague rápidamente y es la
+      misma comunidad quien determina el éxito
+
+-   Modelo gratis: Trata de ganar grandes volúmenes de usuarios y
+      postergan su monetización
+
+-   Modelo freemium: Tienen una versión gratuita, solicitan a los
+      usuarios gratuitos a suscribirse a la versión paga. Permite un
+      alto crecimiento de viralidad.
+
+-   Modelo basado en suscripción: Tiene una base de usuarios leales ,
+      los ingresos son predecibles y las ventas que va a tener también
+      son predecibles.
+
+-   Modelo bajo demanda: Utilización de la plataforma a demanda del
+      usuario. Se puede monetizar por suscripción o por número de
+      transacciones.
+
+-   Modelo de comercio electrónico: Utiliza medios de pago electrónicos

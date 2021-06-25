@@ -1,0 +1,190 @@
+1.  ¿Cómo define Anderson a “La larga cola”? ¿Por qué asegura que es el
+    presente y futuro de la economía minorista? Grafique.
+
+La larga cola se representa como una curva de demanda de una gama de
+productos, la cual todos los vendedores de dicho producto se concentran
+en aquellos de la gama que más le dan ganancias y que son fáciles de
+vender (más populares), pero en realidad también deberían fijarse en la
+“larga cola” de productos inferiores (o menos populares) que de todas
+formas consiguen ventas a nichos muy reducidos pero multiplicado el
+precio de venta por las cantidades vendidas, deja una cifra bastante
+grande. La larga cola son aquellos productos menos populares, ubicados
+del lado derecho de la curva de demanda pero que de todas formas
+encuentran compradores, por lo que todos los que sean insertados dentro
+de esta parte de la curva terminaran encontrando un comprador.
+
+Hoy en día tenemos los productos que son lo bastante populares que están
+por encima de ese nivel minorista (suficientemente rentables para ser
+ofrecidos por medio de los canales de distribución tradicionales con un
+escaso espacio de ventas, como el que posee la mayoría de los minoristas
+importantes). Cuando el coste de distribución disminuye, emergen
+repentinamente todas las cosas que antes estaban ocultas. Por necesidad,
+la economía minorista tradicional se concentra en la popularidad y
+limitada cantidad de opciones. A medida que la demanda se oriente hacia
+los nichos, mejorará la economía y creará una retroalimentación positiva
+en los próximos tiempos.
+
+Ejemplo descargas de música en Rhapsody
+
+[]
+
+2.  Defina economía de escasez. ¿Cómo influye Internet en este concepto?
+
+Se centró en la presentación de éxitos de 'Ventas”, sin considerar
+ofrecer una variedad que los clientes pudieran elegir que comprar, sin
+embargo la mayoría de los usuarios quieren algo más que simples éxitos
+(gusto variado). Cuanto más se exploran las alternativas, más atractivas
+serán. Creación de una época en la que no había suficiente espacio para
+hacer que todo fuese accesible a todos. Con la venida de Internet, la
+masificación de variedad de productos se acrecentó. Ahora, con la
+distribución y la venta digital, estamos entrando en un mundo de
+abundancia.
+
+3.  Relacione los términos: Ley de Pareto, Economía de masas y Larga
+    Cola.
+
+El mercado de masas es el mercado tradicional que presenta limitaciones
+geográficas y físicas: las empresas necesitan concentrar una audiencia
+numerosa y generar una gran demanda en un ámbito geográfico manejable y
+rentable para su negocio. También el coste de almacenaje y de
+distribución provoca que se centren en pocos artículos de fácil y rápida
+venta. (Ejemplo 1. Tiendas de discos: solo mostrarán los discos de
+interés para una audiencia amplia. Ejemplo 2. Librería: no acumularán
+libros que sólo comprarán un reducido número de personas, prefieren
+obtener un volumen alto de ventas de productos hits.)
+
+En este sentido se regía también por el principio de Pareto
+(Clasificación ABC) o regla del 80/20. Ésta recomendaba centrarse en el
+20% de los productos y usuarios para obtener el 80% de ingresos.
+
+Aunque de a poco estamos viendo cómo se convierte el mercado de masas
+mediante el uso de la larga cola, ya que en el entorno digital, los
+costos de almacenaje y distribución disminuyen considerablemente. Esto
+permite a las empresas disponer de un amplio catálogo de productos
+distintos y cubrir una extensa gama de gustos e intereses, surgiendo asi
+un mercado de nichos.
+
+4.  ¿Por qué las tiendas online que basan su estrategia en Larga Cola
+    igualmente necesitan ofrecer “Hits” a sus clientes?
+
+Deben ofrecer los hits ya que vender un producto de la larga cola
+implica un coste de búsqueda adicional al consumidor. De 10 productos
+elegirán 1 y de 1000 productos ofrecidos elegirán dentro de los 10
+primeros, ya que buscar en el resto implica un esfuerzo adicional de
+búsqueda. Si no se ponen a la venta los principales hits (los más
+conocidos, más exitosos, más nuevos), todos aquellos productos que sean
+difíciles de vender generan una pérdida al acumularlos en la tienda,
+desaprovechando el espacio para los que son más fáciles de vender.
+Entonces de no tener los hits a la venta, se verían reducidas las
+ganancias y sería más difícil de alcanzarlas.
+
+5.  Dé 4 ejemplos internacionales o nacionales de empresas (productos o
+    servicios) que basen su modelo económico en La Larga Cola.
+
+Google, amazon, ebay, mercadolibre.
+
+6.  ¿Cuáles son las 3 fuerzas o principios en los que se basa la Larga
+    Cola?
+
+Las tres fuerzas o principios de Long Tail son:
+
+1.  Democratizar las herramientas de producción: Esta fuerza permite
+    ofrecer al mercado herramientas que solo utilizaban los
+    profesionales y no la gente común convirtiéndolos en productores,
+    ejemplo, la computadora. De esta manera la producción de material
+    aumenta de forma exponencial. En consecuencia, el universo de
+    contenidos disponibles ahora está creciendo con más rapidez que
+    nunca. Resultado: Más productos, lo que extiende la larga cola
+
+2.  Reducir los costes del consumo mediante la democratización de la
+    distribución: Este principio postula que al bajar los costos de
+    distribución de herramientas de producción logra que aumente de
+    manera eficaz la liquidez del mercado en la larga cola. El hecho de
+    que alguien pueda crear un contenido solo es significativo si otros
+    pueden disfrutarlo. Un claro ejemplo es internet el cual permite
+    llegar a más personas con un coste más bajo que los camiones o
+    cualquier tipo de distribución física.
+
+3.  Conectar la oferta y la demanda: Se presenta a los consumidores los
+    nuevos productos ahora disponibles, y orientar la demanda hacia la
+    larga cola. Esta fuerza describe el poder llevar esos productos
+    hacia los consumidores para evitar la pérdida de tiempo de búsqueda
+    .En términos económicos, los costes de búsqueda aluden a todo lo que
+    nos impide encontrar lo que deseamos. Algunos de estos costes no son
+    monetarios, como el tiempo perdido, el esfuerzo, el mal rato y la
+    confusión.
+
+7.  ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas
+    brevemente.
+
+Las principales reglas de Long Tail son:
+
+1.  Reduzca sus costes:
+
+    a.  Use un inventario digital: Los productos están ubicados
+        físicamente en el almacén de un socio pero son exhibidos y
+        vendidos en un sitio web logrando un mayor alcance, Eliminar los
+        átomos o las limitaciones del espectro de transmisión es una
+        poderosa manera de reducir los costes y permitir el crecimiento
+        de un nuevo mercado de nichos.
+
+    b.  Deje que los clientes hagan el trabajo: Hacer que los usuarios
+        estén dispuestos a hacer a gratuitamente algo por lo que, en
+        otras circunstancias, las compañías deberían pagar a alguien.
+        Esto no es subcontratación, es multi contratación. Esto no da
+        una ventaja económica y de calidad ya que también se puede
+        obtener un mejor trabajo. Solo la producción colectiva tiene la
+        capacidad para cubrir toda la extensión de la larga cola.
+
+2.  Piense en lo nichos
+
+    a.  No hay un método de distribución para todo: No concentrarse en
+        la distribución a un grupo de clientes, usar todos los canales
+        de distribución posible para no perder potenciales clientes. No
+        limitar las fronteras geográficas ni hacer conjeturas sobre lo
+        que la gente quiere y cuando lo quiere.
+
+    b.  No hay un producto que se adapte a todos: Usar la micro
+        segmentación definida por Umar Haque. La mejor estrategia es
+        separar los contenidos en sus partes, para que la gente puede
+        consumirlos del modo que desea, así como mezclarlos con otros
+        contenidos para crear algo nuevo.
+
+    c.  No use un precio único: El precio variable puede ser una
+        poderosa técnica para aumentar el valor de un producto y la
+        dimensión del mercado. El precio variable es el modelo apropiado
+        para la música y todos los demás sectores donde los costes
+        marginales de fabricación y distribución son insignificantes.
+
+3.  Menos control
+
+    a.  Comparta la información: Compartir la información con el cliente
+        puede ser una estrategia de marketing. Ofrecer más información
+        es mejor, pero solo cuando se presenta de un modo que pueda a
+        organizar las opciones, no confundirlas más. Convertir los
+        mejores productos en recomendaciones para los clientes es una
+        buena manera de compartir la informacion. Esto explica porque un
+        consumidor que obtiene una serie de recomendaciones adquiere
+        confianza en el sistema y ayuda a los otros a usarlo mejor. La
+        transparencia puede generar confianza sin coste alguno.
+
+    b.  Piense en una cosa y otra, no en una u otra: En los mercados, la
+        estrategia apropiada casi siempre es ofrecer todos los
+        contenidos.
+
+    c.  Deje que el mercado trabaje para usted: Predecir es mucho más
+        difícil que estimar. En los mercados abundantes simplemente
+        podemos ofrecer todo y ver que sucede, dejando al mercado que
+        haga la selección. En la actualidad se obtienen métricas sobre
+        el mercado como productos más vendidos, cantidad de usuarios,
+        cantidad de visitas, etc. Esta regla propone no predecir sino
+        medir el mercado y responder con lo que exige.
+
+    d.  Reconocer la fuerza de la gratuidad: Con esta regla podemos
+        atraer una gran cantidad de usuarios y luego poder convencer a
+        algunos para que utilicen un servicio adicional. Los mercados
+        digitales pueden ser gratuitos ya que sus costes son casi ceros.
+        Como los costes de servicios digitales son bajos, los clientes
+        gratuitos les cuestan tan poco a la compañía que puede
+        permitirse convertir solamente a una pequeña fracción en clients
+        pago.

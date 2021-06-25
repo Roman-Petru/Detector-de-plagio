@@ -1,0 +1,110 @@
+TP 4 - Comercio electrónico en Argentina
+
+Usar la web, comentarios en clase y fundamentalmente la nota sobre el
+tema en el blog #Cyberia de Prince Consulting (Medium):
+https://medium.com/prince-consulting/el-comercio-electr%C3%B3nico-en-argentina-2018-e2c8d32c8207
+
+1) Busque en la web, y defina y diferencie a su criterio y en pocos
+renglones y claramente e-business, e-marketing y e-commerce.
+
+-   e-business: Gestionar los procesos y operativas de negocio, de modo
+      parcial o total, sobre una infraestructura digital. E-business no
+      se refiere a vender o comprar en internet, se refiere a una
+      estrategia global orientada a redefinir los procesos de negocio ya
+      existentes, con el soporte de la tecnología y con el objetivo
+      básico de maximizar la rentabilidad y el valor hacia el
+      consumidor. Esto permite crear una estrategia con perspectivas de
+      futuro que ayude a mejorar las condiciones y la infraestructura de
+      cada compañía, con el objetivo de ganar en rentabilidad.
+
+-   e-marketing: es un conjunto del e-business, en el que se utilizan
+      medios electrónicos para llevar a cabo actividades de marketing,
+      con el fin de lograr los objetivos de marketing establecidos por
+      la organización. Marketing en Internet, Marketing online,
+      Marketing interactivo, Marketing digital, son distintas formas de
+      nombrar el concepto del e-Marketing.
+
+-   e-commerce: Comprar y vender a través de medios electrónicos.
+      E-Marketing engloba un rango mayor de actividades más allá de las
+      puramente transaccionales, por lo que desde este punto de vista se
+      puede considerar que el e-Commerce forma parte del e-Marketing. Es
+      un aspecto esencial para agilizar las ventas en Internet. El
+      usuario debe sentirse cómodo y seguro en las transacciones y
+      compras que realiza. Por eso, llevar una buena gestión del
+      e-commerce permitirá aumentar las ventas y la confianza entre
+      compañía-comprador.
+
+2) Busque en la web el tamaño (ventas anuales) del comercio electrónico
+B2C o minorista (en u$d) a 2018 (o 2017) en Argentina, Estados Unidos,
+Colombia, Chile y Brasil. También busque la cantidad de usuarios de
+internet en esos países. La población y el PBI Cite las fuentes y fechas
+del dato. Use el cuadro para poder visualizar y comparar
+
+  País/ Dato 2018   Volumen del e- commerce b2c en U$D   Usuarios de internet en millones   PBI en millones de U$D           Población en millones
+  ----------------- ------------------------------------ ---------------------------------- -------------------------------- -----------------------
+  Argentina                                              33.561.876 (2017)                  637.6 miles de millones (2017)   44.270.000 (2017)
+  Chile                                                  14.864.456 (2017)                  277.1miles de millones (2017)    18.050.000 (2017)
+  Brasil                                                 141.206.801 (2017)                 2.056 billones (2017)            209.300.000 (2017)
+  Colombia                                               30.548.252 (2017)                  309,2 miles de millones (2017)   49.070.000 (2017)
+  Estados Unidos                                         244.090.854 (2017)                 19.39 billones (2017)            327.200.000 (2018)
+
+3) Del blog de Prince, conteste cuál ha sido el crecimiento del
+e-commerce b2c (incluye el c2c) medido en dólares en los últimos 10
+años.
+El comercio electrónico ha tenido un incremento interanual promedio en
+los últimos 10 años del 46%.
+
+4) Del mismo blog, indique cuál es (en Argentina y aproximadamente) el
+porcentaje de compradores online a fin de 2018 respecto del total de
+usuarios de internet.
+Es del 80%
+
+5) Enuncie 5 o 6 de los principales factores que han hecho crecer en el
+país, en los últimos 10 años al e-commerce.
+
+-   El aumento de empresas vendedoras y revendedoras, y de los rubros,
+      productos y servicios ofrecidos.
+
+-   Mejoras relativas en la calidad y eficiencia del servicio logístico
+      y entregas.
+
+-   Un incremento de la proporción de compradores en relación al total
+      de usuarios de internet.
+
+-   El crecimiento de los usuarios de internet y de la proporción de
+      estos que compran en línea.
+
+-   La explosión de la conectividad y de la movilidad.
+
+-   La mayor frecuencia de compra y del monto de compra por parte de los
+      compradores más antiguos fruto de la curva de aprendizaje.
+
+-   Un gran desarrollo de diversos medios de pago electrónico seguros y
+      convenientes.
+
+-   Y hasta parte del 2017, una proliferación de promociones y planes de
+      pago con tarjeta sin interés.
+
+6) Cuál ha sido, en dólares y en promedio el gasto anual por comprador
+online en Argentina de 2008 a 2018? Estima que en 2019 ese valor caerá o
+subirá, porque?
+El gasto promedio por comprador desde 2008 a 2018 fue de U$D 290.
+
+7) Qué porcentaje aproximado de las ventas totales minoristas (on y
+offline) representa en el país la venta online? Y en Estados Unidos a
+cuánto asciende ese porcentaje según diversas fuentes?
+
+En Argentina las ventas online en el país representan un 1,7 % de la
+ventas minoristas totales. En Estados Unidos va desde un 9% hasta un
+14%.
+
+8) Que piensa que pasará/está pasando con la venta online en Argentina
+en este año, dada la situación macroeconómica y la fuerte devaluación?
+Recuerde los factores que hicieron crecer a este mercado de 2008 a 2018.
+En mi opinión no creo que el comercio online cresca cuando cierre el
+2019. Por la fuerte devaluación y también porque el costo de vida es
+cada vez más alto. A su vez productos de la canasta básica y no tan
+básica pero comestibles suelen comprarse por canales tradicionales aún.
+
+9) Ha comprado algo online la última semana? Qué? En qué sitio?
+Sí, un secador de pelo por MercadoLibre

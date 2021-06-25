@@ -1,0 +1,125 @@
+Marketing en Internet y Nueva Economía
+
+Ingeniería en Sistemas de Información
+
+[]
+
+Trabajo Práctico Nº5
+
+La sociedad de costo marginal cero
+
+Alumno: Levy Nazareno Isaac
+
+Legajo: 141.910-9
+
+E-mail: nazareno.levy@gmail.com
+
+PREGUNTAS TP - (Test de lectura sobre capítulos 1 y 5)
+
+La sociedad de costo marginal cero; Jeremy Rifkin
+
+1.  Puede describir el vínculo entre las leyes de la termodinámica de
+    Newton y la “factura entrópica”.
+
+2.  Podría caracterizar la Primera y Segunda revolución industrial al
+    decir de Rifkin? Qué inventos son las metáforas de cada
+    infraestructura en cada una de esas etapas.
+
+3.  Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+    3ra revolución industrial?
+
+4.  Qué entiende Rifkin por una producción abierta, distribuida y
+    colaborativa?
+
+5.  Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+    límites le ve Ud. a los procomunes como forma de producción?
+
+6.  A la sociedad /economía del conocimiento, entendida como la 3ra
+    revolución de Rifkin, cuál de las infraestructuras claves estaría
+    más demorada y porqué? qué estaría faltando?
+
+7.  Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+    procomún, comparado con el sistema capitalista?
+
+8.  Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+    actual de la economía, elija uno de estos “apellidos” y justifique
+    brevemente.
+
+E. colaborativa
+
+E. de la Información
+
+E. del Conocimiento
+
+E. Digital
+
+E. Sustentable
+
+E. intangible o “sin peso”
+
+E. sin “fricción”.
+
+NOTA: las respuestas no deberán superar en su conjunto a 2 páginas del
+mismo formato que esta guía.
+
+1. El concepto de factura entrópica se refiere al impacto ecológico que
+está teniendo nuesra economía sobre el medio ambiente.
+
+La primera ley de la Termodinámica expresa que “la energía total en el
+universo es constante y la entropía total aumenta contínuamente”, esto
+se relaciona a nuestra economía en que la energía que se utiliza para
+producir bienes y servicio no es totalmente aprovechada y parte de ésta
+se desecha. Produciendo consecuencias en la naturaleza. Por ejemplo, la
+entropía producida por la era industrial, forzando un cambio climático a
+nuestro planeta debido a las emisiones de dióxido de carbono.
+
+2. Ambas revoluciónes industriales crearon nuevas plataformas
+tecnológicas que ayudaron a separar y acotar las muchas
+interdependencias ecológicas de la tierra para el intercambio comercial
+y el benficio personal. Estas plataformas, estaban centralizadas y
+sometidas a un control jerarquizado.
+
+Primera revolución industrial: máquina a vapor, telégrafo y
+ferrocarriles.
+
+Segunda revolción industrial: motores de combustión interna, autos,
+aviones y comunicaciones por ondas electromagnéticas.
+
+3. El Internet de las cosas integra el entorno artificial y el medio
+ambiente natural en una red operativa coherente, aumentando la
+productividad hasta el punto que el coste marginal de producir bienes y
+servicios es casi nulo. El resultado es que la economía basada en la
+escasez deja paso, lentamente, a una economía de la abundancia.
+
+4. La producción abierta, distribuida y colaborativa según Rifkin es el
+aprovechamiento de las nuevas tecnologías para generar y transmitir
+contenido, de manera tal qué las personas interconectadamente puedan
+resolver problemas y obtener productos o servicios a costos muy bajos al
+eliminar los intermediarios tradicionales.
+
+5. Un ejemplo de procomun es Wikipedia: se basa en la tecnologia
+cooperativa, en donde en esta plataforma existen colaboradores que
+editan y publican artículos de información.
+
+La principal limitación de los procomunes como forma de producción la
+incapacidad de la sociedad de proteger los recursos procomunes de la
+sobreexplotación por parte un individuo, de manera tal qué no se pueda
+acceder a este de manera razonable e igualitaria.
+
+6. La infraestructura mas demorada es la energética, ya qué estaría
+faltando una manera de producir energía de manera barata, desconcentrada
+y masiva. Esto es debido a que nuestra estructura energética sigue
+dependiendo de los combustibles fósiles y todavía no se ha dado la
+conversión masiva hacia las energías renovables.
+
+7. Bajo el procomún, los individuos estan motivados en encontrar
+innovaciones para fomentar el bienestar social general, mas allá de lo
+monetario. En cambio, el sistema capitalista argumenta que si todo fuese
+gratuito, estas investigaciones y mejoras no podría ser posibles.
+
+8. Economía de la información: en la actualidad, existe la posibilidad
+de poder compartir y acceder a grandes cantidades de información de
+manera casi instantánea. Todavía falta mucho para masificar la
+colaboración y falta desarrollo para poder convertir la información en
+conocimiento. Dependemos de una matriz de producción física y nuestro
+actual modelo dista todavía de ser sustentable.

@@ -1,0 +1,251 @@
++----+-----------------------------------------+
+| [] |   Universidad Tecnológica Nacional      |
+|    |                                         |
+|    |   Facultad Regional Buenos Aires        |
+|    |                                         |
+|    |   Ingeniería en Sistemas de Información |
++----+-----------------------------------------+
+
+Marketing
+
+Profesor: Alejandro Prince, Hernan Borré
+
+Trabajo Práctico: Nro 3
+
+  NOMBRE Y APELLIDO   LEGAJO N°   EMAIL CONTACTO
+  ------------------- ----------- -----------------------
+  Joel Melamed        146.804-2   melamedjoel@gmail.com
+
+Fecha de entrega:
+
+19/09/2016
+
+Trabajo Práctico Nro 3 - Economía de experiencia
+
+Preguntas
+
+1)  Qué 3 elementos hacen resurgir con fuerza la idea de una economía de
+    experiencia?
+
+2)  Defina y caracterice una experiencia. Diferencias con Producto y
+    Servicio.
+
+3)  Explique y grafique las dimensiones y campos de la experiencia
+
+4)  Describa “impresiones” y sus distintas dimensiones.
+
+5)  De 3 ejemplos distintos (reales si conoce, o invente) de
+    experiencias con estimulación de los sentidos.
+
+6)  Qué es la personalización masiva? Explique la progresión del valor.
+
+7)  Cuáles son las ventajas para la empresa de la personalización
+    masiva?
+
+8)  Describa los 4 tipos de personalización masiva.
+
+9)  Qué aporta el ciberespacio al tema “sacrificio del cliente”?
+
+Respuestas
+
+1) Los 3 elementos que hacen que el concepto de la experiencia en la
+economía resurja con mayor fuerza ahora son los siguientes:
+
+-   La tecnología, que actúa como facilitador.
+
+-   La creciente intensidad de la competencia, que promueve la lucha por
+    diferenciarse.
+
+-   La prosperidad, ya que el hombre busca ahora más celebraciones,
+    menos rutina, más sorpresa, se siente insatisfecho con los productos
+    y servicios, se aleja de los commodities, espera verdaderas
+    experiencias.
+
+2) Las experiencias son aquellas que generan sensaciones personales,
+emocionales, físicas, espirituales, etc. El cliente está dispuesto a
+pagar (incluso capaz más de lo común) por pasar el tiempo disfrutando de
+una serie de eventos memorables que la empresa le ofrece a cambio de
+comprometerlo personalmente. Las empresas, justamente, utilizan los
+servicios como escenario y los productos como estímulo para comprometer
+al individuo. Ningún padre llevará a Disney a sus hijos por el paseo en
+sí (que sería el servicio), sino por pasar ciertos momentos compartidos
+que luego se convertirán en recuerdos imborrables. Las empresas que
+saben capturar esos momentos terminan no solo ganando la plata del
+cliente sino también, su corazón.
+
+Los productos y servicios, en cambios, son algo distinto. Un producto es
+aquello que nace a partir de la materia prima y convertido mediante una
+serie de procesos, en algo que para los clientes le da valor y pueden
+usarlo de manera inmediata. En resumen, es una mercadería que da valor
+para los clientes y los mismos pueden hacer uso de ellos de manera
+inmediata luego de su adquisición. El servicio, por otro lado, es
+customizado a pedido de cada cliente, y aporta mucho más que las
+materias primas (commodities), o los productos generales (que a su vez
+esos productos, son necesarios para poder brindar los servicios).
+Inicialmente, los fabricantes sumaron servicios a sus productos como una
+forma de mejorarlos, pero luego se vio que el servicio en sí era algo
+tan rentable dado el valor que los clientes le daban, que optaron por
+venderlo por separado y ser un negocio aparte, convirtiéndose las
+empresas que hacían eso, en proveedores de servicios. El servicio
+entonces consta de una serie de actividades que se pueden dar mediante
+los productos y que son customizadas para cada cliente, aportándole más
+valor al mismo (como por ejemplo, servicio de soporte técnico a la
+computadora luego de comprarla, donde la computadora sería el producto,
+y el servicio de soporte técnico, el servicio). Entonces, observamos a
+los commodities como fungibles, las mercaderías o productos, como
+tangibles, los servicios, como intangibles, y las experiencias en
+cambio, como momentos memorables para las personas. La experiencia va
+más allá.
+
+3) Presentar una experiencia implica "comprometer" al cliente en una
+serie de dimensiones. Esas dimensiones de la experiencia son las
+siguientes:
+
+-   Grado de participación: Una actitud pasiva no involucrará al
+    potencial cliente dado que este actúa como observador. La
+    participación, en cambio, es el otro extremo, donde el cliente
+    participa activamente y por ende es el protagonista.
+
+-   Conexión o relación entre el cliente y el evento: La relación entre
+    ambos puede verse desde comprometer solamente su atención, hasta
+    llegar a su inmersión física o virtual en el desarrollo del evento.
+
+Estas dimensiones cruzadas a su vez generan los 4 campos de la
+experiencia, que son:
+
+-   Entretenimiento
+
+-   Educación
+
+-   Escape o estética
+
+Todos estos campos son compatibles y combinables en encuentros
+personales únicos.
+
+[]
+
+4) Las impresiones son los recuerdos que el cliente se lleva de una
+experiencia, y están relacionadas también a la elección de un "tema",
+eje alrededor del cual los clientes o consumidores "organizan" sus
+impresiones que se pierden en la memoria. Un tema debe alterar el
+sentido de la realidad del participante, por ejemplo cambiando la
+percepción del entorno, el tiempo y espacio debe integrarse en un todo
+cohesivo, debe respetar el carácter de la empresa, debe ser cautivante y
+conciso al mismo tiempo. El tema tiene que ver con todo aquello que
+pueda alterar la realidad que el cliente percibe, como la arquitectura,
+la forma de atender de los empleados, la decoración, instalaciones, etc.
+Las impresiones por lo general, también están asociados a ciertas
+dimensiones como las siguientes:
+
+-   El tiempo: representaciones del tema pueden ser contemporáneas,
+    tradicionales, futuristas, etc.
+
+-   El espacio: se las puede diseñar locales o cosmopolitas, hogareñas o
+    en el ámbito del trabajo, en interiores o en exteriores, etc.
+
+-   La tecnología: Las hay artesanales, naturales, artificiales.
+
+-   La autenticidad: Las representaciones pueden ser originales, o
+    imitaciones.
+
+-   La sofisticación: nivel de refinamiento y lujo.
+
+-   La escala: Se puede representar como algo grandioso, o sencillo y
+    pequeño.
+
+5)
+
+-   Apple Store en New York: Cuando uno entra para comprar su producto,
+    recibe una atención personalizada de algún empleado, quien lo
+    atiende de lujo, en un lugar moderno, con colores sencillos, que a
+    uno lo atrapa al realizar la experiencia de comprar y luego no
+    quiere visitar otro Store que no sea el de Apple (respecto a la
+    compra de celulares).
+
+-   All Inclusive en el Caribe: Cuando uno contrata el servicio de All
+    Inclusive Hotel en el caribe (o en cualquier otro lugar del mundo),
+    recibe una experiencia única, donde todos los campos de la
+    experiencia se combinan: entretenimiento todo el día, atención
+    especializada, paisajes, estética, restaurantes con vista al mar
+    caribeño, experiencias de buceo y contacto con animales, etc.
+
+-   Rainforest Cafe: Uno va a tomar un café a un lugar donde además es
+    estimulado sensorialmente, dado que se ve la bruma bajar entre las
+    rocas, se percibe un olor húmedo tipo selva, etc.
+
+6) La customización o personalización masiva permite atender a los
+clientes de una forma única, combinando los imperativos vigentes de bajo
+costo e individualización que imponen los actuales mercados, turbulentos
+y competitivos. Aquellos que quieran lograr lo mejor de los dos mundos
+(tanto personalización como masividad), deberán dividir sus productos
+y/o servicios en módulos. Esta modularización permite determinar el
+universo de beneficios que la compañía puede ofrecer a sus clientes, y
+dentro de ese universo, las distintas posibles combinaciones específicas
+que en determinado momento puede proponer a un cliente en particular.
+Esas posibilidades también pueden revelarse mediante catálogos, menúes
+para completar, matrices de selección, o cualquier otra herramienta que
+permita al cliente determinar qué es lo que quiere.
+
+En la progresión del valor económico se puede ver esto desde varios
+puntos de vista: por un lado, como se llega desde el commodity hasta la
+propuesta de la experiencia, customizando cada vez más la materia prima:
+El commodity pasa a ser un producto, que luego se customiza y pasa a ser
+un servicio. El servicio, al ser customizado nuevamente, puede
+proponerse como experiencia. A su vez, con cada paso, el precio aumenta,
+hasta que al llegar a la experiencia se convierte en precio premium. La
+empresa también progresa, pasando de ser una empresa indiferenciada, a
+tener una posición competitiva (cuando ofrece productos y servicios) o
+más aún, a ser una empresa diferenciada al ofrecer una experiencia. Por
+último, otro de los componentes que progresa es la satisfacción del
+cliente, desde irrelevante, pasando por satisfacción de las necesidades,
+hasta relevante. Todo esto se da mediante una progresión.
+
+[]7) La personalización masiva permite a las empresas ir más allá de sus
+productos y servicios, para ofrecerle a los clientes sólo lo que buscan
+y esperan. Las ventajas de esto terminan siendo:
+
+-   Mejores precios
+
+-   Menos necesidad de descuentos
+
+-   Mayores ingresos por cliente
+
+-   Más cliente con menores costos de adquisición
+
+-   Niveles de retención más altos
+
+8) Los 4 tipos de personalización masiva son los siguientes:
+
+-   Personalización colaborativa (experiencia exploratoria): El cliente
+    tiene una opción u otra. La empresa interactúa directamente con él
+    para definir qué necesita y luego lo produce. Primero modifica la
+    representación del producto y luego el producto en sí mismo. El
+    valor final surge del trabajo en conjunto
+
+-   Personalización adaptativa (experiencia real): No cambia el producto
+    ni la representación del mismo, sino que el cliente "personaliza"
+    ambas a partir de cierta funcionalidad incluida en la oferta. El
+    cliente enfrenta una gran cantidad de ofertas y debe encontrar
+    aquella que mejor se ajuste a sus necesidades y requerimientos.
+
+-   Personalización cosmética (experiencia gratificante): Solo se trata
+    de "customizar" la representación, para lo que la compañía genera
+    distintas opciones para un mismo producto. Se modifican las "formas"
+    de un producto que siente especialmente diseñado para él.
+
+-   Personalización transparente (experiencia elusiva): El cliente
+    recibe una oferta a medida sin enterarse explícitamente del proceso
+    de personalización que se está llevando a cabo.
+
+9) El "sacrificio del cliente" se refiere a la brecha entre lo que el
+cliente realmente quiere y lo que finalmente acepta, donde decide si el
+producto o servicio tiene componentes lo suficientemente beneficiosos
+como para tolerar los negativos. Las empresas deberían empezar a mirar
+más esto. El ciberespacio es un excelente medio para evaluar el nivel de
+sacrificio dada su interactividad inherente, empezando por algo tan
+económico y sencillo como el mail. Permite también, a partir del
+marketing uno a uno, sentar las bases de una relación de aprendizaje que
+crece, se profundiza y se torna más inteligente con el tiempo. Cuanto
+más le enseñe el cliente a la empresa, mejor estará esta preparada para
+ofrecerle exactamente lo que necesita, y más difícil será para la
+competencia quitarle el lugar.

@@ -1,0 +1,130 @@
+Año: 2019
+
+Curso: K5571
+
+Nombre: Marina Pross
+
+Legajo: 141.882-8
+
+  -- -- --
+        
+        
+  -- -- --
+
+Consiga: Responder el siguiente cuestionario:
+
+1.  Busque en la web, y defina y diferencie a su criterio y en pocos
+    renglones y claramente e-business, e-marketing y e-commerce.
+    El uso de tecnologías de información en las empresas con el fin de
+    facilitar la compraventa de productos, servicios e información a
+    través de redes públicas, se lo denomina e-business.
+    Sin embargo, es gracias a la inclusión de internet y capacidades de
+    medios digitales (e-marketing) que dichas empresas hoy en día tienen
+    mayor posibilidad de vender, de llevar sus mensajes, sus productos y
+    servicios a la audiencia correcta.
+    Otro componente que favorece a esta era digital, es el comercio
+    electrónico (e-commerce) lo que falicita en la compraventa de
+    productos o servicios a través de medios electrónicos como páginas
+    web, redes sociales, etc.
+
+2.  Busque en la web el tamaño (ventas anuales) del comercio electrónico
+    B2C o minorista (en u$d) a 2018 (o 2017) en Argentina, Estados
+    Unidos, Colombia, Chile y Brasil. También busque la cantidad de
+    usuarios de internet en esos países. La población y el PBI Cite las
+    fuentes y fechas del dato. Use el cuadro para poder visualizar y
+    comparar
+
++-------------+-------------+-------------+-------------+-------------+
+| País/ Dato  | Volumen del | Usuarios de | PBI en      | Población   |
+| 2018        | e- commerce | internet en | millones    |             |
+|             | b2c en U$D  | millones    |             | en millones |
+|             |             |             | de U$D      |             |
++=============+=============+=============+=============+=============+
+| Argentina   | 10,673      | 37.2        | 475.000     | 44.7        |
++-------------+-------------+-------------+-------------+-------------+
+| Chile       | 6,000       | 19.4        | 252.474     | 18.7        |
++-------------+-------------+-------------+-------------+-------------+
+| Brasil      | 19,000      | 99.5        | 1.584.315   | 209.5       |
++-------------+-------------+-------------+-------------+-------------+
+| Colombia    | 6,000       | 31          | 333,11      | 45.5        |
++-------------+-------------+-------------+-------------+-------------+
+| Estados     | 504,582     | 274,5       | 17.426.080  | 327.2       |
+| Unidos      |             |             |             |             |
++-------------+-------------+-------------+-------------+-------------+
+
+https://medium.com/prince-consulting/el-comercio-electrónico-en-argentina-2018-e2c8d32c8207
+https://www.canal-ar.com.ar/27629-El-Comercio-Electronico-en-Argentina-en-2018.html
+http://esenciaonline.com.ar/2019/01/comercio-electronico-argentina-lidera-el-crecimiento-regional/
+https://knoema.es/atlas/Colombia/PIB
+
+  https://datosmacro.expansion.com/demografia/poblacion/brasil
+  https://es.statista.com/estadisticas/636484/estados-unidos-numero-de-usuarios-de-internet-de--a-2020/
+  https://www.infobae.com/economia/2019/01/05/argentina-retrocedio-al-puesto-26-entre-las-economias-mas-grandes-del-mundo/
+  https://www.matiasraby.cl/cifras-de-internet-en-chile/
+
+3.  Del blog de Prince, conteste cuál ha sido el crecimiento del
+    e-commerce b2c (incluye el c2c) medido en dólares en los últimos 10
+    años.
+    El crecimiento medido en dólares en los últimos 10 años del
+    e-commerce b2c más c2c es de 9 veces.
+
+4.  Del mismo blog, indique cuál es (en Argentina y aproximadamente) el
+    porcentaje de compradores online a fin de 2018 respecto del total de
+    usuarios de internet.
+    Aproximadamente los compradores en línea son el 80% de los 37.2
+    millones de usuarios de internet que hay.
+
+5.  Enuncie 5 o 6 de los principales factores que han hecho crecer en el
+    país, en los últimos 10 años al e-commerce.
+    Los principales factores que han hecho crecer en el país al
+    e-commerce son:
+
+    a.  La explosión de la conectividad y movilidad.
+
+    b.  Gran desarrollo de los medios de pago electrónico seguros y
+        convenientes.
+
+    c.  Aumento de empresas vendedores y revendedoras como también de
+        los rubros, productos y servicios ofrecidos.
+
+    d.  Mejoras en cuanto a la calidad y eficiencia en la logística y
+        entrega.
+
+    e.  Incremento de los compradores en relación al total de usuarios
+        de internet.
+
+    f.  Mayor cantidad de promociones y planes con tarjeta sin interés.
+
+6.  Cuál ha sido, en dólares y en promedio el gasto anual por comprador
+    online en Argentina de 2008 a 2018? Estima que en 2019 ese valor
+    caerá o subirá, porque?
+    En pesos, el gasto promedio de un comprador online subió de $5484 a
+    $7079 del 2017 al 2018. Si lo vemos en dólares, se mantuvo
+    aproximadamente en los U$D290 desde el 2008 hasta el 2018.
+    El crecimiento de este valor durante el 2019 dependerá de que cada
+    comprador haga más compras en el año y de mayor monto, dependiendo
+    esto a su vez de la situación macroeconómica del país.
+
+7.  Qué porcentaje aproximado de las ventas totales minoristas (on y
+    offline) representa en el país la venta online? Y en Estados Unidos
+    a cuánto asciende ese porcentaje según diversas fuentes?
+    Las ventas en línea en Argentina representan un 1.7% de las ventas
+    totales minoristas. Para Estados Unidos representa entre un 9% y 14%
+    de sus ventas minoristas.
+
+8.  Que piensa que pasará/está pasando con la venta online en Argentina
+    en este año, dada la situación macroeconómica y la fuerte
+    devaluación? Recuerde los factores que hicieron crecer a este
+    mercado de 2008 a 2018.
+    en el marco de eCommerce Day se dio a conocer la facturación para el
+    primer semestre del 2019 y el mismo mostró un incremento del 56% (en
+    pesos) con respecto al mismo periodo del 2018 y en cuanto a la
+    cantidad de productos, el incremento fue del 7%.
+    Si bien siguen apareciendo emprendimientos que influencian en este
+    mercado, no lo hacen con la misma intensidad que años anteriores.
+    Cabe destacar también la situación económica que está teniendo el
+    país, en donde no hay opciones tan variadas en las formas de pago
+    con descuento o planes de pago.
+
+9.  Ha comprado algo online la última semana? Qué? En qué sitio?
+    No.

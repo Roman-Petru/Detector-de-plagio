@@ -1,0 +1,149 @@
++----------------------------------+----------------------------------+
+| [9EP1tN5bG                       |   Universidad Tecnológica        |
+| 2R36e9lDjw8ev7jJLekATqX2WRUWJSz6 |   Nacional                       |
+| 0ERxXLAevgDy6epk9GhHN_vDi_xo5cSn |                                  |
+| tX6hXVQqnh8QnXKOR7gNlrbPJIvVcBgE |   Facultad Regional Buenos Aires |
+| dpAT4Tw23-hubSepS0GMiAqAo9ARs5h] |                                  |
+|                                  |   Ingeniería en Sistemas de      |
+|                                  |   Información                    |
++----------------------------------+----------------------------------+
+
+CURSO: 2 CUATRIMESTRE 2016
+
+Marketing en Internet
+
+Profesor: Alejandro Prince
+
+Ayudante: Hernan Borré  
+
+Trabajo Práctico: Wikinomics
+
+  NOMBRE Y APELLIDO   LEGAJO N°   EMAIL CONTACTO
+  ------------------- ----------- -----------------------
+  Hernán Noriega      146.666-5   hernannorie@gmail.com
+
+Fecha de entrega:    
+
+03/10/2016
+
+1. Puede describir el vínculo entre las leyes de la termodinámica de
+Newton y la “factura entrópica”.
+
+Los economistas convencionales no reconocen que las leyes de la
+termodinámica rigen toda la actividad económica. Las leyes primera y
+segunda de la termodinámica establecen que «la energía total en el
+universo es constante y la entropía total aumenta continuamente».18 La
+primera ley, la ley de la conservación, establece que la energía no se
+crea ni se destruye, que la cantidad de energía del universo siempre ha
+sido la misma desde el principio de los tiempos y lo seguirá siendo
+hasta el final. Pero aunque la energía permanece constante, se
+transforma continuamente en una sola dirección, de disponible a no
+disponible. Aquí es donde entra en juego la segunda ley de la
+termodinámica según la cual la energía siempre fluye de lo caliente a lo
+frío, de lo concentrado a lo disperso, del orden al caos.
+
+2. Podría caracterizar la Primera y Segunda revolución industrial al
+decir de Rifkin? Qué inventos son las metáforas de cada infraestructura
+en cada una de esas etapas.
+
+Y la factura entrópica de la era industrial ya ha vencido. La
+acumulación de emisiones de dióxido de carbono en la atmósfera a causa
+de la combustión de ingentes cantidades de combustibles fósiles ha dado
+lugar al cambio climático y a la destrucción sistemática de la biosfera
+terrestre poniendo en tela de juicio el modelo económico actual. En
+general, la economía aún debe hacer frente a la realidad de que la
+actividad económica está condicionada por las leyes de la termodinámica.
+La manifiesta incomprensión que esta profesión tiene de su propia
+especialidad es lo que provoca un replanteamiento del paradigma desde
+disciplinas como las ciencias naturales y sociales. Ya he abordado esta
+cuestión con más detalle en un capítulo de mi libro anterior, La Tercera
+Revolución Industrial, titulado «La hora de la jubilación para Adam
+Smith». En el otro frente, desde las entrañas mismas de la Segunda
+Revolución Industrial está surgiendo una plataforma tecnológica nueva y
+poderosa que acelera el final del capitalismo al acentuar su
+contradicción esencial. La unión del Internet de las comunicaciones con
+un Internet de la energía y un Internet de la logística incipientes en
+una infraestructura inteligente del siglo xxi perfectamente integrada
+—la llamada Internet de las cosas o IdC— está dando lugar a una Tercera
+Revolución Industrial.
+
+3. Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+3ra revolución industrial?
+
+Si las plataformas tecnológicas de las dos primeras revoluciones
+industriales ayudaron a separar y acotar las muchas interdependencias
+ecológicas de la Tierra para el intercambio comercial y el beneficio
+personal, la plataforma IdC de la Tercera Revolución Industrial (TRI)
+invierte este proceso.
+
+La unión del Internet de las comunicaciones con un Internet de la
+energía y un Internet de la logística incipientes en una infraestructura
+inteligente del siglo xxi perfectamente integrada —la llamada Internet
+de las cosas o IdC— está dando lugar a una Tercera Revolución
+Industrial. El Internet de las cosas ya está aumentando la productividad
+hasta el punto de que el coste marginal de producir muchos bienes y
+servicios es casi nulo, y esos bienes y servicios son prácticamente
+gratuitos. El resultado es que los beneficios empresariales se están
+empezando a evaporar, los derechos de propiedad pierden fuerza y la
+economía basada en la escasez deja paso, lentamente, a una economía de
+la abundancia
+
+4. Qué entiende Rifkin por una producción abierta, distribuida y
+colaborativa?
+
+Es una red diseñada para que sea abierta, distribuida y colaborativa, de
+modo que cualquier persona, en cualquier momento y lugar, tenga la
+oportunidad de acceder a ella y usar sus datos para crear aplicaciones
+nuevas con las que administrar su vida diaria con un coste marginal casi
+nulo.
+
+5. Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+límites le ve usted a los procomunes como forma de producción?
+
+Algunos ejemplos de procomunes actuales que se me ocurren son:
+
+-   Software libre: es aquel software que puede ser copiado, modificado,
+    utilizado libremente con cualquier fin y redistribuido con o sin
+    cambios o mejoras, donde la totalidad de los usuarios poseen la
+    capacidad de producir dicho software
+
+-   Uber: es la aplicación de transporte compartido más grande del mundo
+    gracias a la libertad de colaboración y producción de contenido de
+    la totalidad de usuarios que consumen esta plataforma.
+
+El límite que le veo a los procomunes como forma de producción es que
+este proceso de generación, transformación y producción está dado
+gracias a la voluntad de todos los que poseen acceso a dichos bienes,
+por lo que con que uno de esos individuos decida bajar la calidad del
+contenido o directamente romper con el mismo, se perjudica la totalidad
+de los consumidores (y productores).
+
+6. A la sociedad/economía del conocimiento, entendida como la 3ra
+revolución de Rifkin, cuál de las infraestructuras claves estaría más
+demorada y porqué? qué estaría faltando?
+
+Una infraestructura requiere de tres elementos claves que interactúan
+entre sí para que el sistema funcione como un todo: un medio de
+comunicación, una fuente de energía y un mecanismo de logistica. En el
+caso de la 3ra revolución industrial, el factor clave que estaría
+demorado es el de la fuente de energía. Esto se debe a que todavía falta
+una concientización por parte de las grandes empresas y compañías del
+mundo en que la utilización de energías renovables (como pueden ser la
+eólica y la solar) va a traer aparejado una enorme mejora en los
+procesos de producción debido a la amplia disponibilidad de las mismas y
+la amplia eficiencia de las mismas.
+
+7. Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+procomún, comparado con el sistema capitalista?
+
+En la pugna que sostienen la economía del intercambio y la economía del
+compartir, el último argumento al que podrían recurrir los economistas
+es que si todo fuese prácticamente gratuito no habría aliciente para
+innovar y crear nuevos productos y servicios porque ni inventores ni
+empresarios podrían cubrir sus costos iniciales. Aun así millones de
+consumidores colaboran de forma desinteresada creando tecnologías,
+medios de información sin ningún fin de lucro utilizando acuerdos
+legales basados en la libertad de acceso y sin las limitaciones
+generadas a partir de la propiedad intelectual. Esto provoca un aumento
+espectacular de la creatividad, equiparable a todas las innovaciones que
+han surgido en la economía capitalista.

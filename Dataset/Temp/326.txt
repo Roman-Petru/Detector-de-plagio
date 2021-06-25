@@ -1,0 +1,59 @@
+1)Cuáles son los 4 principios centrales del estudio de los sistemas
+emergentes?
+
+1.  Interacción de vecinos
+
+2.  Reconocimiento de patrones
+
+3.  Retroalimentación
+
+4.  Control indirecto
+
+2)Describa en no más de 10 renglones la particular conducta del
+Dictiostellum y sus implicancias.
+
+El moho de fango pasa buena parte de su vida como miles de organismos
+unicelulares distintos. Bajo las condiciones adecuadas se producirá la
+coalescencia de esas miríadas de células en un solo organismo mayor. Los
+organismos se manejan de manera independiente, no hay ningún marcapasos
+que los guíe.
+
+Cuando el entorno es menos favorable, el moho de fango se comporta como
+un organismo aislado; cuando el tiempo es más frío y el moho dispone de
+una cantidad de alimento mayor, "él" se transforma en "ellos". Es decir,
+se adapta al entorno.
+
+3)Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+
+La capacidad de todas las formas de vida de desarrollar cuerpos cada vez
+más complejos a partir de orígenes increíblemente simples (Es el proceso
+biológico que lleva a que un organismo desarrolle su forma). Fue
+desarrollada por Alan Turing.
+
+4)Describa los conceptos o conductas “adaptativas” y “complejas”.
+Describa sistema ascendente y sistema dinámico.
+
+Conducta adaptativa: El sistema estaría usando reglas locales entre sus
+agentes interactivos para crear un comportamiento de nivel superior
+adecuado a su entorno. Cumplen una función.
+
+El sistema ascendente se crea desde abajo para arriba, por los
+individuos, no por alguien que ordene que hacer (marcapasos).
+
+Un sistema dinámico va cambiando en el tiempo en base a reglas
+predefinidas.
+
+5)Describa un sistema emergente o autoorganizativo y diferéncielo de un
+sistema evolutivo o del caos.
+
+Sistema emergente: Sistemas que resuelven problemas recurriendo a masas
+de elementos relativamente no inteligentes en lugar de hacerlo
+recurriendo a un solo "brazo ejecutor" inteligente. este sistema no
+sería considerado emergente si las interacciones locales no fueran, en
+alguna forma, de macro conducta observable.
+
+Ej: las hormigas crean colonias, los habitantes de una ciudad crean
+barrios.
+
+Sistema evolutivo: La evolución se va dando por cambios al azar, en
+donde van sobreviviendo los más aptos para el entorno.

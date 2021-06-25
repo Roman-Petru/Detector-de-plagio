@@ -1,0 +1,135 @@
+PREGUNTAS TP
+
+Machine, Platform, Crowd: Harnessing Our Digital Future
+
+Andrew McAfee y Erik Brynjolfsson
+
+1.  Explique las tres grandes tendencias que están cambiando los
+    tradicionales modelos de negocio. Describa con ejemplos.
+
+2.  ¿Cómo transforma a la inteligencia humana, los productos y al
+    conocimiento centralizado (core)?
+
+3.  ¿Cómo afecta a los procesos, a la oferta y a la organización del
+    trabajo?
+
+4.  ¿Qué es machine learning y qué tareas permite realizar hoy en día?
+
+5.  ¿Qué podemos esperar de esta tecnología en un futuro cercano?
+
+6.  ¿Qué son los efectos de red? Describir ejemplos.
+
+7.  ¿Qué son las plataformas digitales O2O? ¿Qué ofrecen? Mencione
+    ejemplos de este tipo de plataformas.  
+
+8.  Describa los nuevos modelos de negocio que ofrecen las plataformas
+    digitales.
+
+NOTA: las respuestas no deberán superar en su conjunto a 2 páginas del
+mismo formato que esta guía.
+
+1)  Las tres tendencias son:
+
+    a.  Incremento rápido y expansivo de las capacidades de las
+          máquinas: La inteligencia artificial se contrapone a la
+          inteligencia humana. Ejemplos: El uso de chatbots para
+          atención de consultas frecuentes, otro ejemplo el uso de la
+          inteligencia artificial para reconocimiento de patrones como
+          voz, facial, etc.
+
+    b.  El surgimiento de las plataformas digitales: Las plataformas a
+          los productos y servicios. Ejemplos: Facebook, Airbnb, Uber.
+
+    c.  El conocimiento de las masas: El conocimiento de las masas al
+          conocimiento centralizado. Ejemplos: Bitcoin y blockchain.
+
+2)  En cuanto a la inteligencia humana, la tendencia es reemplazar el
+    juicio humano por el de las máquinas, la toma de decisiones basadas
+    en datos y menos confianza en el juicio de los expertos (sesgos,
+    prejuicios).
+
+  Las plataformas digitales aprovechan el poder de los bienes de
+  información. Estos bienes de información son fácilmente accesibles en
+  redes como Internet, los cuales tienen las características de ser
+  gratis, perfecto e instantáneo.
+
+  El core sigue siendo relevante y útil pero en la era de redes globales
+  y plataformas robustas, la masa es una fuerza poderosa.
+
+3)  La reconfiguración mente / máquina afecta a los procesos. La
+    reconfiguración producto / servicio afecta a la oferta. La
+    reconfiguración core / masa afecta al trabajo y a la organización.
+
+4)  El aprendizaje de las máquinas (machine learning) de construir
+    sistemas de software que puedan detectar patrones y formular
+    estrategias ganadoras luego de habérseles mostrado muchos ejemplos.
+    Los sistemas de machine learning mejoran a medida que se hacen más
+    grandes, corren sobre hardware más rápido y más especializado, ganan
+    acceso a más datos y contienen algoritmos mejorados. El uso de
+    machine learning se extiende en: la automatización de muchas tareas
+    que actualmente son efectuadas por la gente, especialmente en áreas
+    de búsqueda de patrones, diagnóstico, clasificación, predicción y
+    recomendación, visión, reconocimiento de voz y otras capacidades.
+
+5)  Si tenemos en cuenta que el objetivo es automatizar tareas sin
+    depender del juicio o criterio de los humanos, con lo cual, el
+    futuro de estas tecnologías es reemplazar a las personas en puestos
+    de trabajo donde no son necesarios, se logre mejor productividad y
+    reduzca costos.
+
+6)  Los efectos de red crean "economías de escala del lado de la
+    demanda", lo que significa que las redes más grandes obtienen una
+    ventaja significativa en la adquisición de nuevos clientes que las
+    redes más pequeñas. A partir del cual ciertos bienes son más
+    valorados porque hay más usuarios usándolos. Ejemplos: WhatsApp,
+    Mercado Libre, Visa, Uber.
+
+7)  Las plataformas O2O (online-to-offline) unen el mundo físico y
+    virtual, proveen más oportunidades para las personas que tienen
+    propiedad de los recursos. Estas plataformas aumentan la eficiencia
+    y la utilización de esos recursos, en el cual, dicho sistema de
+    reputación en las plataformas pueden mejorar la experiencia. Los
+    productores pueden tolerar los bajos precios de las plataformas.
+    Como ejemplo podemos mencionar plataformas chinas como Alibaba,
+    Aliexpress y otra norteamericana como Uber.
+
+8)  Los nuevos modelos de negocios que ofrecen las plataformas digitales
+    son:
+
+    a.  Modelo de negocio de código abierto: Un modelo de código abierto
+        hace que el software sea de libre acceso, y generalmente le da
+        la capacidad a una comunidad de programadores para que
+        contribuya a él.
+
+    b.  Modelo gratis: Lanzar un servicio gratuito para una base de
+        usuarios cada vez más grande. De esa manera atraen a los
+        primeros inversores, luego a los capitalistas de riesgo que
+        tuvieron que recurren al modelo de publicidad para monetizar a
+        sus usuarios, para evitar quedarse sin efectivo e inversores.
+
+    c.  Modelo freemium: En su núcleo, un modelo freemium tiene una
+        versión gratuita disponible para todos, sin restricción.
+        Solicita dentro de esos servicios gratuitos cambiar a
+        suscripciones pagadas para obtener más volumen, sin publicidad o
+        más datos.
+
+    d.  Modelo basado en suscripción: Es el modelo más utilizado
+        actualmente dentro de los comercios electrónicos, que es
+        suscribirse a un servicio o producto a través del pago de una
+        mensualidad por dicho servicio/producto. Este modelo puede ser
+        muy poderoso ya que conlleva algunas ventajas integradas:
+
+        -   Una base de usuarios leales.
+
+        -   Un flujo continúo de ingresos predecibles.
+
+        -   Un cuello de botellas de ventas más predecible.
+
+  Un ejemplo de este modelo, es el que utilizan los diarios on-line para
+  acceder a todo el contenido de la información.
+
+e.  Modelo bajo demanda: La Web finalmente permitió a las personas
+    consumir contenido a su propio ritmo y en su horario.
+
+f.  Modelo de comercio electrónico: se puede monetizar a través de
+    tarifas por cada transacción en una plataforma.

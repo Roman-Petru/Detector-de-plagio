@@ -1,0 +1,108 @@
+PREGUNTAS TP5 - (Test de lectura sobre capítulos 1 y 5)
+
+La sociedad de costo marginal cero; Jeremy Rifkin
+
+1. Puede describir el vínculo entre las leyes de la termodinámica de
+Newton y la “factura entrópica”.
+
+La factura entrópica implica que en cualquier proceso económico donde se
+produzca una transformación de energía siempre se tiene que tomar en
+cuenta el aumento de la entropía que se produce (implicando que parte de
+esa energía no se puede volver a utilizar). El ecosistema no puede
+compensar esta "pérdida" de energía y los resultados de la actividad de
+transformación de energía se expresan en forma de calentamiento global y
+destrucción de la biosfera terrestre.
+
+2. Podría caracterizar la Primera y Segunda revolución industrial al
+decir de Rifkin? Qué inventos son las metáforas de cada infraestructura
+en cada una de esas etapas.
+
+La primera y segunda RI fomentaron que el ser humano se vuelva
+independiente de los ecosistemas y las limitaciones ecológicas que
+implica pertenecer al mismo. Es decir, se podía acceder al beneficio
+económico/personal sin tener en cuenta los efectos en el medio ambiente.
+
+1ra RI>
+
+Comunicación: Telégrafo/Ferrocarriles,
+
+Energía: Vapor (carbón),
+
+Logística: Ferrocarriles, modelo de producción de Adam Smith
+
+2da RI>
+
+Comunicación: Teléfono/Radio,
+
+Energía: Petróleo/Gas/Electricidad,
+
+Logística: Cadena de Montaje (Ford, Taylor)
+
+3ra RI>
+
+Internet de las Comunicaciones,
+
+Internet de la Energía,
+
+Internet de la Logística
+
+3. Qué dice Rifkin que la “internet de las cosas IOT” le aportará a la
+3ra revolución industrial?
+
+Ayudará a la humanidad a transformar los procesos económicos de manera
+poder aumentar la productividad y eficiencia termodinámica sin poner en
+riesgo al ecosistema. En definitiva, será el motor para alcanzar la
+economía del Costo Marginal Cero
+
+4. Qué entiende Rifkin por una producción abierta, distribuida y
+colaborativa?
+
+Quiere decir que cualquier persona puede (cuándo y dónde sea) acceder a
+medios de producción, utilizar las herramientas para su beneficio y a su
+vez con su aporte beneficiar al resto de la comunidad.
+
+5. Qué ejemplos actuales de “procomunes” se le ocurren? Describa. Qué
+límites le ve Ud. a los procomunes como forma de producción?
+
+Hoy en día podemos ver ejemplos de Procomún en fábricas recuperadas por
+sus empleados o cooperativas donde todos los que lo forman son dueños de
+los medios de producción. La limitante que tienen estas organizaciones
+es que no suelen crecer de manera estable para poder ser competitivas en
+el mercado. Parte de esto se debe a que el proceso de toma de decisiones
+(al haber muchas personas) se torna engorroso y lento. Probablemente
+esta limitación se vea disminuida gracias a los avances de internet y en
+el futuro surjan más organizaciones de este estilo.
+
+6. A la sociedad /economía del conocimiento, entendida como la 3ra
+revolución de Rifkin, cuál de las infraestructuras claves estaría más
+demorada y porqué? qué estaría faltando?
+
+La infraestructura que se encuentra mas demorada es la Energia (Energia
+renovable con costo 0). En parte debido a que los costos iniciales son
+elevados y las presiones de los grandes jugadores de las energías
+fósiles. Falta que de parte de los estados y las empresas se realicen
+más inversiones para disminuir los costos de investigación, desarrollo e
+Implementación
+
+7. Cómo funcionaría (o se garantizaría) la ”innovación” bajo el
+procomún, comparado con el sistema capitalista?
+
+Se garantiza democratizando el acceso a la información y sin
+limitaciones de propiedad intelectual (o con costos cercanos a 0). Esto
+permite compartir conocimiento, programas, recursos, etc. con toda la
+población mundial y son estas interacciones las que fomentan la
+innovación.
+
+8. Acorde su lectura de Rifkin y las clases de Prince, para el estadío
+actual de la economía, elija uno de estos “apellidos” y justifique
+brevemente.
+
+E. de la Información: Hoy en día lo que más valor representa en la
+economía es la información y como los prosumidores la consumen y
+comparten. Todavía no llegamos a un estado donde su acceso sea
+totalmente universal y el IoT se encuentra en sus primeras fases de
+expansión. A su vez, las empresas son capaces de ofrecer servicios
+"gratuitos" para los usuarios a cambio de la información que ellos
+producen (el capital de Facebook o Google no son sus plataformas ni su
+infraestructura, sino la información acerca de sus usuarios y el
+comportamiento de los mismos.
