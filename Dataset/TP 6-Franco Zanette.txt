@@ -1,0 +1,31 @@
+Alumno: Franco Zanette (147.074-7)
+Institución: UTN-FRBA
+TP: TP Nº 6 “Sistemas Emergentes”
+1) Cuáles son los 4 principios centrales del estudio de los sistemas emergentes?
+2) Describa en no más de 10 renglones la particular conducta del Dictiostellum y sus implicancias.
+3) Qué es la morfogénesis, quién desarrolló esta idea en 1954?
+4) Describa los conceptos o conductas “adaptativas” y “complejas”.  Describa sistema ascendente y sistema dinámico.
+5) Describa un sistema emergente o autoorganizativo y diferéncielo de un sistema evolutivo o del caos. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Los principios centrales del estudio de los sistemas emergentes son: la interacción de vecinos, el reconocimiento de patrones, la retroalimentación y el control indirecto.
+2) El moho de fango (Dictyostelium) se comporta gran parte de su vida como miles de organismos unicelulares distinto, cada uno se mueve independientemente de sus demás compañeros. Solo bajo las condiciones adecuadas se produce la unificación de esas células en un solo organismo mayor que comienza a reptar pausadamente por el suelo, consumiendo a su paso hojas y cortezas en descomposición. El moho de fango oscila entre ser una única criatura y una colonia. 
+El entendimiento del comportamiento del Dictyostelium implicaría poder entender de una vez por todas el misterio de la fisiología humana (compuesta también por una gran cantidad de células que trabajan en conjunto como una sola unidad).
+3) La morfogénesis trata acerca de la capacidad de todas las formas de vida de desarrollar cuerpos cada vez más complejos a partir de orígenes increíblemente simples. Esta idea fue desarrollada por Turing en 1954.
+4) La conducta adaptativa tiene lugar cuando un sistema utiliza reglas locales entre sus agentes interactivos para crear un comportamiento de nivel superior adecuado a su entorno.
+La conducta compleja tiene lugar cuando agentes múltiples pertenecientes a un mismo sistema  interactúan en forma dinámica de múltiples maneras, siguiendo reglas locales e independientes de cualquier instrucción de un nivel superior.
+Un sistema dinámico  es todo tipo de sistema que no es inerte ni desintegrado
+Los sistemas ascendentes son aquellos que resuelven problemas recurriendo a masas de elementos relativamente no inteligentes en lugar de hacerlo recurriendo a un solo “brazo ejecutor” inteligente. Son sistemas complejos de adaptación que despliegan comportamientos emergentes, donde los agentes que residen en cierta escala  comienzan a producir comportamientos que yacen en una escala superior a la suya
+5) Los sistemas auto organizados son aquellos en los que emergen patrones regulares a partir de la aleatoriedad de niveles inferiores. Mientras que en los sistemas caóticos emergen conductas impredecibles a partir de reglas deterministas de niveles inferiores.

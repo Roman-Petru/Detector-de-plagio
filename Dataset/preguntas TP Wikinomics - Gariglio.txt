@@ -1,0 +1,55 @@
+TP Wikinomics:
+
+1.- Desarrolle el concepto “producción entre iguales”.
+
+Es un nuevo concepto que surge con la accesibilidad masiva a la tecnología que describe como las personas no solo consumen información del medio sino que también la producen e intercambian, colaboran entre sí, potenciando la innovación y la creatividad. Los mismos usuarios son los que producen el valor agregado.
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía. 
+Dé  un ejemplo de cada una.
+
+* Apertura: Asociado a la franqueza y la honestidad de una empresa. Compartir hacia fuera información que antes era limitada a socios, gerentes y empleados. También está relacionado con la apertura en la sociedad y la eliminación de fronteras. Ejemplo: una empresa que publica sus estados contables o una universidad que libera de manera gratuita los cursos que brinda.
+
+
+* Interacción entre iguales: Eliminación de las estructuras jerárquicas tradicionales y adopción de modelos horizontales, donde cada persona tiene la misma categoría. Ejemplos de esto son la mayoría de proyectos Open Source, donde cualquier par (peer) puede introducir cambios y mejorar el sistema.
+
+* Compartir: abrir el acceso a lo que antes era la propiedad intelectual para de esta manera fomentar la innovación y la creatividad, lo que en un futuro implica mejores resultados económicos. Ej: Una empresa que perfecciona una tecnología y la comparte hacia el resto del mercado, para que este se expanda. 
+
+* La actuación global: No limitarse a un solo mercado local, sino que ampliar al empresa a los distintos mercados globales. Ej: Una empresa tiene distintas estrategias de marketing basadas en la actualidad sociocultural de cada país.
+
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración masiva.
+
+Emergencia es la creación de atributos, estructuras y capacidades que no son propios de ningún nodo de una red por si solo. Por ejemplo: Un gobierno o una organización libera una API, y cientos de desarrolladores crean aplicaciones de alta calidad que se nutren de esos servicios como es el caso de Twitter. Si bien Twitter tiene un aplicación propia para móviles, gracias a que libero su API nacieron clientes de la plataforma que son incluso mejores que lo que la misma empresa puede ofrecer de manera oficial.
+
+
+
+
+
+
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene? Explique qué y cuáles son los costos de transacción.
+
+La ley enunciaba como las empresas se comportaban de “socialista” hacia adentro, donde los individuos cooperan entre si y no compiten en un mercado como enuncia el capitalismo. Esto se debe a que es suele ser mas barato que las transacciones se den dentro de una empresa y no en un mercado abierto, y se van a seguir realizando así mientras se mantenga esa condición. Los costos de transacción es el costo de cada actividad de una cadena de producción. Por ejemplo, en el caso de la fabricación de un auto serían: fabricar las ventanas, el chasis, las ruedas, etc… Si para una empresa es mas barato comprar las ventanas ya fabricadas que fabricarlas ella misma, la ley Coase indica que así lo va a hacer.
+
+
+5.- Qué elementos favorecen la producción colaborativa?
+
+La interconexión de las personas a través de internet y las herramientas que les permitan a los pares poder producir contenido. La existencia de plataformas como Wikipedia o Linux incentiva a que la producción se haga de manera colaborativa.
+
+6.- Qué rol juega la “autoselección” en la producción entre pares?
+
+Cuando las personas se autoseleccionan para llevara  cabo tareas  creativas basadas en conocimientos, es más probable que escojan tareas  para las que poseen una calificación excelente  que si la elección depende de gerentes. Además la autoselección motiva a los participantes de crear contenido de mejor calidad, ya que les genera experiencia muy valiosa en su carrera profesional
+
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales? 
+ 
+
+1. El objeto que se produce es informacion o cultura
+2. Las tareas pueden descomponerse y que la producción que sealice de manera incremental 
+3. El costo de combinar los aportes indivuduales debe ser bajo
+
+
+
+
+1
+
+

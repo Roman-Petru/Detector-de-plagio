@@ -1,0 +1,70 @@
+
+Marketing en Internet y Nueva Economía
+Ingeniería en Sistemas de Información
+
+
+
+Trabajo Práctico Nº2 
+La Larga Cola
+
+
+Alumno: Levy Nazareno Isaac
+Legajo: 141.910-9
+E-mail: nazareno.levy@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. ¿Cómo define Anderson a “La larga cola”?  ¿Por qué asegura que es el presente y futuro de la economía minorista? Grafique.
+Anderson define como “La Larga Cola” al conjunto de nichos de mercado que no aparentan tener una incidencia importante para las empresas minoristas tradicionales. Pero si éstos productos “no populares” se agrupan pueden aportar una ventaja competitiva importante, ya que las primeras no los ofrecerán al mercado. El conjunto de ventas de estos productos podrían igualar al de uno “popular”. Asegura que es el presente y futuro de la economía porque la “Long Tail” permite encontrar demandas sobre nuevo contenidos, posibilitando que mejore la retroalimentación a las tendencias y a las industrias.
+
+
+
+La zona en color verde demuestra la venta de los productos “populares”, se puede apreciar que la zona amarilla (los productos “no populares”) en su conjunto pueden ponderar una mejor capacidad de comercialización y ventas.
+
+
+
+2. Defina economía de escasez. ¿Cómo influye Internet en este concepto? 
+	La economía de la escasez se refiere a la época en donde no había suficiente espacio para ofrecer accesibilidad a todos los productos del mercado, por lo que sólo se concentraba en los populares, es decir, con los que se venden mejor. Con Internet, gracias a las ventas y distribuciones digitales, se pueden ofrecer cualquier tipo de productos o servicios a los consumidores a tal punto de llegar a un “mercado infinito”.
+
+3. Relacione los términos: Ley de Pareto, Economía de masas y Larga Cola. 
+	La ley de Pareto se basa principalmente en la regla 80/20, en donde explica en enfocarse en el 20% de los usuarios para poder obtener el 80% de las ganancias. De esta manera los principales minoristas se concentran en la economía de masas, en donde sólo ponen a disposición los productos con mayor volúmen de ventas. La larga cola en cambio, opta por aprovechar los productos no tan populares, orientando la demanda para que  puedan consumirlos y obteniendo una buena rentabilidad.
+
+4. ¿Por qué las tiendas online que basan su estrategia en Larga Cola igualmente necesitan ofrecer “Hits” a sus clientes?
+	Porque sino La Larga Cola se debilitará, ya que la demanda debe seguir a esta nueva oferta, y esto sólo ocurrirá si un conjunto de personas pertenecientes a esa demanda se “revela” y se orienta a los nichos menos populares.
+5. Dé 4 ejemplos internacionales o nacionales de empresas (productos o servicios) que basen su modelo económico en La Larga Cola. 
+	Rhapsody ofreciendo diferentes productos de música digital; Ebay y Amazon en la compra y venta de bienes; Netflix orientado a películas. 
+
+
+
+
+6. ¿Cuáles son las 3 fuerzas  o principios en los que se basa la Larga Cola? 
+	Las tres fuerzas son:
+* Democratizar las herramientas de producción: permitiendo que más personas tengan acceso a ellas, posibilitando la creación de nuevos productos o servicios de gran calidad.
+* Reducir los costes del consumo mediante la democratización de la distribución: con Internet, los contenidos pueden llegar a más personas a un menor coste, traduciéndose en un mayor consumo y aumento de ventas.
+* Conectar la oferta y la demanda: presentando a los consumidores estos nuevos productos y orientar la demanda hacia la larga cola.
+
+7. ¿Cuáles son las principales reglas de la Larga Cola? Descríbalas brevemente. 
+1. Usar un inventario digital: permite ofrecer una mayor variedad al saltearse la limitación física de los inventarios tradicionales.
+2. Deje que los clientes hagan el trabajo: los clientes muy interesados y que conocen mejor que nadie sus necesidades, estarán dispuestos a hacer gratuitamente algo que en otras circunstancias, las compañías deberían pagar a alguien.
+3. No hay un método de distribución para todo: cada persona es diferente a la hora de adquirir el producto, por lo que enfocarse en un sólo método de distribución podría ser causante de perder a otros clientes.
+4. No hay un producto que se adapte a todos: se define microsegmentación a la estrategia de separar los contenidos en diferentes partes, para que la gente pueda consumirlo del modo que prefiera.
+5. No use un precio único.
+6. Comparta la información: la transparencia de información puede generar confiaza sin coste alguno, ya que ayuda al cliente a clasificar el producto y elegir el que más le convenga.
+7. Piense en una cosa “y” otra, no en una “u” otra: en un mercado con capacidad infinita, la estrategia apropiada es siempre ofrecer todos los contenidos.
+8. Deje que el mercado trabaje para usted: en vez de adivinar qué se venderá, lo mejor es ofrecer todo y ver qué sucede.
+9. Reconozca la fuerza de la gratuidad: aprovechar los costes de casi cero para ofrecer gratuidad a los usuarios y convencer a éstos a que se pasen a un servicio premium mediante una suscripción.
+
+
+
+
+

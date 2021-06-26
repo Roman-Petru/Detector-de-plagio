@@ -47,9 +47,10 @@ class CompararParafraseo:
 
         similarity = pd.Series(res).groupby(level=0).max().mean()
 
-        if similarity > 0.8:
+        if 0.7 < similarity < 1:
             print("Se ha encontrado un posible parafraseo en la oración: ", texto_posible_plagio)
             print("Con respecto a la oración: ", texto_posible_ser_plagiado)
+            print("El porcentaje de similitud de estas dos últimas oraciones es de: ", similarity * 100)
             return True
 
 

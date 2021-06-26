@@ -1,0 +1,96 @@
+	
+
+
+
+Universidad Tecnológica Nacional
+Facultad Regional Buenos Aires
+Ingeniería en Sistemas de Información
+CURSO: K5071  - 2 CUAT. 2016
+Marketing en Internet y Nueva Economía
+
+Profesor:		Dr. Alejandro Prince
+         
+Ayudante:		Ing. Hernán Borré 	  
+		
+
+Trabajo Práctico: 	TP1 – Wikinomics
+
+Alumno: 		Santiago Peralta
+Legajo: 		117338-8
+TP Wikinomics:
+
+1.- Desarrolle el concepto “producción entre iguales”.
+
+La “producción entre iguales” es una forma de innovación y creación, producto de la colaboración abierta de las masas y empresas.
+
+Esto sucede gracias a las tecnologías de información disponibles que brindan los instrumentos necesarios para colaborar, y crear valor de forma autoorganizadas produciendo bienes y servicios que compiten con las grandes empresas del sector.
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía. 
+Dé  un ejemplo de cada una.
+
+Las 4 ideas o componentes de la wikinomía son:
+
+* Apertura: Las empresas deben abrirse y no encerrarse en sí mismo para depender de sus recursos y capacidades internas (recursos muy limitados), sino flexibilizar sus límites organizativos para crecer en colaboración con la comunidad y/o otras empresas.
+
+Ej.: Servidor Web Apache, es un servidor desarrollado y mantenido por la comunidad (Apache Foundation), el cual permite la publicación de página web. Actualmente es uno de los servidores más utilizados en internet.
+
+* Interacción entre iguales: Es la forma de organización horizontal que permite crear productos y servicios basados en información y en algunos casos objetos físicos. Rompe el esquema jerárquico de las organizaciones tradicionales, el qué y cómo hacer las cosas venían de forma vertical.
+
+Ej.: GNU/Linux, el S.O open source fue creado por Linus Trovalds y liberado a la comunidad la cual se auto organizó para hacer crecer el proyecto, siendo hoy en día unos de los S.O más utilizados en servidores.
+
+* Compartir: Trata la propiedad intelectual como si fuera un fondo de inversión colectiva, gestionar una cartera de propiedad intelectual equilibrada, algunos protegidos y otros compartidos.El compartir con los iguales potencia la capacidad de innovación de una propiedad, debido a que el conocimiento colectivo es mayor al disponible en una empresa.
+
+Ej: podemos Poner como ejemplos las comunidades abiertas de desarrollo de diferentes productos, que da soporte red hat.
+
+* Actuación global: Pensar y actuar de forma global (producto del contexto actual de globalización), eliminar las fronteras físicas y regionales de las empresas tradicionales y crear un ecosistema en la que pueden intervenir cualquier actor del mundo (proveedores, fabricantes, distribuidores todos englobados en un pensamiento global).
+
+Ej: Creo que un ejemplo puede ser Amanzon.
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración masiva.
+
+La emergencia es la creación de atributos, estructuras y capacidades que no son inherentes a ningún nodo de la red por sí solo (no es una creación propia de un sector sino una creación emergente producto de la colaboración masiva e interdisciplinaria).
+Es hacer uso de los recursos disponibles y generar nuevos recursos.
+
+Ej.: 
+* Wikipedia, no centra la información de una sola temática, sino que está abierta a cualquier temática, en los cuales expertos de diferentes sectores contribuyen con su conocimiento. 
+* KDE es una de las interfaces gráficas disponibles para las distribuciones Linux, y colaboran diseñadores, programadores, traductores, tester.
+* Meneame es una red de noticias donde son los usuarios que linkean las noticias y la califican para brindar las novedades más relevantes por la comunidad.
+
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene? Explique qué y cuáles son los costos de transacción.
+
+La ley de Coase dice: una empresa tenderá a expandirse hasta que los costes que supone organizar una transacción adicional dentro de la empresa igualen los costes que implica desempeñar esa misma función en el mercado abierto. Cuando salga más barato realizar una transacción dentro de la empresa, recomendable hacerlo así; en cambio sí resulta más económico salir al mercado, no hay que hacerlo de forma interna.
+
+Las implicancias que tienen hoy en día es que con los nuevos servicios online, a la empresa puede corroborar la fiabilidad de los productos y adquirirlo a un costo menor, por lo que se cumple con la última frase de Coase “en cambio sí resulta más económico salir al mercado, no hay que hacerlo de forma interna”, las empresas actualmente mantienen su identidad pero su proceso productivo y distributivo están dispersos en una red de productores/proveedores externo (en el pasado era menos costosos desempeñar las funciones dentro de la empresa que obtenerlo del mercado)
+
+Los costos de transacción son:
+* Costes de búsqueda: Localizar proveedores y determinar la idoneidad del producto.
+* Costes de contratación: Negociar el precio y las condiciones de contratación.
+* Costes de coordinación: Coordinar los diferentes productos dentro del proceso.
+
+5.- Qué elementos favorecen la producción colaborativa?
+
+Los elementos que favorecen a la producción colaborativa son las nuevas tecnologías. Que permiten la comunicación global y la disponibilidad de información a un bajo costo, el cambio paradigmático de “acceder al bien” en vez de poseerlo, la disminución en la barrera del mercado para introducir nuevos servicios, los cambios culturales que promueven la colaboración por un bien mayor.
+
+
+
+6.- Qué rol juega la “autoselección” en la producción entre pares?
+
+La “autoselección” (las personas se autoseleccionan para llevar a cabo proyectos donde son competentes y tienen interés) provee la eficacia de las personas en el desarrollo de un proyecto ya que se sienten por un lado motivado (por diversos motivos personales eligen la tarea, QUIEREN hacerlo) y por el otro se sienten idóneo para la actividad, cosa que en una empresa con recursos limitados posiblemente se haga más difícil encontrar esta combinación.
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales? 
+ 
+Las condiciones que favorecen la producción entre iguales son:
+
+* El objeto de la producción es información o cultura, una circunstancia que mantiene a un nivel bajo el costo de participación para las personas que contribuyen.
+
+* Las tareas pueden descomponerse en porciones reducidas que los individuos pueden aportar con pequeños incrementos y con independencia de los demás productores (a saber, entradas de una enciclopedia o componentes de un programa informático). Esto hace que la inversión global en tiempo y energía resulte mínima en comparación con los beneficios que reciben a cambio. 
+
+* El costo de combinar esas porciones para obtener un producto final terminado, incluyendo aquí el liderazgo y los mecanismos de control de calidad, debe ser bajo.
+
+
+
+
+
+
+4
+
+

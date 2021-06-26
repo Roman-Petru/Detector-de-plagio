@@ -1,0 +1,74 @@
+
+Marketing en Internet y Nueva Economía
+Ingeniería en Sistemas de Información
+
+
+
+Trabajo Práctico Nº1 Wikinomics
+
+
+Alumno: Levy Nazareno Isaac
+Legajo: 141.910-9
+E-mail: nazareno.levy@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+1.- Desarrolle el concepto “producción entre iguales”.
+
+El concepto “producción entre iguales” se refiere al caso en el que masas de personas y empresas colaboran abiertamente para potenciar la innovación y el crecimiento en sus sectores. Esto se produce gracias a la facilidad en acceso a las nuevas tecnologías de información, que ofrece instrumentos necesarios para colaborar, crear valor y competir. Algunos ejemplos determinantes son Myspace, Linux, YouTube y Wikipedia. Éstos, crecieron debido a la intensa colaboración de los usuarios en la generación de contenidos.
+
+
+2.- Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía. 
+Dé  un ejemplo de cada una.
+
+Las cuatro ideas en las que se basa la wikinomía son:
+* Apertura: se basa principalmente en romper con las políticas cerradas de las empresas, en donde la información quedaba dentro de las cuatro paredes de la organización. Este concepto se orienta a compartir ideas y estrategias, los causantes principales de esta definición son los clientes (ya que estaban cansados de estar atados a la arquitectura del fabricante) y a la transaparencia que demuestra el poder difundir esa información. Ejemplos claros de esto son Linus para los sistemas operativos; Progressive Insurance demostrando confianza a sus clientes por medio de la difusión de sus precios.
+* Interacción entre iguales: define un nuevo tipo de organización horizontal que desafía a las empresas con roles jerárquicos, orientándose en la creación de productos y servicios basados en la información. Estas organizaciones tienen éxito porque potencia la autoorganización, colaboración y motivación de sus integrantes, ya que éstos sienten que están aportando un valor agregado al producto o servicio. Linux es otro ejemplo claro de la interacción entre iguales.
+* Compartir: las empresas que optan por defender la propiedad intelectual de sus conocimientos, descubrimientos o innovaciones, tienden a paralizar su capacidad de crear valor. Actualmente, las empresas inteligentes prefieren optar por una mezcla de restricciones y libertades acerca de la propiedad intelectual, posibilitando una colaboración eficaz de información a otras organizaciones. El compartir también se extiende a otros recursos como capacidad informática, contenido y conocimiento científico. Un ejemplo de esta idea es la colaboración de capacidad informática mediante sistemas peer-to-peer.
+* Actuación global: una empresa verdaderamente global no tiene fronteras físicas, ni regionales. Por lo que la globalización en el ámbito económico causa en las empresas un cambio en la colaboración y en la manera que tienen las empresas de organizar la capacidad de innovar y producir cosas. Por ejemplo, en los últimos 20 años, China se convirtió en una de las economías más importantes del mundo, gracias a su apertura en el consumo de sus productos y servicios.
+
+
+3.- Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración masiva.
+
+Emergencia es la creación de atributos, estructuras y capacidades que no son inherentes a ningún nodo de la red por sí solo, es decir, no es una idea nueva. Por ejemplo Wikipedia, es el resultado de actividades y colaboraciones que se relacionan entre sí, realizadas por agentes con la ayuda de herramientas que otorga la Internet. Otro ejemplo es Flickr, que publicó abiertamente sus APIs de forma tal que atrajo una gran cantidad de nuevos features y usuarios, teniendo como consencuencia la ampliación de su negocio.
+
+4.- Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene? Explique qué y cuáles son los costos de transacción.
+
+La ley de Coase originalmente enunciaba que una empresa tenderá a expandirse hasta que los costes que supone una transacción adicional dentro de la empresa igualen los costes que implica desempeñar esa misma función en el mercado abierto. Es decir, que si es más barato realizar una actividad dentro de la empresa que en el mercado externo, contará con una mayor ventaja, en cambio si los costes son mayores, no hay que intentar realizar la actividad internamente. Actualmente, debido a la Internet, los costes de las actividades (o transacciones) han caído en picada, produciendo como consecuencia que la ley fuera más útil si se leyera al revés, es decir, las empresas deben replegarse hasta que el coste que supone realizar una transacción en forma interna no supere el coste que implica realizarla de forma externa.
+Los costos de una transacción se denominan como:
+* Costes de búsqueda: localizar los distintos proveedores y determinar la idoneidad de los bienes que ofrecen.
+* Costes de contratación: la negociación del precio y condiciones.
+* Costes de coordinación: encajar y organizar los distintos productos y servicios.
+
+5.- Qué elementos favorecen la producción colaborativa?
+
+Los elementos que favorecen la producción colaborativa son:
+* Los principios merocráticos de la organización (los miembros más calificados y experimentados lideran y ayudan a integrar los aportes de la comunidad)
+* La voluntariedad de los miembros para colaborar cuando quieran o puedan.
+* Los bajos costes en la producción de bienes o servicios.
+
+6.- Qué rol juega la “autoselección” en la producción entre pares?
+
+La “autoselección” permite una asignación eficaz a diferentes tareas, ya que la persona tomará responsabilidad de la tarea en la cual se sienta con más idoneidad.
+
+
+7.- Bajo qué 3 condiciones se favorece la producción entre iguales? 
+ 
+Las tres condiciones que favorecen la producción entre iguales son:
+1. El objeto de la producción es información o cultura, una circunstancia que mantiene a un nivel bajo el coste  de participación para las personas que contribuyen.
+2. Las tareas pueden descomponerse en porciones reducidas que los individuos pueden aportar con pequeños incrementos y con independencia de los demás productores.
+3. El coste de combinar esas porciones para obtener un producto final terminado, incluyendo aquí el liderazgo y los mecanismos de control de calidad, debe ser bajo.
+
+
+
+
+

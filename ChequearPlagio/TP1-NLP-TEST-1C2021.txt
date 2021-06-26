@@ -1,0 +1,166 @@
+ 
+
+Universidad Tecnológica Nacional  
+Facultad Regional Buenos Aires  
+Ingeniería en Sistemas de Información  
+
+ 
+
+Marketing en Internet y Nuevas Economías  
+
+ 
+
+Leg: 13-69062  
+
+Profesor: Alejandro Prince 
+
+Ayudante TPs: Hernán Borré  
+
+Trabajo Práctico: 1° 
+
+-WIKINOMICS - DOCUMENTO DE PRUEBA NLP FINAL 1er CUATRIMESTRE 2021 
+
+ 
+
+Tipo: Individual  
+
+Alumno HERNAN BORRE 
+
+13-69062/0 
+
+hborre@frba.utn.edu.ar 
+
+ 
+
+ 
+
+Fecha de entrega:  
+
+25/'06/2021 
+
+TP Wikinomics  
+
+ 
+
+1. Desarrolle el concepto “producción entre iguales”.  
+2. Enuncie y desarrolle las 4 ideas o componentes en las que se basa la wikinomía. Dé un 
+
+ejemplo de cada una.  
+
+3. Explique y dé ejemplos de la “emergencia”, como consecuencia de la colaboración 
+
+masiva.  
+
+4. Qué enunciaba la ley de Coase originalmente. Y ahora, que implicancias tiene?. 
+
+Explique qué y cuáles son los costos de transacción.  
+5. Qué elementos favorecen la producción colaborativa?  
+6. Qué rol juega la “autoselección” en la producción entre pares?  
+7.  Bajo qué 3 condiciones se favorece la producción entre iguales?  
+
+Respuestas:  
+
+1. Para Tapscott y Williams, el uso de las herramientas de la colaboración permite a los 
+
+consumidores participar en la creación de productos de una manera activa y permanente. 
+Los clientes se organizan para participar en la creación de productos que utilizan ellos 
+mismos, formando comunidades de prosumidores que comparten e intercambian 
+información y desarrollan nuevas herramientas, métodos y versiones de los productos.1 
+Algunos ejemplos de este tipo de trabajo son el Proyecto Genoma, Flickr, Myspace, 
+YouTube, Second Life y Wikipedia. 
+
+2. Las cuatro ideas novedosas en las que se fundamenta la wikinomía son: 
+
+a. La apertura,  
+b. La interacción entre iguales,  
+c. El compartir  
+d. La actuación global.  
+
+ 
+
+Interacción entre iguales:  
+Surge como nueva metodología la nueva organización horizontal, colaborativa. Entonces casi 
+desaparece la jerarquía, los miembros de la misma se autoorganizan para funcionar de la forma más 
+
+ 
+
+ 
+
+eficiente posible. Se impone el igualitarismo, pero existe una estructura subyacente. Esto es 
+comúnmente aplicado en empresas de desarrollo de software por ejemplo. A su vez, un ejemplo claro 
+de la aplicación de interacción entre iguales es la comunidad que desarrolla y mantiene Linux.  
+
+ 
+En este mismo momento, miles y hasta millones de equipos de personas están creando nuevas 
+enciclopedias, aviones comerciales, sistemas operativos, fondos de inversión y otros muchos 
+artículos. Aunque algunos directivos temen el crecimiento fabuloso de esas ingentes comunidades 
+en línea, Wikinomics demuestra lo infundados que están tales miedos. Las empresas inteligentes 
+son capaces de aprovechar esa capacidad y ese genio colectivos para espolear la innovación, el 
+crecimiento y el éxito. 
+
+3. La emergencia es la creación de atributos, estructuras y capacidades que no son 
+inherentes a ningún nodo de la red por sí solo. No es una idea nueva. El precio 
+constituye el mejor ejemplo de la característica emergente: en un mercado competitivo 
+ninguna empresa fija el precio, sino que lo hacen todas en forma colectiva.  
+
+La emergencia es una consecuencia de la colaboración masiva entre personas, y consiste en la 
+creación de atributos, estructuras y capacidades no inherentes a ningún nodo de la red por sí 
+solo. Un ejemplo de esto es el precio, el cual es fijado colectivamente por todas las empresas 
+que conforman el mercado.   
+
+4. El teorema de Coase señala que si los derechos de propiedad están bien 
+definidos y los costos de transacción son cero, la negociación entre las partes nos 
+llevará a un punto óptimo de asignación en el mercado  
+ 
+A lo largo de su vida, Coase -que nació en el barrio londinense de Willesd en y se educó en 
+Inglaterra antes de trasladarse a Estados Unidos en 1951- se convirtió en un icono de la 
+derecha. Su famoso "teorema de Coase" fue utilizado por políticos, agencias reguladoras y 
+jueces para justificar un enfoque no intervencionista de las grandes empresas que dejaba la 
+contaminación y otros problemas económicos a las fuerzas correctivas del mercado. En los 
+años setenta y ochenta, cuando la Escuela de Economía de Chicago barrió con todo lo anterior 
+en Washington y en los tribunales de la nación, la obra de Coase probó ser sumamente 
+influyente. En 1991, los suecos le dieron el Premio Nobel de Economía, una de las tantas 
+distinciones que recibió. 
+ 
+5. Los principales elementos que favorecen la producción colaborativa son: 
+
+• El desencadenamiento de la nueva economía por parte de la tecnología ha 
+transformado para siempre los costos y beneficios de producir información y colaborar. 
+• Resulta más eficaz que las empresas o los mercados para asignar tiempo y 
+atención a determinadas tareas.  
+
+• Funcionan realmente bien para atraer un acervo de talento más diverso y más 
+
+o menos disperso del que pueden conseguir las empresas por separado. 
+• Las personas que contribuyen disfrutan de la libertad y la experiencia de la 
+producción entre iguales.  
+
+ 
+
+6.  La autoselección en la producción entre pares aprovecha motivaciones voluntarias de 
+
+una manera que propicia la asignación de la persona adecuada con mayor eficacia que 
+las empresas tradicionales.  
+Cuando las personas se autoseleccionan para llevara  cabo tareas  creativas basadas en 
+conocimientos, es más probable que escojan tareas  para las que poseen una calificación 
+excelente  que si la elección depende de gerentes. Además la autoselección motiva a los 
+participantes de crear contenido de mejor calidad, ya que les genera experiencia muy valiosa en 
+su carrera profesional 
+
+ 
+
+7. La producción entre iguales se favorece bajo las 3 siguientes condiciones:  
+
+Bajo costo de participación para las personas que contribuyen a la producción 
+dado que es la información su objeto de producción 
+Se permite la descomposición de tareas en porciones más pequeñas. 
+Pudiendoles asignar a los productores, siendo estas lo más independientes entre 
+sí. Se logra obtener beneficios en tiempo y disminución de la energía utilizada 
+para lograr los objetivos 
+El costo de combinar las porciones de las tareas para obtener un producto 
+terminado. Se incluye el liderazgo, mecanismo de control de calidad,que debe 
+ser bajo. 
+
+ 
+
+
